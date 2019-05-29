@@ -33,3 +33,5 @@ Includes scripts used to draw most figures of the paper (using ggplot2 package o
 ## Stat files
 
 Stat files used by `draw-figures.R` and produxed by `commands.sh` are also included here for completeness 
+
+- `clade-defs.txt`: shows the definition of clades used in the Metatable (input to DiscoVista) 
