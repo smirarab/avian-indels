@@ -1,0 +1,1445 @@
+V1 V2 V3 V4 V5
+[combined] [combined] 
+[combined] combined-combined-05% 
+[combined] combined-indel-05% 
+[combined] combined-intron-05% 
+[combined] combined-nt-05% 
+[combined] combined-UCE-05% 
+[combined] [intron-indel] 
+[combined] intron-indel-00% 
+[combined] intron-indel-10% 
+[combined] intron-indel-20% 
+[combined] intron-indel-33% 
+[combined] intron-indel-03% 
+[combined] intron-indel-05% 
+[combined] intron-indel 
+[combined] [intron-nt] 
+[combined] intron-nt-00% 
+[combined] intron-nt-10% 
+[combined] intron-nt-20% 
+[combined] intron-nt-33% 
+[combined] intron-nt-03% 
+[combined] intron-nt-05% 
+[combined] intron-nt 
+[combined] [UCE-indel] 
+[combined] UCE-indel-00% 
+[combined] UCE-indel-10% 
+[combined] UCE-indel-20% 
+[combined] UCE-indel-33% 
+[combined] UCE-indel-03% 
+[combined] UCE-indel-05% 
+[combined] UCE-indel 
+[combined] [UCE-nt] 
+[combined] UCE-nt-00% 
+[combined] UCE-nt-10% 
+[combined] UCE-nt-20% 
+[combined] UCE-nt-33% 
+[combined] UCE-nt-03% 
+[combined] UCE-nt-05% 
+[combined] UCE-nt 
+combined-combined-05% [combined] 
+combined-combined-05% combined-combined-05% 45 0 0
+combined-combined-05% combined-indel-05% 45 6 .1333
+combined-combined-05% combined-intron-05% 45 2 .0444
+combined-combined-05% combined-nt-05% 45 2 .0444
+combined-combined-05% combined-UCE-05% 45 1 .0222
+combined-combined-05% [intron-indel] 
+combined-combined-05% intron-indel-00% 45 5 .1111
+combined-combined-05% intron-indel-10% 45 4 .0889
+combined-combined-05% intron-indel-20% 45 6 .1333
+combined-combined-05% intron-indel-33% 45 5 .1111
+combined-combined-05% intron-indel-03% 45 4 .0889
+combined-combined-05% intron-indel-05% 45 4 .0889
+combined-combined-05% intron-indel 45 6 .1333
+combined-combined-05% [intron-nt] 
+combined-combined-05% intron-nt-00% 45 1 .0222
+combined-combined-05% intron-nt-10% 45 2 .0444
+combined-combined-05% intron-nt-20% 45 3 .0667
+combined-combined-05% intron-nt-33% 45 4 .0889
+combined-combined-05% intron-nt-03% 45 1 .0222
+combined-combined-05% intron-nt-05% 45 1 .0222
+combined-combined-05% intron-nt 45 3 .0667
+combined-combined-05% [UCE-indel] 
+combined-combined-05% UCE-indel-00% 45 12 .2667
+combined-combined-05% UCE-indel-10% 45 12 .2667
+combined-combined-05% UCE-indel-20% 45 8 .1778
+combined-combined-05% UCE-indel-33% 45 9 .2
+combined-combined-05% UCE-indel-03% 45 13 .2889
+combined-combined-05% UCE-indel-05% 45 8 .1778
+combined-combined-05% UCE-indel 45 12 .2667
+combined-combined-05% [UCE-nt] 
+combined-combined-05% UCE-nt-00% 45 5 .1111
+combined-combined-05% UCE-nt-10% 45 5 .1111
+combined-combined-05% UCE-nt-20% 45 6 .1333
+combined-combined-05% UCE-nt-33% 45 6 .1333
+combined-combined-05% UCE-nt-03% 45 5 .1111
+combined-combined-05% UCE-nt-05% 45 6 .1333
+combined-combined-05% UCE-nt 45 3 .0667
+combined-indel-05% [combined] 
+combined-indel-05% combined-combined-05% 45 6 .1333
+combined-indel-05% combined-indel-05% 45 0 0
+combined-indel-05% combined-intron-05% 45 6 .1333
+combined-indel-05% combined-nt-05% 45 8 .1778
+combined-indel-05% combined-UCE-05% 45 7 .1556
+combined-indel-05% [intron-indel] 
+combined-indel-05% intron-indel-00% 45 6 .1333
+combined-indel-05% intron-indel-10% 45 5 .1111
+combined-indel-05% intron-indel-20% 45 8 .1778
+combined-indel-05% intron-indel-33% 45 7 .1556
+combined-indel-05% intron-indel-03% 45 5 .1111
+combined-indel-05% intron-indel-05% 45 5 .1111
+combined-indel-05% intron-indel 45 6 .1333
+combined-indel-05% [intron-nt] 
+combined-indel-05% intron-nt-00% 45 7 .1556
+combined-indel-05% intron-nt-10% 45 8 .1778
+combined-indel-05% intron-nt-20% 45 9 .2
+combined-indel-05% intron-nt-33% 45 9 .2
+combined-indel-05% intron-nt-03% 45 7 .1556
+combined-indel-05% intron-nt-05% 45 7 .1556
+combined-indel-05% intron-nt 45 9 .2
+combined-indel-05% [UCE-indel] 
+combined-indel-05% UCE-indel-00% 45 9 .2
+combined-indel-05% UCE-indel-10% 45 9 .2
+combined-indel-05% UCE-indel-20% 45 5 .1111
+combined-indel-05% UCE-indel-33% 45 7 .1556
+combined-indel-05% UCE-indel-03% 45 12 .2667
+combined-indel-05% UCE-indel-05% 45 5 .1111
+combined-indel-05% UCE-indel 45 9 .2
+combined-indel-05% [UCE-nt] 
+combined-indel-05% UCE-nt-00% 45 10 .2222
+combined-indel-05% UCE-nt-10% 45 10 .2222
+combined-indel-05% UCE-nt-20% 45 10 .2222
+combined-indel-05% UCE-nt-33% 45 10 .2222
+combined-indel-05% UCE-nt-03% 45 10 .2222
+combined-indel-05% UCE-nt-05% 45 10 .2222
+combined-indel-05% UCE-nt 45 8 .1778
+combined-intron-05% [combined] 
+combined-intron-05% combined-combined-05% 45 2 .0444
+combined-intron-05% combined-indel-05% 45 6 .1333
+combined-intron-05% combined-intron-05% 45 0 0
+combined-intron-05% combined-nt-05% 45 4 .0889
+combined-intron-05% combined-UCE-05% 45 3 .0667
+combined-intron-05% [intron-indel] 
+combined-intron-05% intron-indel-00% 45 3 .0667
+combined-intron-05% intron-indel-10% 45 4 .0889
+combined-intron-05% intron-indel-20% 45 7 .1556
+combined-intron-05% intron-indel-33% 45 6 .1333
+combined-intron-05% intron-indel-03% 45 2 .0444
+combined-intron-05% intron-indel-05% 45 2 .0444
+combined-intron-05% intron-indel 45 4 .0889
+combined-intron-05% [intron-nt] 
+combined-intron-05% intron-nt-00% 45 1 .0222
+combined-intron-05% intron-nt-10% 45 2 .0444
+combined-intron-05% intron-nt-20% 45 3 .0667
+combined-intron-05% intron-nt-33% 45 3 .0667
+combined-intron-05% intron-nt-03% 45 1 .0222
+combined-intron-05% intron-nt-05% 45 1 .0222
+combined-intron-05% intron-nt 45 3 .0667
+combined-intron-05% [UCE-indel] 
+combined-intron-05% UCE-indel-00% 45 13 .2889
+combined-intron-05% UCE-indel-10% 45 10 .2222
+combined-intron-05% UCE-indel-20% 45 9 .2
+combined-intron-05% UCE-indel-33% 45 10 .2222
+combined-intron-05% UCE-indel-03% 45 12 .2667
+combined-intron-05% UCE-indel-05% 45 10 .2222
+combined-intron-05% UCE-indel 45 13 .2889
+combined-intron-05% [UCE-nt] 
+combined-intron-05% UCE-nt-00% 45 7 .1556
+combined-intron-05% UCE-nt-10% 45 7 .1556
+combined-intron-05% UCE-nt-20% 45 8 .1778
+combined-intron-05% UCE-nt-33% 45 8 .1778
+combined-intron-05% UCE-nt-03% 45 7 .1556
+combined-intron-05% UCE-nt-05% 45 8 .1778
+combined-intron-05% UCE-nt 45 5 .1111
+combined-nt-05% [combined] 
+combined-nt-05% combined-combined-05% 45 2 .0444
+combined-nt-05% combined-indel-05% 45 8 .1778
+combined-nt-05% combined-intron-05% 45 4 .0889
+combined-nt-05% combined-nt-05% 45 0 0
+combined-nt-05% combined-UCE-05% 45 3 .0667
+combined-nt-05% [intron-indel] 
+combined-nt-05% intron-indel-00% 45 7 .1556
+combined-nt-05% intron-indel-10% 45 6 .1333
+combined-nt-05% intron-indel-20% 45 7 .1556
+combined-nt-05% intron-indel-33% 45 6 .1333
+combined-nt-05% intron-indel-03% 45 6 .1333
+combined-nt-05% intron-indel-05% 45 6 .1333
+combined-nt-05% intron-indel 45 8 .1778
+combined-nt-05% [intron-nt] 
+combined-nt-05% intron-nt-00% 45 3 .0667
+combined-nt-05% intron-nt-10% 45 2 .0444
+combined-nt-05% intron-nt-20% 45 1 .0222
+combined-nt-05% intron-nt-33% 45 3 .0667
+combined-nt-05% intron-nt-03% 45 3 .0667
+combined-nt-05% intron-nt-05% 45 3 .0667
+combined-nt-05% intron-nt 45 4 .0889
+combined-nt-05% [UCE-indel] 
+combined-nt-05% UCE-indel-00% 45 13 .2889
+combined-nt-05% UCE-indel-10% 45 12 .2667
+combined-nt-05% UCE-indel-20% 45 9 .2
+combined-nt-05% UCE-indel-33% 45 10 .2222
+combined-nt-05% UCE-indel-03% 45 13 .2889
+combined-nt-05% UCE-indel-05% 45 9 .2
+combined-nt-05% UCE-indel 45 13 .2889
+combined-nt-05% [UCE-nt] 
+combined-nt-05% UCE-nt-00% 45 4 .0889
+combined-nt-05% UCE-nt-10% 45 4 .0889
+combined-nt-05% UCE-nt-20% 45 5 .1111
+combined-nt-05% UCE-nt-33% 45 4 .0889
+combined-nt-05% UCE-nt-03% 45 4 .0889
+combined-nt-05% UCE-nt-05% 45 5 .1111
+combined-nt-05% UCE-nt 45 3 .0667
+combined-UCE-05% [combined] 
+combined-UCE-05% combined-combined-05% 45 1 .0222
+combined-UCE-05% combined-indel-05% 45 7 .1556
+combined-UCE-05% combined-intron-05% 45 3 .0667
+combined-UCE-05% combined-nt-05% 45 3 .0667
+combined-UCE-05% combined-UCE-05% 45 0 0
+combined-UCE-05% [intron-indel] 
+combined-UCE-05% intron-indel-00% 45 6 .1333
+combined-UCE-05% intron-indel-10% 45 5 .1111
+combined-UCE-05% intron-indel-20% 45 7 .1556
+combined-UCE-05% intron-indel-33% 45 6 .1333
+combined-UCE-05% intron-indel-03% 45 5 .1111
+combined-UCE-05% intron-indel-05% 45 5 .1111
+combined-UCE-05% intron-indel 45 7 .1556
+combined-UCE-05% [intron-nt] 
+combined-UCE-05% intron-nt-00% 45 2 .0444
+combined-UCE-05% intron-nt-10% 45 3 .0667
+combined-UCE-05% intron-nt-20% 45 4 .0889
+combined-UCE-05% intron-nt-33% 45 5 .1111
+combined-UCE-05% intron-nt-03% 45 2 .0444
+combined-UCE-05% intron-nt-05% 45 2 .0444
+combined-UCE-05% intron-nt 45 4 .0889
+combined-UCE-05% [UCE-indel] 
+combined-UCE-05% UCE-indel-00% 45 12 .2667
+combined-UCE-05% UCE-indel-10% 45 12 .2667
+combined-UCE-05% UCE-indel-20% 45 8 .1778
+combined-UCE-05% UCE-indel-33% 45 9 .2
+combined-UCE-05% UCE-indel-03% 45 14 .3111
+combined-UCE-05% UCE-indel-05% 45 9 .2
+combined-UCE-05% UCE-indel 45 12 .2667
+combined-UCE-05% [UCE-nt] 
+combined-UCE-05% UCE-nt-00% 45 4 .0889
+combined-UCE-05% UCE-nt-10% 45 4 .0889
+combined-UCE-05% UCE-nt-20% 45 5 .1111
+combined-UCE-05% UCE-nt-33% 45 5 .1111
+combined-UCE-05% UCE-nt-03% 45 4 .0889
+combined-UCE-05% UCE-nt-05% 45 5 .1111
+combined-UCE-05% UCE-nt 45 2 .0444
+[intron-indel] [combined] 
+[intron-indel] combined-combined-05% 
+[intron-indel] combined-indel-05% 
+[intron-indel] combined-intron-05% 
+[intron-indel] combined-nt-05% 
+[intron-indel] combined-UCE-05% 
+[intron-indel] [intron-indel] 
+[intron-indel] intron-indel-00% 
+[intron-indel] intron-indel-10% 
+[intron-indel] intron-indel-20% 
+[intron-indel] intron-indel-33% 
+[intron-indel] intron-indel-03% 
+[intron-indel] intron-indel-05% 
+[intron-indel] intron-indel 
+[intron-indel] [intron-nt] 
+[intron-indel] intron-nt-00% 
+[intron-indel] intron-nt-10% 
+[intron-indel] intron-nt-20% 
+[intron-indel] intron-nt-33% 
+[intron-indel] intron-nt-03% 
+[intron-indel] intron-nt-05% 
+[intron-indel] intron-nt 
+[intron-indel] [UCE-indel] 
+[intron-indel] UCE-indel-00% 
+[intron-indel] UCE-indel-10% 
+[intron-indel] UCE-indel-20% 
+[intron-indel] UCE-indel-33% 
+[intron-indel] UCE-indel-03% 
+[intron-indel] UCE-indel-05% 
+[intron-indel] UCE-indel 
+[intron-indel] [UCE-nt] 
+[intron-indel] UCE-nt-00% 
+[intron-indel] UCE-nt-10% 
+[intron-indel] UCE-nt-20% 
+[intron-indel] UCE-nt-33% 
+[intron-indel] UCE-nt-03% 
+[intron-indel] UCE-nt-05% 
+[intron-indel] UCE-nt 
+intron-indel-00% [combined] 
+intron-indel-00% combined-combined-05% 45 5 .1111
+intron-indel-00% combined-indel-05% 45 6 .1333
+intron-indel-00% combined-intron-05% 45 3 .0667
+intron-indel-00% combined-nt-05% 45 7 .1556
+intron-indel-00% combined-UCE-05% 45 6 .1333
+intron-indel-00% [intron-indel] 
+intron-indel-00% intron-indel-00% 45 0 0
+intron-indel-00% intron-indel-10% 45 2 .0444
+intron-indel-00% intron-indel-20% 45 5 .1111
+intron-indel-00% intron-indel-33% 45 6 .1333
+intron-indel-00% intron-indel-03% 45 1 .0222
+intron-indel-00% intron-indel-05% 45 2 .0444
+intron-indel-00% intron-indel 45 1 .0222
+intron-indel-00% [intron-nt] 
+intron-indel-00% intron-nt-00% 45 4 .0889
+intron-indel-00% intron-nt-10% 45 5 .1111
+intron-indel-00% intron-nt-20% 45 6 .1333
+intron-indel-00% intron-nt-33% 45 6 .1333
+intron-indel-00% intron-nt-03% 45 4 .0889
+intron-indel-00% intron-nt-05% 45 4 .0889
+intron-indel-00% intron-nt 45 6 .1333
+intron-indel-00% [UCE-indel] 
+intron-indel-00% UCE-indel-00% 45 12 .2667
+intron-indel-00% UCE-indel-10% 45 10 .2222
+intron-indel-00% UCE-indel-20% 45 8 .1778
+intron-indel-00% UCE-indel-33% 45 9 .2
+intron-indel-00% UCE-indel-03% 45 11 .2444
+intron-indel-00% UCE-indel-05% 45 10 .2222
+intron-indel-00% UCE-indel 45 12 .2667
+intron-indel-00% [UCE-nt] 
+intron-indel-00% UCE-nt-00% 45 8 .1778
+intron-indel-00% UCE-nt-10% 45 8 .1778
+intron-indel-00% UCE-nt-20% 45 8 .1778
+intron-indel-00% UCE-nt-33% 45 9 .2
+intron-indel-00% UCE-nt-03% 45 8 .1778
+intron-indel-00% UCE-nt-05% 45 9 .2
+intron-indel-00% UCE-nt 45 8 .1778
+intron-indel-10% [combined] 
+intron-indel-10% combined-combined-05% 45 4 .0889
+intron-indel-10% combined-indel-05% 45 5 .1111
+intron-indel-10% combined-intron-05% 45 4 .0889
+intron-indel-10% combined-nt-05% 45 6 .1333
+intron-indel-10% combined-UCE-05% 45 5 .1111
+intron-indel-10% [intron-indel] 
+intron-indel-10% intron-indel-00% 45 2 .0444
+intron-indel-10% intron-indel-10% 45 0 0
+intron-indel-10% intron-indel-20% 45 4 .0889
+intron-indel-10% intron-indel-33% 45 5 .1111
+intron-indel-10% intron-indel-03% 45 3 .0667
+intron-indel-10% intron-indel-05% 45 2 .0444
+intron-indel-10% intron-indel 45 3 .0667
+intron-indel-10% [intron-nt] 
+intron-indel-10% intron-nt-00% 45 5 .1111
+intron-indel-10% intron-nt-10% 45 6 .1333
+intron-indel-10% intron-nt-20% 45 7 .1556
+intron-indel-10% intron-nt-33% 45 7 .1556
+intron-indel-10% intron-nt-03% 45 5 .1111
+intron-indel-10% intron-nt-05% 45 5 .1111
+intron-indel-10% intron-nt 45 7 .1556
+intron-indel-10% [UCE-indel] 
+intron-indel-10% UCE-indel-00% 45 11 .2444
+intron-indel-10% UCE-indel-10% 45 11 .2444
+intron-indel-10% UCE-indel-20% 45 8 .1778
+intron-indel-10% UCE-indel-33% 45 9 .2
+intron-indel-10% UCE-indel-03% 45 12 .2667
+intron-indel-10% UCE-indel-05% 45 9 .2
+intron-indel-10% UCE-indel 45 11 .2444
+intron-indel-10% [UCE-nt] 
+intron-indel-10% UCE-nt-00% 45 7 .1556
+intron-indel-10% UCE-nt-10% 45 7 .1556
+intron-indel-10% UCE-nt-20% 45 7 .1556
+intron-indel-10% UCE-nt-33% 45 8 .1778
+intron-indel-10% UCE-nt-03% 45 7 .1556
+intron-indel-10% UCE-nt-05% 45 8 .1778
+intron-indel-10% UCE-nt 45 7 .1556
+intron-indel-20% [combined] 
+intron-indel-20% combined-combined-05% 45 6 .1333
+intron-indel-20% combined-indel-05% 45 8 .1778
+intron-indel-20% combined-intron-05% 45 7 .1556
+intron-indel-20% combined-nt-05% 45 7 .1556
+intron-indel-20% combined-UCE-05% 45 7 .1556
+intron-indel-20% [intron-indel] 
+intron-indel-20% intron-indel-00% 45 5 .1111
+intron-indel-20% intron-indel-10% 45 4 .0889
+intron-indel-20% intron-indel-20% 45 0 0
+intron-indel-20% intron-indel-33% 45 1 .0222
+intron-indel-20% intron-indel-03% 45 6 .1333
+intron-indel-20% intron-indel-05% 45 6 .1333
+intron-indel-20% intron-indel 45 6 .1333
+intron-indel-20% [intron-nt] 
+intron-indel-20% intron-nt-00% 45 7 .1556
+intron-indel-20% intron-nt-10% 45 8 .1778
+intron-indel-20% intron-nt-20% 45 8 .1778
+intron-indel-20% intron-nt-33% 45 8 .1778
+intron-indel-20% intron-nt-03% 45 7 .1556
+intron-indel-20% intron-nt-05% 45 7 .1556
+intron-indel-20% intron-nt 45 9 .2
+intron-indel-20% [UCE-indel] 
+intron-indel-20% UCE-indel-00% 45 12 .2667
+intron-indel-20% UCE-indel-10% 45 13 .2889
+intron-indel-20% UCE-indel-20% 45 9 .2
+intron-indel-20% UCE-indel-33% 45 9 .2
+intron-indel-20% UCE-indel-03% 45 13 .2889
+intron-indel-20% UCE-indel-05% 45 11 .2444
+intron-indel-20% UCE-indel 45 12 .2667
+intron-indel-20% [UCE-nt] 
+intron-indel-20% UCE-nt-00% 45 8 .1778
+intron-indel-20% UCE-nt-10% 45 8 .1778
+intron-indel-20% UCE-nt-20% 45 8 .1778
+intron-indel-20% UCE-nt-33% 45 9 .2
+intron-indel-20% UCE-nt-03% 45 8 .1778
+intron-indel-20% UCE-nt-05% 45 9 .2
+intron-indel-20% UCE-nt 45 8 .1778
+intron-indel-33% [combined] 
+intron-indel-33% combined-combined-05% 45 5 .1111
+intron-indel-33% combined-indel-05% 45 7 .1556
+intron-indel-33% combined-intron-05% 45 6 .1333
+intron-indel-33% combined-nt-05% 45 6 .1333
+intron-indel-33% combined-UCE-05% 45 6 .1333
+intron-indel-33% [intron-indel] 
+intron-indel-33% intron-indel-00% 45 6 .1333
+intron-indel-33% intron-indel-10% 45 5 .1111
+intron-indel-33% intron-indel-20% 45 1 .0222
+intron-indel-33% intron-indel-33% 45 0 0
+intron-indel-33% intron-indel-03% 45 5 .1111
+intron-indel-33% intron-indel-05% 45 5 .1111
+intron-indel-33% intron-indel 45 7 .1556
+intron-indel-33% [intron-nt] 
+intron-indel-33% intron-nt-00% 45 6 .1333
+intron-indel-33% intron-nt-10% 45 7 .1556
+intron-indel-33% intron-nt-20% 45 7 .1556
+intron-indel-33% intron-nt-33% 45 7 .1556
+intron-indel-33% intron-nt-03% 45 6 .1333
+intron-indel-33% intron-nt-05% 45 6 .1333
+intron-indel-33% intron-nt 45 8 .1778
+intron-indel-33% [UCE-indel] 
+intron-indel-33% UCE-indel-00% 45 12 .2667
+intron-indel-33% UCE-indel-10% 45 12 .2667
+intron-indel-33% UCE-indel-20% 45 8 .1778
+intron-indel-33% UCE-indel-33% 45 8 .1778
+intron-indel-33% UCE-indel-03% 45 13 .2889
+intron-indel-33% UCE-indel-05% 45 10 .2222
+intron-indel-33% UCE-indel 45 12 .2667
+intron-indel-33% [UCE-nt] 
+intron-indel-33% UCE-nt-00% 45 9 .2
+intron-indel-33% UCE-nt-10% 45 9 .2
+intron-indel-33% UCE-nt-20% 45 9 .2
+intron-indel-33% UCE-nt-33% 45 9 .2
+intron-indel-33% UCE-nt-03% 45 9 .2
+intron-indel-33% UCE-nt-05% 45 10 .2222
+intron-indel-33% UCE-nt 45 7 .1556
+intron-indel-03% [combined] 
+intron-indel-03% combined-combined-05% 45 4 .0889
+intron-indel-03% combined-indel-05% 45 5 .1111
+intron-indel-03% combined-intron-05% 45 2 .0444
+intron-indel-03% combined-nt-05% 45 6 .1333
+intron-indel-03% combined-UCE-05% 45 5 .1111
+intron-indel-03% [intron-indel] 
+intron-indel-03% intron-indel-00% 45 1 .0222
+intron-indel-03% intron-indel-10% 45 3 .0667
+intron-indel-03% intron-indel-20% 45 6 .1333
+intron-indel-03% intron-indel-33% 45 5 .1111
+intron-indel-03% intron-indel-03% 45 0 0
+intron-indel-03% intron-indel-05% 45 1 .0222
+intron-indel-03% intron-indel 45 2 .0444
+intron-indel-03% [intron-nt] 
+intron-indel-03% intron-nt-00% 45 3 .0667
+intron-indel-03% intron-nt-10% 45 4 .0889
+intron-indel-03% intron-nt-20% 45 5 .1111
+intron-indel-03% intron-nt-33% 45 5 .1111
+intron-indel-03% intron-nt-03% 45 3 .0667
+intron-indel-03% intron-nt-05% 45 3 .0667
+intron-indel-03% intron-nt 45 5 .1111
+intron-indel-03% [UCE-indel] 
+intron-indel-03% UCE-indel-00% 45 12 .2667
+intron-indel-03% UCE-indel-10% 45 9 .2
+intron-indel-03% UCE-indel-20% 45 7 .1556
+intron-indel-03% UCE-indel-33% 45 8 .1778
+intron-indel-03% UCE-indel-03% 45 11 .2444
+intron-indel-03% UCE-indel-05% 45 9 .2
+intron-indel-03% UCE-indel 45 12 .2667
+intron-indel-03% [UCE-nt] 
+intron-indel-03% UCE-nt-00% 45 9 .2
+intron-indel-03% UCE-nt-10% 45 9 .2
+intron-indel-03% UCE-nt-20% 45 9 .2
+intron-indel-03% UCE-nt-33% 45 9 .2
+intron-indel-03% UCE-nt-03% 45 9 .2
+intron-indel-03% UCE-nt-05% 45 10 .2222
+intron-indel-03% UCE-nt 45 7 .1556
+intron-indel-05% [combined] 
+intron-indel-05% combined-combined-05% 45 4 .0889
+intron-indel-05% combined-indel-05% 45 5 .1111
+intron-indel-05% combined-intron-05% 45 2 .0444
+intron-indel-05% combined-nt-05% 45 6 .1333
+intron-indel-05% combined-UCE-05% 45 5 .1111
+intron-indel-05% [intron-indel] 
+intron-indel-05% intron-indel-00% 45 2 .0444
+intron-indel-05% intron-indel-10% 45 2 .0444
+intron-indel-05% intron-indel-20% 45 6 .1333
+intron-indel-05% intron-indel-33% 45 5 .1111
+intron-indel-05% intron-indel-03% 45 1 .0222
+intron-indel-05% intron-indel-05% 45 0 0
+intron-indel-05% intron-indel 45 3 .0667
+intron-indel-05% [intron-nt] 
+intron-indel-05% intron-nt-00% 45 3 .0667
+intron-indel-05% intron-nt-10% 45 4 .0889
+intron-indel-05% intron-nt-20% 45 5 .1111
+intron-indel-05% intron-nt-33% 45 5 .1111
+intron-indel-05% intron-nt-03% 45 3 .0667
+intron-indel-05% intron-nt-05% 45 3 .0667
+intron-indel-05% intron-nt 45 5 .1111
+intron-indel-05% [UCE-indel] 
+intron-indel-05% UCE-indel-00% 45 12 .2667
+intron-indel-05% UCE-indel-10% 45 9 .2
+intron-indel-05% UCE-indel-20% 45 8 .1778
+intron-indel-05% UCE-indel-33% 45 9 .2
+intron-indel-05% UCE-indel-03% 45 11 .2444
+intron-indel-05% UCE-indel-05% 45 9 .2
+intron-indel-05% UCE-indel 45 12 .2667
+intron-indel-05% [UCE-nt] 
+intron-indel-05% UCE-nt-00% 45 9 .2
+intron-indel-05% UCE-nt-10% 45 9 .2
+intron-indel-05% UCE-nt-20% 45 9 .2
+intron-indel-05% UCE-nt-33% 45 9 .2
+intron-indel-05% UCE-nt-03% 45 9 .2
+intron-indel-05% UCE-nt-05% 45 10 .2222
+intron-indel-05% UCE-nt 45 7 .1556
+intron-indel [combined] 
+intron-indel combined-combined-05% 45 6 .1333
+intron-indel combined-indel-05% 45 6 .1333
+intron-indel combined-intron-05% 45 4 .0889
+intron-indel combined-nt-05% 45 8 .1778
+intron-indel combined-UCE-05% 45 7 .1556
+intron-indel [intron-indel] 
+intron-indel intron-indel-00% 45 1 .0222
+intron-indel intron-indel-10% 45 3 .0667
+intron-indel intron-indel-20% 45 6 .1333
+intron-indel intron-indel-33% 45 7 .1556
+intron-indel intron-indel-03% 45 2 .0444
+intron-indel intron-indel-05% 45 3 .0667
+intron-indel intron-indel 45 0 0
+intron-indel [intron-nt] 
+intron-indel intron-nt-00% 45 5 .1111
+intron-indel intron-nt-10% 45 6 .1333
+intron-indel intron-nt-20% 45 7 .1556
+intron-indel intron-nt-33% 45 7 .1556
+intron-indel intron-nt-03% 45 5 .1111
+intron-indel intron-nt-05% 45 5 .1111
+intron-indel intron-nt 45 7 .1556
+intron-indel [UCE-indel] 
+intron-indel UCE-indel-00% 45 12 .2667
+intron-indel UCE-indel-10% 45 10 .2222
+intron-indel UCE-indel-20% 45 8 .1778
+intron-indel UCE-indel-33% 45 9 .2
+intron-indel UCE-indel-03% 45 11 .2444
+intron-indel UCE-indel-05% 45 10 .2222
+intron-indel UCE-indel 45 12 .2667
+intron-indel [UCE-nt] 
+intron-indel UCE-nt-00% 45 9 .2
+intron-indel UCE-nt-10% 45 9 .2
+intron-indel UCE-nt-20% 45 9 .2
+intron-indel UCE-nt-33% 45 10 .2222
+intron-indel UCE-nt-03% 45 9 .2
+intron-indel UCE-nt-05% 45 9 .2
+intron-indel UCE-nt 45 9 .2
+[intron-nt] [combined] 
+[intron-nt] combined-combined-05% 
+[intron-nt] combined-indel-05% 
+[intron-nt] combined-intron-05% 
+[intron-nt] combined-nt-05% 
+[intron-nt] combined-UCE-05% 
+[intron-nt] [intron-indel] 
+[intron-nt] intron-indel-00% 
+[intron-nt] intron-indel-10% 
+[intron-nt] intron-indel-20% 
+[intron-nt] intron-indel-33% 
+[intron-nt] intron-indel-03% 
+[intron-nt] intron-indel-05% 
+[intron-nt] intron-indel 
+[intron-nt] [intron-nt] 
+[intron-nt] intron-nt-00% 
+[intron-nt] intron-nt-10% 
+[intron-nt] intron-nt-20% 
+[intron-nt] intron-nt-33% 
+[intron-nt] intron-nt-03% 
+[intron-nt] intron-nt-05% 
+[intron-nt] intron-nt 
+[intron-nt] [UCE-indel] 
+[intron-nt] UCE-indel-00% 
+[intron-nt] UCE-indel-10% 
+[intron-nt] UCE-indel-20% 
+[intron-nt] UCE-indel-33% 
+[intron-nt] UCE-indel-03% 
+[intron-nt] UCE-indel-05% 
+[intron-nt] UCE-indel 
+[intron-nt] [UCE-nt] 
+[intron-nt] UCE-nt-00% 
+[intron-nt] UCE-nt-10% 
+[intron-nt] UCE-nt-20% 
+[intron-nt] UCE-nt-33% 
+[intron-nt] UCE-nt-03% 
+[intron-nt] UCE-nt-05% 
+[intron-nt] UCE-nt 
+intron-nt-00% [combined] 
+intron-nt-00% combined-combined-05% 45 1 .0222
+intron-nt-00% combined-indel-05% 45 7 .1556
+intron-nt-00% combined-intron-05% 45 1 .0222
+intron-nt-00% combined-nt-05% 45 3 .0667
+intron-nt-00% combined-UCE-05% 45 2 .0444
+intron-nt-00% [intron-indel] 
+intron-nt-00% intron-indel-00% 45 4 .0889
+intron-nt-00% intron-indel-10% 45 5 .1111
+intron-nt-00% intron-indel-20% 45 7 .1556
+intron-nt-00% intron-indel-33% 45 6 .1333
+intron-nt-00% intron-indel-03% 45 3 .0667
+intron-nt-00% intron-indel-05% 45 3 .0667
+intron-nt-00% intron-indel 45 5 .1111
+intron-nt-00% [intron-nt] 
+intron-nt-00% intron-nt-00% 45 0 0
+intron-nt-00% intron-nt-10% 45 1 .0222
+intron-nt-00% intron-nt-20% 45 2 .0444
+intron-nt-00% intron-nt-33% 45 3 .0667
+intron-nt-00% intron-nt-03% 45 0 0
+intron-nt-00% intron-nt-05% 45 0 0
+intron-nt-00% intron-nt 45 2 .0444
+intron-nt-00% [UCE-indel] 
+intron-nt-00% UCE-indel-00% 45 13 .2889
+intron-nt-00% UCE-indel-10% 45 11 .2444
+intron-nt-00% UCE-indel-20% 45 9 .2
+intron-nt-00% UCE-indel-33% 45 10 .2222
+intron-nt-00% UCE-indel-03% 45 12 .2667
+intron-nt-00% UCE-indel-05% 45 9 .2
+intron-nt-00% UCE-indel 45 13 .2889
+intron-nt-00% [UCE-nt] 
+intron-nt-00% UCE-nt-00% 45 6 .1333
+intron-nt-00% UCE-nt-10% 45 6 .1333
+intron-nt-00% UCE-nt-20% 45 7 .1556
+intron-nt-00% UCE-nt-33% 45 7 .1556
+intron-nt-00% UCE-nt-03% 45 6 .1333
+intron-nt-00% UCE-nt-05% 45 7 .1556
+intron-nt-00% UCE-nt 45 4 .0889
+intron-nt-10% [combined] 
+intron-nt-10% combined-combined-05% 45 2 .0444
+intron-nt-10% combined-indel-05% 45 8 .1778
+intron-nt-10% combined-intron-05% 45 2 .0444
+intron-nt-10% combined-nt-05% 45 2 .0444
+intron-nt-10% combined-UCE-05% 45 3 .0667
+intron-nt-10% [intron-indel] 
+intron-nt-10% intron-indel-00% 45 5 .1111
+intron-nt-10% intron-indel-10% 45 6 .1333
+intron-nt-10% intron-indel-20% 45 8 .1778
+intron-nt-10% intron-indel-33% 45 7 .1556
+intron-nt-10% intron-indel-03% 45 4 .0889
+intron-nt-10% intron-indel-05% 45 4 .0889
+intron-nt-10% intron-indel 45 6 .1333
+intron-nt-10% [intron-nt] 
+intron-nt-10% intron-nt-00% 45 1 .0222
+intron-nt-10% intron-nt-10% 45 0 0
+intron-nt-10% intron-nt-20% 45 1 .0222
+intron-nt-10% intron-nt-33% 45 2 .0444
+intron-nt-10% intron-nt-03% 45 1 .0222
+intron-nt-10% intron-nt-05% 45 1 .0222
+intron-nt-10% intron-nt 45 2 .0444
+intron-nt-10% [UCE-indel] 
+intron-nt-10% UCE-indel-00% 45 13 .2889
+intron-nt-10% UCE-indel-10% 45 11 .2444
+intron-nt-10% UCE-indel-20% 45 10 .2222
+intron-nt-10% UCE-indel-33% 45 11 .2444
+intron-nt-10% UCE-indel-03% 45 12 .2667
+intron-nt-10% UCE-indel-05% 45 9 .2
+intron-nt-10% UCE-indel 45 13 .2889
+intron-nt-10% [UCE-nt] 
+intron-nt-10% UCE-nt-00% 45 6 .1333
+intron-nt-10% UCE-nt-10% 45 6 .1333
+intron-nt-10% UCE-nt-20% 45 7 .1556
+intron-nt-10% UCE-nt-33% 45 6 .1333
+intron-nt-10% UCE-nt-03% 45 6 .1333
+intron-nt-10% UCE-nt-05% 45 7 .1556
+intron-nt-10% UCE-nt 45 5 .1111
+intron-nt-20% [combined] 
+intron-nt-20% combined-combined-05% 45 3 .0667
+intron-nt-20% combined-indel-05% 45 9 .2
+intron-nt-20% combined-intron-05% 45 3 .0667
+intron-nt-20% combined-nt-05% 45 1 .0222
+intron-nt-20% combined-UCE-05% 45 4 .0889
+intron-nt-20% [intron-indel] 
+intron-nt-20% intron-indel-00% 45 6 .1333
+intron-nt-20% intron-indel-10% 45 7 .1556
+intron-nt-20% intron-indel-20% 45 8 .1778
+intron-nt-20% intron-indel-33% 45 7 .1556
+intron-nt-20% intron-indel-03% 45 5 .1111
+intron-nt-20% intron-indel-05% 45 5 .1111
+intron-nt-20% intron-indel 45 7 .1556
+intron-nt-20% [intron-nt] 
+intron-nt-20% intron-nt-00% 45 2 .0444
+intron-nt-20% intron-nt-10% 45 1 .0222
+intron-nt-20% intron-nt-20% 45 0 0
+intron-nt-20% intron-nt-33% 45 2 .0444
+intron-nt-20% intron-nt-03% 45 2 .0444
+intron-nt-20% intron-nt-05% 45 2 .0444
+intron-nt-20% intron-nt 45 3 .0667
+intron-nt-20% [UCE-indel] 
+intron-nt-20% UCE-indel-00% 45 14 .3111
+intron-nt-20% UCE-indel-10% 45 11 .2444
+intron-nt-20% UCE-indel-20% 45 10 .2222
+intron-nt-20% UCE-indel-33% 45 11 .2444
+intron-nt-20% UCE-indel-03% 45 12 .2667
+intron-nt-20% UCE-indel-05% 45 10 .2222
+intron-nt-20% UCE-indel 45 14 .3111
+intron-nt-20% [UCE-nt] 
+intron-nt-20% UCE-nt-00% 45 5 .1111
+intron-nt-20% UCE-nt-10% 45 5 .1111
+intron-nt-20% UCE-nt-20% 45 6 .1333
+intron-nt-20% UCE-nt-33% 45 5 .1111
+intron-nt-20% UCE-nt-03% 45 5 .1111
+intron-nt-20% UCE-nt-05% 45 6 .1333
+intron-nt-20% UCE-nt 45 4 .0889
+intron-nt-33% [combined] 
+intron-nt-33% combined-combined-05% 45 4 .0889
+intron-nt-33% combined-indel-05% 45 9 .2
+intron-nt-33% combined-intron-05% 45 3 .0667
+intron-nt-33% combined-nt-05% 45 3 .0667
+intron-nt-33% combined-UCE-05% 45 5 .1111
+intron-nt-33% [intron-indel] 
+intron-nt-33% intron-indel-00% 45 6 .1333
+intron-nt-33% intron-indel-10% 45 7 .1556
+intron-nt-33% intron-indel-20% 45 8 .1778
+intron-nt-33% intron-indel-33% 45 7 .1556
+intron-nt-33% intron-indel-03% 45 5 .1111
+intron-nt-33% intron-indel-05% 45 5 .1111
+intron-nt-33% intron-indel 45 7 .1556
+intron-nt-33% [intron-nt] 
+intron-nt-33% intron-nt-00% 45 3 .0667
+intron-nt-33% intron-nt-10% 45 2 .0444
+intron-nt-33% intron-nt-20% 45 2 .0444
+intron-nt-33% intron-nt-33% 45 0 0
+intron-nt-33% intron-nt-03% 45 3 .0667
+intron-nt-33% intron-nt-05% 45 3 .0667
+intron-nt-33% intron-nt 45 4 .0889
+intron-nt-33% [UCE-indel] 
+intron-nt-33% UCE-indel-00% 45 14 .3111
+intron-nt-33% UCE-indel-10% 45 11 .2444
+intron-nt-33% UCE-indel-20% 45 10 .2222
+intron-nt-33% UCE-indel-33% 45 11 .2444
+intron-nt-33% UCE-indel-03% 45 12 .2667
+intron-nt-33% UCE-indel-05% 45 11 .2444
+intron-nt-33% UCE-indel 45 14 .3111
+intron-nt-33% [UCE-nt] 
+intron-nt-33% UCE-nt-00% 45 7 .1556
+intron-nt-33% UCE-nt-10% 45 7 .1556
+intron-nt-33% UCE-nt-20% 45 8 .1778
+intron-nt-33% UCE-nt-33% 45 7 .1556
+intron-nt-33% UCE-nt-03% 45 7 .1556
+intron-nt-33% UCE-nt-05% 45 8 .1778
+intron-nt-33% UCE-nt 45 6 .1333
+intron-nt-03% [combined] 
+intron-nt-03% combined-combined-05% 45 1 .0222
+intron-nt-03% combined-indel-05% 45 7 .1556
+intron-nt-03% combined-intron-05% 45 1 .0222
+intron-nt-03% combined-nt-05% 45 3 .0667
+intron-nt-03% combined-UCE-05% 45 2 .0444
+intron-nt-03% [intron-indel] 
+intron-nt-03% intron-indel-00% 45 4 .0889
+intron-nt-03% intron-indel-10% 45 5 .1111
+intron-nt-03% intron-indel-20% 45 7 .1556
+intron-nt-03% intron-indel-33% 45 6 .1333
+intron-nt-03% intron-indel-03% 45 3 .0667
+intron-nt-03% intron-indel-05% 45 3 .0667
+intron-nt-03% intron-indel 45 5 .1111
+intron-nt-03% [intron-nt] 
+intron-nt-03% intron-nt-00% 45 0 0
+intron-nt-03% intron-nt-10% 45 1 .0222
+intron-nt-03% intron-nt-20% 45 2 .0444
+intron-nt-03% intron-nt-33% 45 3 .0667
+intron-nt-03% intron-nt-03% 45 0 0
+intron-nt-03% intron-nt-05% 45 0 0
+intron-nt-03% intron-nt 45 2 .0444
+intron-nt-03% [UCE-indel] 
+intron-nt-03% UCE-indel-00% 45 13 .2889
+intron-nt-03% UCE-indel-10% 45 11 .2444
+intron-nt-03% UCE-indel-20% 45 9 .2
+intron-nt-03% UCE-indel-33% 45 10 .2222
+intron-nt-03% UCE-indel-03% 45 12 .2667
+intron-nt-03% UCE-indel-05% 45 9 .2
+intron-nt-03% UCE-indel 45 13 .2889
+intron-nt-03% [UCE-nt] 
+intron-nt-03% UCE-nt-00% 45 6 .1333
+intron-nt-03% UCE-nt-10% 45 6 .1333
+intron-nt-03% UCE-nt-20% 45 7 .1556
+intron-nt-03% UCE-nt-33% 45 7 .1556
+intron-nt-03% UCE-nt-03% 45 6 .1333
+intron-nt-03% UCE-nt-05% 45 7 .1556
+intron-nt-03% UCE-nt 45 4 .0889
+intron-nt-05% [combined] 
+intron-nt-05% combined-combined-05% 45 1 .0222
+intron-nt-05% combined-indel-05% 45 7 .1556
+intron-nt-05% combined-intron-05% 45 1 .0222
+intron-nt-05% combined-nt-05% 45 3 .0667
+intron-nt-05% combined-UCE-05% 45 2 .0444
+intron-nt-05% [intron-indel] 
+intron-nt-05% intron-indel-00% 45 4 .0889
+intron-nt-05% intron-indel-10% 45 5 .1111
+intron-nt-05% intron-indel-20% 45 7 .1556
+intron-nt-05% intron-indel-33% 45 6 .1333
+intron-nt-05% intron-indel-03% 45 3 .0667
+intron-nt-05% intron-indel-05% 45 3 .0667
+intron-nt-05% intron-indel 45 5 .1111
+intron-nt-05% [intron-nt] 
+intron-nt-05% intron-nt-00% 45 0 0
+intron-nt-05% intron-nt-10% 45 1 .0222
+intron-nt-05% intron-nt-20% 45 2 .0444
+intron-nt-05% intron-nt-33% 45 3 .0667
+intron-nt-05% intron-nt-03% 45 0 0
+intron-nt-05% intron-nt-05% 45 0 0
+intron-nt-05% intron-nt 45 2 .0444
+intron-nt-05% [UCE-indel] 
+intron-nt-05% UCE-indel-00% 45 13 .2889
+intron-nt-05% UCE-indel-10% 45 11 .2444
+intron-nt-05% UCE-indel-20% 45 9 .2
+intron-nt-05% UCE-indel-33% 45 10 .2222
+intron-nt-05% UCE-indel-03% 45 12 .2667
+intron-nt-05% UCE-indel-05% 45 9 .2
+intron-nt-05% UCE-indel 45 13 .2889
+intron-nt-05% [UCE-nt] 
+intron-nt-05% UCE-nt-00% 45 6 .1333
+intron-nt-05% UCE-nt-10% 45 6 .1333
+intron-nt-05% UCE-nt-20% 45 7 .1556
+intron-nt-05% UCE-nt-33% 45 7 .1556
+intron-nt-05% UCE-nt-03% 45 6 .1333
+intron-nt-05% UCE-nt-05% 45 7 .1556
+intron-nt-05% UCE-nt 45 4 .0889
+intron-nt [combined] 
+intron-nt combined-combined-05% 45 3 .0667
+intron-nt combined-indel-05% 45 9 .2
+intron-nt combined-intron-05% 45 3 .0667
+intron-nt combined-nt-05% 45 4 .0889
+intron-nt combined-UCE-05% 45 4 .0889
+intron-nt [intron-indel] 
+intron-nt intron-indel-00% 45 6 .1333
+intron-nt intron-indel-10% 45 7 .1556
+intron-nt intron-indel-20% 45 9 .2
+intron-nt intron-indel-33% 45 8 .1778
+intron-nt intron-indel-03% 45 5 .1111
+intron-nt intron-indel-05% 45 5 .1111
+intron-nt intron-indel 45 7 .1556
+intron-nt [intron-nt] 
+intron-nt intron-nt-00% 45 2 .0444
+intron-nt intron-nt-10% 45 2 .0444
+intron-nt intron-nt-20% 45 3 .0667
+intron-nt intron-nt-33% 45 4 .0889
+intron-nt intron-nt-03% 45 2 .0444
+intron-nt intron-nt-05% 45 2 .0444
+intron-nt intron-nt 45 0 0
+intron-nt [UCE-indel] 
+intron-nt UCE-indel-00% 45 14 .3111
+intron-nt UCE-indel-10% 45 12 .2667
+intron-nt UCE-indel-20% 45 11 .2444
+intron-nt UCE-indel-33% 45 12 .2667
+intron-nt UCE-indel-03% 45 13 .2889
+intron-nt UCE-indel-05% 45 10 .2222
+intron-nt UCE-indel 45 14 .3111
+intron-nt [UCE-nt] 
+intron-nt UCE-nt-00% 45 7 .1556
+intron-nt UCE-nt-10% 45 7 .1556
+intron-nt UCE-nt-20% 45 8 .1778
+intron-nt UCE-nt-33% 45 8 .1778
+intron-nt UCE-nt-03% 45 7 .1556
+intron-nt UCE-nt-05% 45 8 .1778
+intron-nt UCE-nt 45 6 .1333
+[UCE-indel] [combined] 
+[UCE-indel] combined-combined-05% 
+[UCE-indel] combined-indel-05% 
+[UCE-indel] combined-intron-05% 
+[UCE-indel] combined-nt-05% 
+[UCE-indel] combined-UCE-05% 
+[UCE-indel] [intron-indel] 
+[UCE-indel] intron-indel-00% 
+[UCE-indel] intron-indel-10% 
+[UCE-indel] intron-indel-20% 
+[UCE-indel] intron-indel-33% 
+[UCE-indel] intron-indel-03% 
+[UCE-indel] intron-indel-05% 
+[UCE-indel] intron-indel 
+[UCE-indel] [intron-nt] 
+[UCE-indel] intron-nt-00% 
+[UCE-indel] intron-nt-10% 
+[UCE-indel] intron-nt-20% 
+[UCE-indel] intron-nt-33% 
+[UCE-indel] intron-nt-03% 
+[UCE-indel] intron-nt-05% 
+[UCE-indel] intron-nt 
+[UCE-indel] [UCE-indel] 
+[UCE-indel] UCE-indel-00% 
+[UCE-indel] UCE-indel-10% 
+[UCE-indel] UCE-indel-20% 
+[UCE-indel] UCE-indel-33% 
+[UCE-indel] UCE-indel-03% 
+[UCE-indel] UCE-indel-05% 
+[UCE-indel] UCE-indel 
+[UCE-indel] [UCE-nt] 
+[UCE-indel] UCE-nt-00% 
+[UCE-indel] UCE-nt-10% 
+[UCE-indel] UCE-nt-20% 
+[UCE-indel] UCE-nt-33% 
+[UCE-indel] UCE-nt-03% 
+[UCE-indel] UCE-nt-05% 
+[UCE-indel] UCE-nt 
+UCE-indel-00% [combined] 
+UCE-indel-00% combined-combined-05% 45 12 .2667
+UCE-indel-00% combined-indel-05% 45 9 .2
+UCE-indel-00% combined-intron-05% 45 13 .2889
+UCE-indel-00% combined-nt-05% 45 13 .2889
+UCE-indel-00% combined-UCE-05% 45 12 .2667
+UCE-indel-00% [intron-indel] 
+UCE-indel-00% intron-indel-00% 45 12 .2667
+UCE-indel-00% intron-indel-10% 45 11 .2444
+UCE-indel-00% intron-indel-20% 45 12 .2667
+UCE-indel-00% intron-indel-33% 45 12 .2667
+UCE-indel-00% intron-indel-03% 45 12 .2667
+UCE-indel-00% intron-indel-05% 45 12 .2667
+UCE-indel-00% intron-indel 45 12 .2667
+UCE-indel-00% [intron-nt] 
+UCE-indel-00% intron-nt-00% 45 13 .2889
+UCE-indel-00% intron-nt-10% 45 13 .2889
+UCE-indel-00% intron-nt-20% 45 14 .3111
+UCE-indel-00% intron-nt-33% 45 14 .3111
+UCE-indel-00% intron-nt-03% 45 13 .2889
+UCE-indel-00% intron-nt-05% 45 13 .2889
+UCE-indel-00% intron-nt 45 14 .3111
+UCE-indel-00% [UCE-indel] 
+UCE-indel-00% UCE-indel-00% 45 0 0
+UCE-indel-00% UCE-indel-10% 45 10 .2222
+UCE-indel-00% UCE-indel-20% 45 10 .2222
+UCE-indel-00% UCE-indel-33% 45 12 .2667
+UCE-indel-00% UCE-indel-03% 45 11 .2444
+UCE-indel-00% UCE-indel-05% 45 8 .1778
+UCE-indel-00% UCE-indel 45 1 .0222
+UCE-indel-00% [UCE-nt] 
+UCE-indel-00% UCE-nt-00% 45 13 .2889
+UCE-indel-00% UCE-nt-10% 45 13 .2889
+UCE-indel-00% UCE-nt-20% 45 13 .2889
+UCE-indel-00% UCE-nt-33% 45 13 .2889
+UCE-indel-00% UCE-nt-03% 45 13 .2889
+UCE-indel-00% UCE-nt-05% 45 13 .2889
+UCE-indel-00% UCE-nt 45 13 .2889
+UCE-indel-10% [combined] 
+UCE-indel-10% combined-combined-05% 45 12 .2667
+UCE-indel-10% combined-indel-05% 45 9 .2
+UCE-indel-10% combined-intron-05% 45 10 .2222
+UCE-indel-10% combined-nt-05% 45 12 .2667
+UCE-indel-10% combined-UCE-05% 45 12 .2667
+UCE-indel-10% [intron-indel] 
+UCE-indel-10% intron-indel-00% 45 10 .2222
+UCE-indel-10% intron-indel-10% 45 11 .2444
+UCE-indel-10% intron-indel-20% 45 13 .2889
+UCE-indel-10% intron-indel-33% 45 12 .2667
+UCE-indel-10% intron-indel-03% 45 9 .2
+UCE-indel-10% intron-indel-05% 45 9 .2
+UCE-indel-10% intron-indel 45 10 .2222
+UCE-indel-10% [intron-nt] 
+UCE-indel-10% intron-nt-00% 45 11 .2444
+UCE-indel-10% intron-nt-10% 45 11 .2444
+UCE-indel-10% intron-nt-20% 45 11 .2444
+UCE-indel-10% intron-nt-33% 45 11 .2444
+UCE-indel-10% intron-nt-03% 45 11 .2444
+UCE-indel-10% intron-nt-05% 45 11 .2444
+UCE-indel-10% intron-nt 45 12 .2667
+UCE-indel-10% [UCE-indel] 
+UCE-indel-10% UCE-indel-00% 45 10 .2222
+UCE-indel-10% UCE-indel-10% 45 0 0
+UCE-indel-10% UCE-indel-20% 45 10 .2222
+UCE-indel-10% UCE-indel-33% 45 12 .2667
+UCE-indel-10% UCE-indel-03% 45 10 .2222
+UCE-indel-10% UCE-indel-05% 45 9 .2
+UCE-indel-10% UCE-indel 45 10 .2222
+UCE-indel-10% [UCE-nt] 
+UCE-indel-10% UCE-nt-00% 45 13 .2889
+UCE-indel-10% UCE-nt-10% 45 13 .2889
+UCE-indel-10% UCE-nt-20% 45 13 .2889
+UCE-indel-10% UCE-nt-33% 45 13 .2889
+UCE-indel-10% UCE-nt-03% 45 13 .2889
+UCE-indel-10% UCE-nt-05% 45 13 .2889
+UCE-indel-10% UCE-nt 45 12 .2667
+UCE-indel-20% [combined] 
+UCE-indel-20% combined-combined-05% 45 8 .1778
+UCE-indel-20% combined-indel-05% 45 5 .1111
+UCE-indel-20% combined-intron-05% 45 9 .2
+UCE-indel-20% combined-nt-05% 45 9 .2
+UCE-indel-20% combined-UCE-05% 45 8 .1778
+UCE-indel-20% [intron-indel] 
+UCE-indel-20% intron-indel-00% 45 8 .1778
+UCE-indel-20% intron-indel-10% 45 8 .1778
+UCE-indel-20% intron-indel-20% 45 9 .2
+UCE-indel-20% intron-indel-33% 45 8 .1778
+UCE-indel-20% intron-indel-03% 45 7 .1556
+UCE-indel-20% intron-indel-05% 45 8 .1778
+UCE-indel-20% intron-indel 45 8 .1778
+UCE-indel-20% [intron-nt] 
+UCE-indel-20% intron-nt-00% 45 9 .2
+UCE-indel-20% intron-nt-10% 45 10 .2222
+UCE-indel-20% intron-nt-20% 45 10 .2222
+UCE-indel-20% intron-nt-33% 45 10 .2222
+UCE-indel-20% intron-nt-03% 45 9 .2
+UCE-indel-20% intron-nt-05% 45 9 .2
+UCE-indel-20% intron-nt 45 11 .2444
+UCE-indel-20% [UCE-indel] 
+UCE-indel-20% UCE-indel-00% 45 10 .2222
+UCE-indel-20% UCE-indel-10% 45 10 .2222
+UCE-indel-20% UCE-indel-20% 45 0 0
+UCE-indel-20% UCE-indel-33% 45 4 .0889
+UCE-indel-20% UCE-indel-03% 45 13 .2889
+UCE-indel-20% UCE-indel-05% 45 9 .2
+UCE-indel-20% UCE-indel 45 11 .2444
+UCE-indel-20% [UCE-nt] 
+UCE-indel-20% UCE-nt-00% 45 10 .2222
+UCE-indel-20% UCE-nt-10% 45 10 .2222
+UCE-indel-20% UCE-nt-20% 45 10 .2222
+UCE-indel-20% UCE-nt-33% 45 10 .2222
+UCE-indel-20% UCE-nt-03% 45 10 .2222
+UCE-indel-20% UCE-nt-05% 45 10 .2222
+UCE-indel-20% UCE-nt 45 8 .1778
+UCE-indel-33% [combined] 
+UCE-indel-33% combined-combined-05% 45 9 .2
+UCE-indel-33% combined-indel-05% 45 7 .1556
+UCE-indel-33% combined-intron-05% 45 10 .2222
+UCE-indel-33% combined-nt-05% 45 10 .2222
+UCE-indel-33% combined-UCE-05% 45 9 .2
+UCE-indel-33% [intron-indel] 
+UCE-indel-33% intron-indel-00% 45 9 .2
+UCE-indel-33% intron-indel-10% 45 9 .2
+UCE-indel-33% intron-indel-20% 45 9 .2
+UCE-indel-33% intron-indel-33% 45 8 .1778
+UCE-indel-33% intron-indel-03% 45 8 .1778
+UCE-indel-33% intron-indel-05% 45 9 .2
+UCE-indel-33% intron-indel 45 9 .2
+UCE-indel-33% [intron-nt] 
+UCE-indel-33% intron-nt-00% 45 10 .2222
+UCE-indel-33% intron-nt-10% 45 11 .2444
+UCE-indel-33% intron-nt-20% 45 11 .2444
+UCE-indel-33% intron-nt-33% 45 11 .2444
+UCE-indel-33% intron-nt-03% 45 10 .2222
+UCE-indel-33% intron-nt-05% 45 10 .2222
+UCE-indel-33% intron-nt 45 12 .2667
+UCE-indel-33% [UCE-indel] 
+UCE-indel-33% UCE-indel-00% 45 12 .2667
+UCE-indel-33% UCE-indel-10% 45 12 .2667
+UCE-indel-33% UCE-indel-20% 45 4 .0889
+UCE-indel-33% UCE-indel-33% 45 0 0
+UCE-indel-33% UCE-indel-03% 45 14 .3111
+UCE-indel-33% UCE-indel-05% 45 11 .2444
+UCE-indel-33% UCE-indel 45 12 .2667
+UCE-indel-33% [UCE-nt] 
+UCE-indel-33% UCE-nt-00% 45 11 .2444
+UCE-indel-33% UCE-nt-10% 45 11 .2444
+UCE-indel-33% UCE-nt-20% 45 11 .2444
+UCE-indel-33% UCE-nt-33% 45 11 .2444
+UCE-indel-33% UCE-nt-03% 45 11 .2444
+UCE-indel-33% UCE-nt-05% 45 11 .2444
+UCE-indel-33% UCE-nt 45 9 .2
+UCE-indel-03% [combined] 
+UCE-indel-03% combined-combined-05% 45 13 .2889
+UCE-indel-03% combined-indel-05% 45 12 .2667
+UCE-indel-03% combined-intron-05% 45 12 .2667
+UCE-indel-03% combined-nt-05% 45 13 .2889
+UCE-indel-03% combined-UCE-05% 45 14 .3111
+UCE-indel-03% [intron-indel] 
+UCE-indel-03% intron-indel-00% 45 11 .2444
+UCE-indel-03% intron-indel-10% 45 12 .2667
+UCE-indel-03% intron-indel-20% 45 13 .2889
+UCE-indel-03% intron-indel-33% 45 13 .2889
+UCE-indel-03% intron-indel-03% 45 11 .2444
+UCE-indel-03% intron-indel-05% 45 11 .2444
+UCE-indel-03% intron-indel 45 11 .2444
+UCE-indel-03% [intron-nt] 
+UCE-indel-03% intron-nt-00% 45 12 .2667
+UCE-indel-03% intron-nt-10% 45 12 .2667
+UCE-indel-03% intron-nt-20% 45 12 .2667
+UCE-indel-03% intron-nt-33% 45 12 .2667
+UCE-indel-03% intron-nt-03% 45 12 .2667
+UCE-indel-03% intron-nt-05% 45 12 .2667
+UCE-indel-03% intron-nt 45 13 .2889
+UCE-indel-03% [UCE-indel] 
+UCE-indel-03% UCE-indel-00% 45 11 .2444
+UCE-indel-03% UCE-indel-10% 45 10 .2222
+UCE-indel-03% UCE-indel-20% 45 13 .2889
+UCE-indel-03% UCE-indel-33% 45 14 .3111
+UCE-indel-03% UCE-indel-03% 45 0 0
+UCE-indel-03% UCE-indel-05% 45 10 .2222
+UCE-indel-03% UCE-indel 45 11 .2444
+UCE-indel-03% [UCE-nt] 
+UCE-indel-03% UCE-nt-00% 45 14 .3111
+UCE-indel-03% UCE-nt-10% 45 14 .3111
+UCE-indel-03% UCE-nt-20% 45 14 .3111
+UCE-indel-03% UCE-nt-33% 45 14 .3111
+UCE-indel-03% UCE-nt-03% 45 14 .3111
+UCE-indel-03% UCE-nt-05% 45 14 .3111
+UCE-indel-03% UCE-nt 45 14 .3111
+UCE-indel-05% [combined] 
+UCE-indel-05% combined-combined-05% 45 8 .1778
+UCE-indel-05% combined-indel-05% 45 5 .1111
+UCE-indel-05% combined-intron-05% 45 10 .2222
+UCE-indel-05% combined-nt-05% 45 9 .2
+UCE-indel-05% combined-UCE-05% 45 9 .2
+UCE-indel-05% [intron-indel] 
+UCE-indel-05% intron-indel-00% 45 10 .2222
+UCE-indel-05% intron-indel-10% 45 9 .2
+UCE-indel-05% intron-indel-20% 45 11 .2444
+UCE-indel-05% intron-indel-33% 45 10 .2222
+UCE-indel-05% intron-indel-03% 45 9 .2
+UCE-indel-05% intron-indel-05% 45 9 .2
+UCE-indel-05% intron-indel 45 10 .2222
+UCE-indel-05% [intron-nt] 
+UCE-indel-05% intron-nt-00% 45 9 .2
+UCE-indel-05% intron-nt-10% 45 9 .2
+UCE-indel-05% intron-nt-20% 45 10 .2222
+UCE-indel-05% intron-nt-33% 45 11 .2444
+UCE-indel-05% intron-nt-03% 45 9 .2
+UCE-indel-05% intron-nt-05% 45 9 .2
+UCE-indel-05% intron-nt 45 10 .2222
+UCE-indel-05% [UCE-indel] 
+UCE-indel-05% UCE-indel-00% 45 8 .1778
+UCE-indel-05% UCE-indel-10% 45 9 .2
+UCE-indel-05% UCE-indel-20% 45 9 .2
+UCE-indel-05% UCE-indel-33% 45 11 .2444
+UCE-indel-05% UCE-indel-03% 45 10 .2222
+UCE-indel-05% UCE-indel-05% 45 0 0
+UCE-indel-05% UCE-indel 45 8 .1778
+UCE-indel-05% [UCE-nt] 
+UCE-indel-05% UCE-nt-00% 45 11 .2444
+UCE-indel-05% UCE-nt-10% 45 11 .2444
+UCE-indel-05% UCE-nt-20% 45 11 .2444
+UCE-indel-05% UCE-nt-33% 45 11 .2444
+UCE-indel-05% UCE-nt-03% 45 11 .2444
+UCE-indel-05% UCE-nt-05% 45 11 .2444
+UCE-indel-05% UCE-nt 45 10 .2222
+UCE-indel [combined] 
+UCE-indel combined-combined-05% 45 12 .2667
+UCE-indel combined-indel-05% 45 9 .2
+UCE-indel combined-intron-05% 45 13 .2889
+UCE-indel combined-nt-05% 45 13 .2889
+UCE-indel combined-UCE-05% 45 12 .2667
+UCE-indel [intron-indel] 
+UCE-indel intron-indel-00% 45 12 .2667
+UCE-indel intron-indel-10% 45 11 .2444
+UCE-indel intron-indel-20% 45 12 .2667
+UCE-indel intron-indel-33% 45 12 .2667
+UCE-indel intron-indel-03% 45 12 .2667
+UCE-indel intron-indel-05% 45 12 .2667
+UCE-indel intron-indel 45 12 .2667
+UCE-indel [intron-nt] 
+UCE-indel intron-nt-00% 45 13 .2889
+UCE-indel intron-nt-10% 45 13 .2889
+UCE-indel intron-nt-20% 45 14 .3111
+UCE-indel intron-nt-33% 45 14 .3111
+UCE-indel intron-nt-03% 45 13 .2889
+UCE-indel intron-nt-05% 45 13 .2889
+UCE-indel intron-nt 45 14 .3111
+UCE-indel [UCE-indel] 
+UCE-indel UCE-indel-00% 45 1 .0222
+UCE-indel UCE-indel-10% 45 10 .2222
+UCE-indel UCE-indel-20% 45 11 .2444
+UCE-indel UCE-indel-33% 45 12 .2667
+UCE-indel UCE-indel-03% 45 11 .2444
+UCE-indel UCE-indel-05% 45 8 .1778
+UCE-indel UCE-indel 45 0 0
+UCE-indel [UCE-nt] 
+UCE-indel UCE-nt-00% 45 13 .2889
+UCE-indel UCE-nt-10% 45 13 .2889
+UCE-indel UCE-nt-20% 45 13 .2889
+UCE-indel UCE-nt-33% 45 13 .2889
+UCE-indel UCE-nt-03% 45 13 .2889
+UCE-indel UCE-nt-05% 45 13 .2889
+UCE-indel UCE-nt 45 13 .2889
+[UCE-nt] [combined] 
+[UCE-nt] combined-combined-05% 
+[UCE-nt] combined-indel-05% 
+[UCE-nt] combined-intron-05% 
+[UCE-nt] combined-nt-05% 
+[UCE-nt] combined-UCE-05% 
+[UCE-nt] [intron-indel] 
+[UCE-nt] intron-indel-00% 
+[UCE-nt] intron-indel-10% 
+[UCE-nt] intron-indel-20% 
+[UCE-nt] intron-indel-33% 
+[UCE-nt] intron-indel-03% 
+[UCE-nt] intron-indel-05% 
+[UCE-nt] intron-indel 
+[UCE-nt] [intron-nt] 
+[UCE-nt] intron-nt-00% 
+[UCE-nt] intron-nt-10% 
+[UCE-nt] intron-nt-20% 
+[UCE-nt] intron-nt-33% 
+[UCE-nt] intron-nt-03% 
+[UCE-nt] intron-nt-05% 
+[UCE-nt] intron-nt 
+[UCE-nt] [UCE-indel] 
+[UCE-nt] UCE-indel-00% 
+[UCE-nt] UCE-indel-10% 
+[UCE-nt] UCE-indel-20% 
+[UCE-nt] UCE-indel-33% 
+[UCE-nt] UCE-indel-03% 
+[UCE-nt] UCE-indel-05% 
+[UCE-nt] UCE-indel 
+[UCE-nt] [UCE-nt] 
+[UCE-nt] UCE-nt-00% 
+[UCE-nt] UCE-nt-10% 
+[UCE-nt] UCE-nt-20% 
+[UCE-nt] UCE-nt-33% 
+[UCE-nt] UCE-nt-03% 
+[UCE-nt] UCE-nt-05% 
+[UCE-nt] UCE-nt 
+UCE-nt-00% [combined] 
+UCE-nt-00% combined-combined-05% 45 5 .1111
+UCE-nt-00% combined-indel-05% 45 10 .2222
+UCE-nt-00% combined-intron-05% 45 7 .1556
+UCE-nt-00% combined-nt-05% 45 4 .0889
+UCE-nt-00% combined-UCE-05% 45 4 .0889
+UCE-nt-00% [intron-indel] 
+UCE-nt-00% intron-indel-00% 45 8 .1778
+UCE-nt-00% intron-indel-10% 45 7 .1556
+UCE-nt-00% intron-indel-20% 45 8 .1778
+UCE-nt-00% intron-indel-33% 45 9 .2
+UCE-nt-00% intron-indel-03% 45 9 .2
+UCE-nt-00% intron-indel-05% 45 9 .2
+UCE-nt-00% intron-indel 45 9 .2
+UCE-nt-00% [intron-nt] 
+UCE-nt-00% intron-nt-00% 45 6 .1333
+UCE-nt-00% intron-nt-10% 45 6 .1333
+UCE-nt-00% intron-nt-20% 45 5 .1111
+UCE-nt-00% intron-nt-33% 45 7 .1556
+UCE-nt-00% intron-nt-03% 45 6 .1333
+UCE-nt-00% intron-nt-05% 45 6 .1333
+UCE-nt-00% intron-nt 45 7 .1556
+UCE-nt-00% [UCE-indel] 
+UCE-nt-00% UCE-indel-00% 45 13 .2889
+UCE-nt-00% UCE-indel-10% 45 13 .2889
+UCE-nt-00% UCE-indel-20% 45 10 .2222
+UCE-nt-00% UCE-indel-33% 45 11 .2444
+UCE-nt-00% UCE-indel-03% 45 14 .3111
+UCE-nt-00% UCE-indel-05% 45 11 .2444
+UCE-nt-00% UCE-indel 45 13 .2889
+UCE-nt-00% [UCE-nt] 
+UCE-nt-00% UCE-nt-00% 45 0 0
+UCE-nt-00% UCE-nt-10% 45 0 0
+UCE-nt-00% UCE-nt-20% 45 1 .0222
+UCE-nt-00% UCE-nt-33% 45 2 .0444
+UCE-nt-00% UCE-nt-03% 45 0 0
+UCE-nt-00% UCE-nt-05% 45 3 .0667
+UCE-nt-00% UCE-nt 45 2 .0444
+UCE-nt-10% [combined] 
+UCE-nt-10% combined-combined-05% 45 5 .1111
+UCE-nt-10% combined-indel-05% 45 10 .2222
+UCE-nt-10% combined-intron-05% 45 7 .1556
+UCE-nt-10% combined-nt-05% 45 4 .0889
+UCE-nt-10% combined-UCE-05% 45 4 .0889
+UCE-nt-10% [intron-indel] 
+UCE-nt-10% intron-indel-00% 45 8 .1778
+UCE-nt-10% intron-indel-10% 45 7 .1556
+UCE-nt-10% intron-indel-20% 45 8 .1778
+UCE-nt-10% intron-indel-33% 45 9 .2
+UCE-nt-10% intron-indel-03% 45 9 .2
+UCE-nt-10% intron-indel-05% 45 9 .2
+UCE-nt-10% intron-indel 45 9 .2
+UCE-nt-10% [intron-nt] 
+UCE-nt-10% intron-nt-00% 45 6 .1333
+UCE-nt-10% intron-nt-10% 45 6 .1333
+UCE-nt-10% intron-nt-20% 45 5 .1111
+UCE-nt-10% intron-nt-33% 45 7 .1556
+UCE-nt-10% intron-nt-03% 45 6 .1333
+UCE-nt-10% intron-nt-05% 45 6 .1333
+UCE-nt-10% intron-nt 45 7 .1556
+UCE-nt-10% [UCE-indel] 
+UCE-nt-10% UCE-indel-00% 45 13 .2889
+UCE-nt-10% UCE-indel-10% 45 13 .2889
+UCE-nt-10% UCE-indel-20% 45 10 .2222
+UCE-nt-10% UCE-indel-33% 45 11 .2444
+UCE-nt-10% UCE-indel-03% 45 14 .3111
+UCE-nt-10% UCE-indel-05% 45 11 .2444
+UCE-nt-10% UCE-indel 45 13 .2889
+UCE-nt-10% [UCE-nt] 
+UCE-nt-10% UCE-nt-00% 45 0 0
+UCE-nt-10% UCE-nt-10% 45 0 0
+UCE-nt-10% UCE-nt-20% 45 1 .0222
+UCE-nt-10% UCE-nt-33% 45 2 .0444
+UCE-nt-10% UCE-nt-03% 45 0 0
+UCE-nt-10% UCE-nt-05% 45 3 .0667
+UCE-nt-10% UCE-nt 45 2 .0444
+UCE-nt-20% [combined] 
+UCE-nt-20% combined-combined-05% 45 6 .1333
+UCE-nt-20% combined-indel-05% 45 10 .2222
+UCE-nt-20% combined-intron-05% 45 8 .1778
+UCE-nt-20% combined-nt-05% 45 5 .1111
+UCE-nt-20% combined-UCE-05% 45 5 .1111
+UCE-nt-20% [intron-indel] 
+UCE-nt-20% intron-indel-00% 45 8 .1778
+UCE-nt-20% intron-indel-10% 45 7 .1556
+UCE-nt-20% intron-indel-20% 45 8 .1778
+UCE-nt-20% intron-indel-33% 45 9 .2
+UCE-nt-20% intron-indel-03% 45 9 .2
+UCE-nt-20% intron-indel-05% 45 9 .2
+UCE-nt-20% intron-indel 45 9 .2
+UCE-nt-20% [intron-nt] 
+UCE-nt-20% intron-nt-00% 45 7 .1556
+UCE-nt-20% intron-nt-10% 45 7 .1556
+UCE-nt-20% intron-nt-20% 45 6 .1333
+UCE-nt-20% intron-nt-33% 45 8 .1778
+UCE-nt-20% intron-nt-03% 45 7 .1556
+UCE-nt-20% intron-nt-05% 45 7 .1556
+UCE-nt-20% intron-nt 45 8 .1778
+UCE-nt-20% [UCE-indel] 
+UCE-nt-20% UCE-indel-00% 45 13 .2889
+UCE-nt-20% UCE-indel-10% 45 13 .2889
+UCE-nt-20% UCE-indel-20% 45 10 .2222
+UCE-nt-20% UCE-indel-33% 45 11 .2444
+UCE-nt-20% UCE-indel-03% 45 14 .3111
+UCE-nt-20% UCE-indel-05% 45 11 .2444
+UCE-nt-20% UCE-indel 45 13 .2889
+UCE-nt-20% [UCE-nt] 
+UCE-nt-20% UCE-nt-00% 45 1 .0222
+UCE-nt-20% UCE-nt-10% 45 1 .0222
+UCE-nt-20% UCE-nt-20% 45 0 0
+UCE-nt-20% UCE-nt-33% 45 2 .0444
+UCE-nt-20% UCE-nt-03% 45 1 .0222
+UCE-nt-20% UCE-nt-05% 45 4 .0889
+UCE-nt-20% UCE-nt 45 3 .0667
+UCE-nt-33% [combined] 
+UCE-nt-33% combined-combined-05% 45 6 .1333
+UCE-nt-33% combined-indel-05% 45 10 .2222
+UCE-nt-33% combined-intron-05% 45 8 .1778
+UCE-nt-33% combined-nt-05% 45 4 .0889
+UCE-nt-33% combined-UCE-05% 45 5 .1111
+UCE-nt-33% [intron-indel] 
+UCE-nt-33% intron-indel-00% 45 9 .2
+UCE-nt-33% intron-indel-10% 45 8 .1778
+UCE-nt-33% intron-indel-20% 45 9 .2
+UCE-nt-33% intron-indel-33% 45 9 .2
+UCE-nt-33% intron-indel-03% 45 9 .2
+UCE-nt-33% intron-indel-05% 45 9 .2
+UCE-nt-33% intron-indel 45 10 .2222
+UCE-nt-33% [intron-nt] 
+UCE-nt-33% intron-nt-00% 45 7 .1556
+UCE-nt-33% intron-nt-10% 45 6 .1333
+UCE-nt-33% intron-nt-20% 45 5 .1111
+UCE-nt-33% intron-nt-33% 45 7 .1556
+UCE-nt-33% intron-nt-03% 45 7 .1556
+UCE-nt-33% intron-nt-05% 45 7 .1556
+UCE-nt-33% intron-nt 45 8 .1778
+UCE-nt-33% [UCE-indel] 
+UCE-nt-33% UCE-indel-00% 45 13 .2889
+UCE-nt-33% UCE-indel-10% 45 13 .2889
+UCE-nt-33% UCE-indel-20% 45 10 .2222
+UCE-nt-33% UCE-indel-33% 45 11 .2444
+UCE-nt-33% UCE-indel-03% 45 14 .3111
+UCE-nt-33% UCE-indel-05% 45 11 .2444
+UCE-nt-33% UCE-indel 45 13 .2889
+UCE-nt-33% [UCE-nt] 
+UCE-nt-33% UCE-nt-00% 45 2 .0444
+UCE-nt-33% UCE-nt-10% 45 2 .0444
+UCE-nt-33% UCE-nt-20% 45 2 .0444
+UCE-nt-33% UCE-nt-33% 45 0 0
+UCE-nt-33% UCE-nt-03% 45 2 .0444
+UCE-nt-33% UCE-nt-05% 45 5 .1111
+UCE-nt-33% UCE-nt 45 3 .0667
+UCE-nt-03% [combined] 
+UCE-nt-03% combined-combined-05% 45 5 .1111
+UCE-nt-03% combined-indel-05% 45 10 .2222
+UCE-nt-03% combined-intron-05% 45 7 .1556
+UCE-nt-03% combined-nt-05% 45 4 .0889
+UCE-nt-03% combined-UCE-05% 45 4 .0889
+UCE-nt-03% [intron-indel] 
+UCE-nt-03% intron-indel-00% 45 8 .1778
+UCE-nt-03% intron-indel-10% 45 7 .1556
+UCE-nt-03% intron-indel-20% 45 8 .1778
+UCE-nt-03% intron-indel-33% 45 9 .2
+UCE-nt-03% intron-indel-03% 45 9 .2
+UCE-nt-03% intron-indel-05% 45 9 .2
+UCE-nt-03% intron-indel 45 9 .2
+UCE-nt-03% [intron-nt] 
+UCE-nt-03% intron-nt-00% 45 6 .1333
+UCE-nt-03% intron-nt-10% 45 6 .1333
+UCE-nt-03% intron-nt-20% 45 5 .1111
+UCE-nt-03% intron-nt-33% 45 7 .1556
+UCE-nt-03% intron-nt-03% 45 6 .1333
+UCE-nt-03% intron-nt-05% 45 6 .1333
+UCE-nt-03% intron-nt 45 7 .1556
+UCE-nt-03% [UCE-indel] 
+UCE-nt-03% UCE-indel-00% 45 13 .2889
+UCE-nt-03% UCE-indel-10% 45 13 .2889
+UCE-nt-03% UCE-indel-20% 45 10 .2222
+UCE-nt-03% UCE-indel-33% 45 11 .2444
+UCE-nt-03% UCE-indel-03% 45 14 .3111
+UCE-nt-03% UCE-indel-05% 45 11 .2444
+UCE-nt-03% UCE-indel 45 13 .2889
+UCE-nt-03% [UCE-nt] 
+UCE-nt-03% UCE-nt-00% 45 0 0
+UCE-nt-03% UCE-nt-10% 45 0 0
+UCE-nt-03% UCE-nt-20% 45 1 .0222
+UCE-nt-03% UCE-nt-33% 45 2 .0444
+UCE-nt-03% UCE-nt-03% 45 0 0
+UCE-nt-03% UCE-nt-05% 45 3 .0667
+UCE-nt-03% UCE-nt 45 2 .0444
+UCE-nt-05% [combined] 
+UCE-nt-05% combined-combined-05% 45 6 .1333
+UCE-nt-05% combined-indel-05% 45 10 .2222
+UCE-nt-05% combined-intron-05% 45 8 .1778
+UCE-nt-05% combined-nt-05% 45 5 .1111
+UCE-nt-05% combined-UCE-05% 45 5 .1111
+UCE-nt-05% [intron-indel] 
+UCE-nt-05% intron-indel-00% 45 9 .2
+UCE-nt-05% intron-indel-10% 45 8 .1778
+UCE-nt-05% intron-indel-20% 45 9 .2
+UCE-nt-05% intron-indel-33% 45 10 .2222
+UCE-nt-05% intron-indel-03% 45 10 .2222
+UCE-nt-05% intron-indel-05% 45 10 .2222
+UCE-nt-05% intron-indel 45 9 .2
+UCE-nt-05% [intron-nt] 
+UCE-nt-05% intron-nt-00% 45 7 .1556
+UCE-nt-05% intron-nt-10% 45 7 .1556
+UCE-nt-05% intron-nt-20% 45 6 .1333
+UCE-nt-05% intron-nt-33% 45 8 .1778
+UCE-nt-05% intron-nt-03% 45 7 .1556
+UCE-nt-05% intron-nt-05% 45 7 .1556
+UCE-nt-05% intron-nt 45 8 .1778
+UCE-nt-05% [UCE-indel] 
+UCE-nt-05% UCE-indel-00% 45 13 .2889
+UCE-nt-05% UCE-indel-10% 45 13 .2889
+UCE-nt-05% UCE-indel-20% 45 10 .2222
+UCE-nt-05% UCE-indel-33% 45 11 .2444
+UCE-nt-05% UCE-indel-03% 45 14 .3111
+UCE-nt-05% UCE-indel-05% 45 11 .2444
+UCE-nt-05% UCE-indel 45 13 .2889
+UCE-nt-05% [UCE-nt] 
+UCE-nt-05% UCE-nt-00% 45 3 .0667
+UCE-nt-05% UCE-nt-10% 45 3 .0667
+UCE-nt-05% UCE-nt-20% 45 4 .0889
+UCE-nt-05% UCE-nt-33% 45 5 .1111
+UCE-nt-05% UCE-nt-03% 45 3 .0667
+UCE-nt-05% UCE-nt-05% 45 0 0
+UCE-nt-05% UCE-nt 45 5 .1111
+UCE-nt [combined] 
+UCE-nt combined-combined-05% 45 3 .0667
+UCE-nt combined-indel-05% 45 8 .1778
+UCE-nt combined-intron-05% 45 5 .1111
+UCE-nt combined-nt-05% 45 3 .0667
+UCE-nt combined-UCE-05% 45 2 .0444
+UCE-nt [intron-indel] 
+UCE-nt intron-indel-00% 45 8 .1778
+UCE-nt intron-indel-10% 45 7 .1556
+UCE-nt intron-indel-20% 45 8 .1778
+UCE-nt intron-indel-33% 45 7 .1556
+UCE-nt intron-indel-03% 45 7 .1556
+UCE-nt intron-indel-05% 45 7 .1556
+UCE-nt intron-indel 45 9 .2
+UCE-nt [intron-nt] 
+UCE-nt intron-nt-00% 45 4 .0889
+UCE-nt intron-nt-10% 45 5 .1111
+UCE-nt intron-nt-20% 45 4 .0889
+UCE-nt intron-nt-33% 45 6 .1333
+UCE-nt intron-nt-03% 45 4 .0889
+UCE-nt intron-nt-05% 45 4 .0889
+UCE-nt intron-nt 45 6 .1333
+UCE-nt [UCE-indel] 
+UCE-nt UCE-indel-00% 45 13 .2889
+UCE-nt UCE-indel-10% 45 12 .2667
+UCE-nt UCE-indel-20% 45 8 .1778
+UCE-nt UCE-indel-33% 45 9 .2
+UCE-nt UCE-indel-03% 45 14 .3111
+UCE-nt UCE-indel-05% 45 10 .2222
+UCE-nt UCE-indel 45 13 .2889
+UCE-nt [UCE-nt] 
+UCE-nt UCE-nt-00% 45 2 .0444
+UCE-nt UCE-nt-10% 45 2 .0444
+UCE-nt UCE-nt-20% 45 3 .0667
+UCE-nt UCE-nt-33% 45 3 .0667
+UCE-nt UCE-nt-03% 45 2 .0444
+UCE-nt UCE-nt-05% 45 5 .1111
+UCE-nt UCE-nt 45 0 0

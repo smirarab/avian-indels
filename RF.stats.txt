@@ -1,0 +1,2698 @@
+[combined] [combined] 
+[combined] combined/combined-combined-astraltree-5-contract.tre -
+
+[combined] combined/combined-indel/combined-indel-astraltree-5-contract.tre -
+
+[combined] combined/combined-intron/combined-intron-astraltree-5-contract.tre -
+
+[combined] combined/combined-nt/combined-nt-astraltree-5-contract.tre -
+
+[combined] combined/combined-uce/combined-uce-astraltree-5-contract.tre -
+
+[combined] [intron-indel] 
+[combined] intron-indel/intron-indel-astraltree-0-contract.tre -
+
+[combined] intron-indel/intron-indel-astraltree-10-contract.tre -
+
+[combined] intron-indel/intron-indel-astraltree-20-contract.tre -
+
+[combined] intron-indel/intron-indel-astraltree-33-contract.tre -
+
+[combined] intron-indel/intron-indel-astraltree-3-contract.tre -
+
+[combined] intron-indel/intron-indel-astraltree-5-contract.tre -
+
+[combined] intron-indel/intron-indel-astraltree.tre -
+
+[combined] [intron-nt] 
+[combined] intron-nt/intron-nt-astraltree-0-contract.tre -
+
+[combined] intron-nt/intron-nt-astraltree-10-contract.tre -
+
+[combined] intron-nt/intron-nt-astraltree-20-contract.tre -
+
+[combined] intron-nt/intron-nt-astraltree-33-contract.tre -
+
+[combined] intron-nt/intron-nt-astraltree-3-contract.tre -
+
+[combined] intron-nt/intron-nt-astraltree-5-contract.tre -
+
+[combined] intron-nt/intron-nt-astraltree.tre -
+
+[combined] [uce-indel] 
+[combined] uce-indel/uce-indel-astraltree-0-contract.tre -
+
+[combined] uce-indel/uce-indel-astraltree-10-contract.tre -
+
+[combined] uce-indel/uce-indel-astraltree-20-contract.tre -
+
+[combined] uce-indel/uce-indel-astraltree-33-contract.tre -
+
+[combined] uce-indel/uce-indel-astraltree-3-contract.tre -
+
+[combined] uce-indel/uce-indel-astraltree-5-contract.tre -
+
+[combined] uce-indel/uce-indel-astraltree.tre -
+
+[combined] [uce-nt] 
+[combined] uce-nt/uce-nt-astraltree-0-contract.tre -
+
+[combined] uce-nt/uce-nt-astraltree-10-contract.tre -
+
+[combined] uce-nt/uce-nt-astraltree-20-contract.tre -
+
+[combined] uce-nt/uce-nt-astraltree-33-contract.tre -
+
+[combined] uce-nt/uce-nt-astraltree-3-contract.tre -
+
+[combined] uce-nt/uce-nt-astraltree-5-contract.tre -
+
+[combined] uce-nt/uce-nt-astraltree.tre -
+
+combined/combined-combined-astraltree-5-contract.tre [combined] 
+combined/combined-combined-astraltree-5-contract.tre combined/combined-combined-astraltree-5-contract.tre 45 0 0
+
+combined/combined-combined-astraltree-5-contract.tre combined/combined-indel/combined-indel-astraltree-5-contract.tre 45 6 .1333
+
+combined/combined-combined-astraltree-5-contract.tre combined/combined-intron/combined-intron-astraltree-5-contract.tre 45 2 .0444
+
+combined/combined-combined-astraltree-5-contract.tre combined/combined-nt/combined-nt-astraltree-5-contract.tre 45 2 .0444
+
+combined/combined-combined-astraltree-5-contract.tre combined/combined-uce/combined-uce-astraltree-5-contract.tre 45 1 .0222
+
+combined/combined-combined-astraltree-5-contract.tre [intron-indel] 
+combined/combined-combined-astraltree-5-contract.tre intron-indel/intron-indel-astraltree-0-contract.tre 45 5 .1111
+
+combined/combined-combined-astraltree-5-contract.tre intron-indel/intron-indel-astraltree-10-contract.tre 45 4 .0889
+
+combined/combined-combined-astraltree-5-contract.tre intron-indel/intron-indel-astraltree-20-contract.tre 45 6 .1333
+
+combined/combined-combined-astraltree-5-contract.tre intron-indel/intron-indel-astraltree-33-contract.tre 45 5 .1111
+
+combined/combined-combined-astraltree-5-contract.tre intron-indel/intron-indel-astraltree-3-contract.tre 45 4 .0889
+
+combined/combined-combined-astraltree-5-contract.tre intron-indel/intron-indel-astraltree-5-contract.tre 45 4 .0889
+
+combined/combined-combined-astraltree-5-contract.tre intron-indel/intron-indel-astraltree.tre 45 6 .1333
+
+combined/combined-combined-astraltree-5-contract.tre [intron-nt] 
+combined/combined-combined-astraltree-5-contract.tre intron-nt/intron-nt-astraltree-0-contract.tre 45 1 .0222
+
+combined/combined-combined-astraltree-5-contract.tre intron-nt/intron-nt-astraltree-10-contract.tre 45 2 .0444
+
+combined/combined-combined-astraltree-5-contract.tre intron-nt/intron-nt-astraltree-20-contract.tre 45 3 .0667
+
+combined/combined-combined-astraltree-5-contract.tre intron-nt/intron-nt-astraltree-33-contract.tre 45 4 .0889
+
+combined/combined-combined-astraltree-5-contract.tre intron-nt/intron-nt-astraltree-3-contract.tre 45 1 .0222
+
+combined/combined-combined-astraltree-5-contract.tre intron-nt/intron-nt-astraltree-5-contract.tre 45 1 .0222
+
+combined/combined-combined-astraltree-5-contract.tre intron-nt/intron-nt-astraltree.tre 45 3 .0667
+
+combined/combined-combined-astraltree-5-contract.tre [uce-indel] 
+combined/combined-combined-astraltree-5-contract.tre uce-indel/uce-indel-astraltree-0-contract.tre 45 12 .2667
+
+combined/combined-combined-astraltree-5-contract.tre uce-indel/uce-indel-astraltree-10-contract.tre 45 12 .2667
+
+combined/combined-combined-astraltree-5-contract.tre uce-indel/uce-indel-astraltree-20-contract.tre 45 8 .1778
+
+combined/combined-combined-astraltree-5-contract.tre uce-indel/uce-indel-astraltree-33-contract.tre 45 9 .2
+
+combined/combined-combined-astraltree-5-contract.tre uce-indel/uce-indel-astraltree-3-contract.tre 45 13 .2889
+
+combined/combined-combined-astraltree-5-contract.tre uce-indel/uce-indel-astraltree-5-contract.tre 45 8 .1778
+
+combined/combined-combined-astraltree-5-contract.tre uce-indel/uce-indel-astraltree.tre 45 12 .2667
+
+combined/combined-combined-astraltree-5-contract.tre [uce-nt] 
+combined/combined-combined-astraltree-5-contract.tre uce-nt/uce-nt-astraltree-0-contract.tre 45 5 .1111
+
+combined/combined-combined-astraltree-5-contract.tre uce-nt/uce-nt-astraltree-10-contract.tre 45 5 .1111
+
+combined/combined-combined-astraltree-5-contract.tre uce-nt/uce-nt-astraltree-20-contract.tre 45 6 .1333
+
+combined/combined-combined-astraltree-5-contract.tre uce-nt/uce-nt-astraltree-33-contract.tre 45 6 .1333
+
+combined/combined-combined-astraltree-5-contract.tre uce-nt/uce-nt-astraltree-3-contract.tre 45 5 .1111
+
+combined/combined-combined-astraltree-5-contract.tre uce-nt/uce-nt-astraltree-5-contract.tre 45 6 .1333
+
+combined/combined-combined-astraltree-5-contract.tre uce-nt/uce-nt-astraltree.tre 45 3 .0667
+
+combined/combined-indel/combined-indel-astraltree-5-contract.tre [combined] 
+combined/combined-indel/combined-indel-astraltree-5-contract.tre combined/combined-combined-astraltree-5-contract.tre 45 6 .1333
+
+combined/combined-indel/combined-indel-astraltree-5-contract.tre combined/combined-indel/combined-indel-astraltree-5-contract.tre 45 0 0
+
+combined/combined-indel/combined-indel-astraltree-5-contract.tre combined/combined-intron/combined-intron-astraltree-5-contract.tre 45 6 .1333
+
+combined/combined-indel/combined-indel-astraltree-5-contract.tre combined/combined-nt/combined-nt-astraltree-5-contract.tre 45 8 .1778
+
+combined/combined-indel/combined-indel-astraltree-5-contract.tre combined/combined-uce/combined-uce-astraltree-5-contract.tre 45 7 .1556
+
+combined/combined-indel/combined-indel-astraltree-5-contract.tre [intron-indel] 
+combined/combined-indel/combined-indel-astraltree-5-contract.tre intron-indel/intron-indel-astraltree-0-contract.tre 45 6 .1333
+
+combined/combined-indel/combined-indel-astraltree-5-contract.tre intron-indel/intron-indel-astraltree-10-contract.tre 45 5 .1111
+
+combined/combined-indel/combined-indel-astraltree-5-contract.tre intron-indel/intron-indel-astraltree-20-contract.tre 45 8 .1778
+
+combined/combined-indel/combined-indel-astraltree-5-contract.tre intron-indel/intron-indel-astraltree-33-contract.tre 45 7 .1556
+
+combined/combined-indel/combined-indel-astraltree-5-contract.tre intron-indel/intron-indel-astraltree-3-contract.tre 45 5 .1111
+
+combined/combined-indel/combined-indel-astraltree-5-contract.tre intron-indel/intron-indel-astraltree-5-contract.tre 45 5 .1111
+
+combined/combined-indel/combined-indel-astraltree-5-contract.tre intron-indel/intron-indel-astraltree.tre 45 6 .1333
+
+combined/combined-indel/combined-indel-astraltree-5-contract.tre [intron-nt] 
+combined/combined-indel/combined-indel-astraltree-5-contract.tre intron-nt/intron-nt-astraltree-0-contract.tre 45 7 .1556
+
+combined/combined-indel/combined-indel-astraltree-5-contract.tre intron-nt/intron-nt-astraltree-10-contract.tre 45 8 .1778
+
+combined/combined-indel/combined-indel-astraltree-5-contract.tre intron-nt/intron-nt-astraltree-20-contract.tre 45 9 .2
+
+combined/combined-indel/combined-indel-astraltree-5-contract.tre intron-nt/intron-nt-astraltree-33-contract.tre 45 9 .2
+
+combined/combined-indel/combined-indel-astraltree-5-contract.tre intron-nt/intron-nt-astraltree-3-contract.tre 45 7 .1556
+
+combined/combined-indel/combined-indel-astraltree-5-contract.tre intron-nt/intron-nt-astraltree-5-contract.tre 45 7 .1556
+
+combined/combined-indel/combined-indel-astraltree-5-contract.tre intron-nt/intron-nt-astraltree.tre 45 9 .2
+
+combined/combined-indel/combined-indel-astraltree-5-contract.tre [uce-indel] 
+combined/combined-indel/combined-indel-astraltree-5-contract.tre uce-indel/uce-indel-astraltree-0-contract.tre 45 9 .2
+
+combined/combined-indel/combined-indel-astraltree-5-contract.tre uce-indel/uce-indel-astraltree-10-contract.tre 45 9 .2
+
+combined/combined-indel/combined-indel-astraltree-5-contract.tre uce-indel/uce-indel-astraltree-20-contract.tre 45 5 .1111
+
+combined/combined-indel/combined-indel-astraltree-5-contract.tre uce-indel/uce-indel-astraltree-33-contract.tre 45 7 .1556
+
+combined/combined-indel/combined-indel-astraltree-5-contract.tre uce-indel/uce-indel-astraltree-3-contract.tre 45 12 .2667
+
+combined/combined-indel/combined-indel-astraltree-5-contract.tre uce-indel/uce-indel-astraltree-5-contract.tre 45 5 .1111
+
+combined/combined-indel/combined-indel-astraltree-5-contract.tre uce-indel/uce-indel-astraltree.tre 45 9 .2
+
+combined/combined-indel/combined-indel-astraltree-5-contract.tre [uce-nt] 
+combined/combined-indel/combined-indel-astraltree-5-contract.tre uce-nt/uce-nt-astraltree-0-contract.tre 45 10 .2222
+
+combined/combined-indel/combined-indel-astraltree-5-contract.tre uce-nt/uce-nt-astraltree-10-contract.tre 45 10 .2222
+
+combined/combined-indel/combined-indel-astraltree-5-contract.tre uce-nt/uce-nt-astraltree-20-contract.tre 45 10 .2222
+
+combined/combined-indel/combined-indel-astraltree-5-contract.tre uce-nt/uce-nt-astraltree-33-contract.tre 45 10 .2222
+
+combined/combined-indel/combined-indel-astraltree-5-contract.tre uce-nt/uce-nt-astraltree-3-contract.tre 45 10 .2222
+
+combined/combined-indel/combined-indel-astraltree-5-contract.tre uce-nt/uce-nt-astraltree-5-contract.tre 45 10 .2222
+
+combined/combined-indel/combined-indel-astraltree-5-contract.tre uce-nt/uce-nt-astraltree.tre 45 8 .1778
+
+combined/combined-intron/combined-intron-astraltree-5-contract.tre [combined] 
+combined/combined-intron/combined-intron-astraltree-5-contract.tre combined/combined-combined-astraltree-5-contract.tre 45 2 .0444
+
+combined/combined-intron/combined-intron-astraltree-5-contract.tre combined/combined-indel/combined-indel-astraltree-5-contract.tre 45 6 .1333
+
+combined/combined-intron/combined-intron-astraltree-5-contract.tre combined/combined-intron/combined-intron-astraltree-5-contract.tre 45 0 0
+
+combined/combined-intron/combined-intron-astraltree-5-contract.tre combined/combined-nt/combined-nt-astraltree-5-contract.tre 45 4 .0889
+
+combined/combined-intron/combined-intron-astraltree-5-contract.tre combined/combined-uce/combined-uce-astraltree-5-contract.tre 45 3 .0667
+
+combined/combined-intron/combined-intron-astraltree-5-contract.tre [intron-indel] 
+combined/combined-intron/combined-intron-astraltree-5-contract.tre intron-indel/intron-indel-astraltree-0-contract.tre 45 3 .0667
+
+combined/combined-intron/combined-intron-astraltree-5-contract.tre intron-indel/intron-indel-astraltree-10-contract.tre 45 4 .0889
+
+combined/combined-intron/combined-intron-astraltree-5-contract.tre intron-indel/intron-indel-astraltree-20-contract.tre 45 7 .1556
+
+combined/combined-intron/combined-intron-astraltree-5-contract.tre intron-indel/intron-indel-astraltree-33-contract.tre 45 6 .1333
+
+combined/combined-intron/combined-intron-astraltree-5-contract.tre intron-indel/intron-indel-astraltree-3-contract.tre 45 2 .0444
+
+combined/combined-intron/combined-intron-astraltree-5-contract.tre intron-indel/intron-indel-astraltree-5-contract.tre 45 2 .0444
+
+combined/combined-intron/combined-intron-astraltree-5-contract.tre intron-indel/intron-indel-astraltree.tre 45 4 .0889
+
+combined/combined-intron/combined-intron-astraltree-5-contract.tre [intron-nt] 
+combined/combined-intron/combined-intron-astraltree-5-contract.tre intron-nt/intron-nt-astraltree-0-contract.tre 45 1 .0222
+
+combined/combined-intron/combined-intron-astraltree-5-contract.tre intron-nt/intron-nt-astraltree-10-contract.tre 45 2 .0444
+
+combined/combined-intron/combined-intron-astraltree-5-contract.tre intron-nt/intron-nt-astraltree-20-contract.tre 45 3 .0667
+
+combined/combined-intron/combined-intron-astraltree-5-contract.tre intron-nt/intron-nt-astraltree-33-contract.tre 45 3 .0667
+
+combined/combined-intron/combined-intron-astraltree-5-contract.tre intron-nt/intron-nt-astraltree-3-contract.tre 45 1 .0222
+
+combined/combined-intron/combined-intron-astraltree-5-contract.tre intron-nt/intron-nt-astraltree-5-contract.tre 45 1 .0222
+
+combined/combined-intron/combined-intron-astraltree-5-contract.tre intron-nt/intron-nt-astraltree.tre 45 3 .0667
+
+combined/combined-intron/combined-intron-astraltree-5-contract.tre [uce-indel] 
+combined/combined-intron/combined-intron-astraltree-5-contract.tre uce-indel/uce-indel-astraltree-0-contract.tre 45 13 .2889
+
+combined/combined-intron/combined-intron-astraltree-5-contract.tre uce-indel/uce-indel-astraltree-10-contract.tre 45 10 .2222
+
+combined/combined-intron/combined-intron-astraltree-5-contract.tre uce-indel/uce-indel-astraltree-20-contract.tre 45 9 .2
+
+combined/combined-intron/combined-intron-astraltree-5-contract.tre uce-indel/uce-indel-astraltree-33-contract.tre 45 10 .2222
+
+combined/combined-intron/combined-intron-astraltree-5-contract.tre uce-indel/uce-indel-astraltree-3-contract.tre 45 12 .2667
+
+combined/combined-intron/combined-intron-astraltree-5-contract.tre uce-indel/uce-indel-astraltree-5-contract.tre 45 10 .2222
+
+combined/combined-intron/combined-intron-astraltree-5-contract.tre uce-indel/uce-indel-astraltree.tre 45 13 .2889
+
+combined/combined-intron/combined-intron-astraltree-5-contract.tre [uce-nt] 
+combined/combined-intron/combined-intron-astraltree-5-contract.tre uce-nt/uce-nt-astraltree-0-contract.tre 45 7 .1556
+
+combined/combined-intron/combined-intron-astraltree-5-contract.tre uce-nt/uce-nt-astraltree-10-contract.tre 45 7 .1556
+
+combined/combined-intron/combined-intron-astraltree-5-contract.tre uce-nt/uce-nt-astraltree-20-contract.tre 45 8 .1778
+
+combined/combined-intron/combined-intron-astraltree-5-contract.tre uce-nt/uce-nt-astraltree-33-contract.tre 45 8 .1778
+
+combined/combined-intron/combined-intron-astraltree-5-contract.tre uce-nt/uce-nt-astraltree-3-contract.tre 45 7 .1556
+
+combined/combined-intron/combined-intron-astraltree-5-contract.tre uce-nt/uce-nt-astraltree-5-contract.tre 45 8 .1778
+
+combined/combined-intron/combined-intron-astraltree-5-contract.tre uce-nt/uce-nt-astraltree.tre 45 5 .1111
+
+combined/combined-nt/combined-nt-astraltree-5-contract.tre [combined] 
+combined/combined-nt/combined-nt-astraltree-5-contract.tre combined/combined-combined-astraltree-5-contract.tre 45 2 .0444
+
+combined/combined-nt/combined-nt-astraltree-5-contract.tre combined/combined-indel/combined-indel-astraltree-5-contract.tre 45 8 .1778
+
+combined/combined-nt/combined-nt-astraltree-5-contract.tre combined/combined-intron/combined-intron-astraltree-5-contract.tre 45 4 .0889
+
+combined/combined-nt/combined-nt-astraltree-5-contract.tre combined/combined-nt/combined-nt-astraltree-5-contract.tre 45 0 0
+
+combined/combined-nt/combined-nt-astraltree-5-contract.tre combined/combined-uce/combined-uce-astraltree-5-contract.tre 45 3 .0667
+
+combined/combined-nt/combined-nt-astraltree-5-contract.tre [intron-indel] 
+combined/combined-nt/combined-nt-astraltree-5-contract.tre intron-indel/intron-indel-astraltree-0-contract.tre 45 7 .1556
+
+combined/combined-nt/combined-nt-astraltree-5-contract.tre intron-indel/intron-indel-astraltree-10-contract.tre 45 6 .1333
+
+combined/combined-nt/combined-nt-astraltree-5-contract.tre intron-indel/intron-indel-astraltree-20-contract.tre 45 7 .1556
+
+combined/combined-nt/combined-nt-astraltree-5-contract.tre intron-indel/intron-indel-astraltree-33-contract.tre 45 6 .1333
+
+combined/combined-nt/combined-nt-astraltree-5-contract.tre intron-indel/intron-indel-astraltree-3-contract.tre 45 6 .1333
+
+combined/combined-nt/combined-nt-astraltree-5-contract.tre intron-indel/intron-indel-astraltree-5-contract.tre 45 6 .1333
+
+combined/combined-nt/combined-nt-astraltree-5-contract.tre intron-indel/intron-indel-astraltree.tre 45 8 .1778
+
+combined/combined-nt/combined-nt-astraltree-5-contract.tre [intron-nt] 
+combined/combined-nt/combined-nt-astraltree-5-contract.tre intron-nt/intron-nt-astraltree-0-contract.tre 45 3 .0667
+
+combined/combined-nt/combined-nt-astraltree-5-contract.tre intron-nt/intron-nt-astraltree-10-contract.tre 45 2 .0444
+
+combined/combined-nt/combined-nt-astraltree-5-contract.tre intron-nt/intron-nt-astraltree-20-contract.tre 45 1 .0222
+
+combined/combined-nt/combined-nt-astraltree-5-contract.tre intron-nt/intron-nt-astraltree-33-contract.tre 45 3 .0667
+
+combined/combined-nt/combined-nt-astraltree-5-contract.tre intron-nt/intron-nt-astraltree-3-contract.tre 45 3 .0667
+
+combined/combined-nt/combined-nt-astraltree-5-contract.tre intron-nt/intron-nt-astraltree-5-contract.tre 45 3 .0667
+
+combined/combined-nt/combined-nt-astraltree-5-contract.tre intron-nt/intron-nt-astraltree.tre 45 4 .0889
+
+combined/combined-nt/combined-nt-astraltree-5-contract.tre [uce-indel] 
+combined/combined-nt/combined-nt-astraltree-5-contract.tre uce-indel/uce-indel-astraltree-0-contract.tre 45 13 .2889
+
+combined/combined-nt/combined-nt-astraltree-5-contract.tre uce-indel/uce-indel-astraltree-10-contract.tre 45 12 .2667
+
+combined/combined-nt/combined-nt-astraltree-5-contract.tre uce-indel/uce-indel-astraltree-20-contract.tre 45 9 .2
+
+combined/combined-nt/combined-nt-astraltree-5-contract.tre uce-indel/uce-indel-astraltree-33-contract.tre 45 10 .2222
+
+combined/combined-nt/combined-nt-astraltree-5-contract.tre uce-indel/uce-indel-astraltree-3-contract.tre 45 13 .2889
+
+combined/combined-nt/combined-nt-astraltree-5-contract.tre uce-indel/uce-indel-astraltree-5-contract.tre 45 9 .2
+
+combined/combined-nt/combined-nt-astraltree-5-contract.tre uce-indel/uce-indel-astraltree.tre 45 13 .2889
+
+combined/combined-nt/combined-nt-astraltree-5-contract.tre [uce-nt] 
+combined/combined-nt/combined-nt-astraltree-5-contract.tre uce-nt/uce-nt-astraltree-0-contract.tre 45 4 .0889
+
+combined/combined-nt/combined-nt-astraltree-5-contract.tre uce-nt/uce-nt-astraltree-10-contract.tre 45 4 .0889
+
+combined/combined-nt/combined-nt-astraltree-5-contract.tre uce-nt/uce-nt-astraltree-20-contract.tre 45 5 .1111
+
+combined/combined-nt/combined-nt-astraltree-5-contract.tre uce-nt/uce-nt-astraltree-33-contract.tre 45 4 .0889
+
+combined/combined-nt/combined-nt-astraltree-5-contract.tre uce-nt/uce-nt-astraltree-3-contract.tre 45 4 .0889
+
+combined/combined-nt/combined-nt-astraltree-5-contract.tre uce-nt/uce-nt-astraltree-5-contract.tre 45 5 .1111
+
+combined/combined-nt/combined-nt-astraltree-5-contract.tre uce-nt/uce-nt-astraltree.tre 45 3 .0667
+
+combined/combined-uce/combined-uce-astraltree-5-contract.tre [combined] 
+combined/combined-uce/combined-uce-astraltree-5-contract.tre combined/combined-combined-astraltree-5-contract.tre 45 1 .0222
+
+combined/combined-uce/combined-uce-astraltree-5-contract.tre combined/combined-indel/combined-indel-astraltree-5-contract.tre 45 7 .1556
+
+combined/combined-uce/combined-uce-astraltree-5-contract.tre combined/combined-intron/combined-intron-astraltree-5-contract.tre 45 3 .0667
+
+combined/combined-uce/combined-uce-astraltree-5-contract.tre combined/combined-nt/combined-nt-astraltree-5-contract.tre 45 3 .0667
+
+combined/combined-uce/combined-uce-astraltree-5-contract.tre combined/combined-uce/combined-uce-astraltree-5-contract.tre 45 0 0
+
+combined/combined-uce/combined-uce-astraltree-5-contract.tre [intron-indel] 
+combined/combined-uce/combined-uce-astraltree-5-contract.tre intron-indel/intron-indel-astraltree-0-contract.tre 45 6 .1333
+
+combined/combined-uce/combined-uce-astraltree-5-contract.tre intron-indel/intron-indel-astraltree-10-contract.tre 45 5 .1111
+
+combined/combined-uce/combined-uce-astraltree-5-contract.tre intron-indel/intron-indel-astraltree-20-contract.tre 45 7 .1556
+
+combined/combined-uce/combined-uce-astraltree-5-contract.tre intron-indel/intron-indel-astraltree-33-contract.tre 45 6 .1333
+
+combined/combined-uce/combined-uce-astraltree-5-contract.tre intron-indel/intron-indel-astraltree-3-contract.tre 45 5 .1111
+
+combined/combined-uce/combined-uce-astraltree-5-contract.tre intron-indel/intron-indel-astraltree-5-contract.tre 45 5 .1111
+
+combined/combined-uce/combined-uce-astraltree-5-contract.tre intron-indel/intron-indel-astraltree.tre 45 7 .1556
+
+combined/combined-uce/combined-uce-astraltree-5-contract.tre [intron-nt] 
+combined/combined-uce/combined-uce-astraltree-5-contract.tre intron-nt/intron-nt-astraltree-0-contract.tre 45 2 .0444
+
+combined/combined-uce/combined-uce-astraltree-5-contract.tre intron-nt/intron-nt-astraltree-10-contract.tre 45 3 .0667
+
+combined/combined-uce/combined-uce-astraltree-5-contract.tre intron-nt/intron-nt-astraltree-20-contract.tre 45 4 .0889
+
+combined/combined-uce/combined-uce-astraltree-5-contract.tre intron-nt/intron-nt-astraltree-33-contract.tre 45 5 .1111
+
+combined/combined-uce/combined-uce-astraltree-5-contract.tre intron-nt/intron-nt-astraltree-3-contract.tre 45 2 .0444
+
+combined/combined-uce/combined-uce-astraltree-5-contract.tre intron-nt/intron-nt-astraltree-5-contract.tre 45 2 .0444
+
+combined/combined-uce/combined-uce-astraltree-5-contract.tre intron-nt/intron-nt-astraltree.tre 45 4 .0889
+
+combined/combined-uce/combined-uce-astraltree-5-contract.tre [uce-indel] 
+combined/combined-uce/combined-uce-astraltree-5-contract.tre uce-indel/uce-indel-astraltree-0-contract.tre 45 12 .2667
+
+combined/combined-uce/combined-uce-astraltree-5-contract.tre uce-indel/uce-indel-astraltree-10-contract.tre 45 12 .2667
+
+combined/combined-uce/combined-uce-astraltree-5-contract.tre uce-indel/uce-indel-astraltree-20-contract.tre 45 8 .1778
+
+combined/combined-uce/combined-uce-astraltree-5-contract.tre uce-indel/uce-indel-astraltree-33-contract.tre 45 9 .2
+
+combined/combined-uce/combined-uce-astraltree-5-contract.tre uce-indel/uce-indel-astraltree-3-contract.tre 45 14 .3111
+
+combined/combined-uce/combined-uce-astraltree-5-contract.tre uce-indel/uce-indel-astraltree-5-contract.tre 45 9 .2
+
+combined/combined-uce/combined-uce-astraltree-5-contract.tre uce-indel/uce-indel-astraltree.tre 45 12 .2667
+
+combined/combined-uce/combined-uce-astraltree-5-contract.tre [uce-nt] 
+combined/combined-uce/combined-uce-astraltree-5-contract.tre uce-nt/uce-nt-astraltree-0-contract.tre 45 4 .0889
+
+combined/combined-uce/combined-uce-astraltree-5-contract.tre uce-nt/uce-nt-astraltree-10-contract.tre 45 4 .0889
+
+combined/combined-uce/combined-uce-astraltree-5-contract.tre uce-nt/uce-nt-astraltree-20-contract.tre 45 5 .1111
+
+combined/combined-uce/combined-uce-astraltree-5-contract.tre uce-nt/uce-nt-astraltree-33-contract.tre 45 5 .1111
+
+combined/combined-uce/combined-uce-astraltree-5-contract.tre uce-nt/uce-nt-astraltree-3-contract.tre 45 4 .0889
+
+combined/combined-uce/combined-uce-astraltree-5-contract.tre uce-nt/uce-nt-astraltree-5-contract.tre 45 5 .1111
+
+combined/combined-uce/combined-uce-astraltree-5-contract.tre uce-nt/uce-nt-astraltree.tre 45 2 .0444
+
+[intron-indel] [combined] 
+[intron-indel] combined/combined-combined-astraltree-5-contract.tre -
+
+[intron-indel] combined/combined-indel/combined-indel-astraltree-5-contract.tre -
+
+[intron-indel] combined/combined-intron/combined-intron-astraltree-5-contract.tre -
+
+[intron-indel] combined/combined-nt/combined-nt-astraltree-5-contract.tre -
+
+[intron-indel] combined/combined-uce/combined-uce-astraltree-5-contract.tre -
+
+[intron-indel] [intron-indel] 
+[intron-indel] intron-indel/intron-indel-astraltree-0-contract.tre -
+
+[intron-indel] intron-indel/intron-indel-astraltree-10-contract.tre -
+
+[intron-indel] intron-indel/intron-indel-astraltree-20-contract.tre -
+
+[intron-indel] intron-indel/intron-indel-astraltree-33-contract.tre -
+
+[intron-indel] intron-indel/intron-indel-astraltree-3-contract.tre -
+
+[intron-indel] intron-indel/intron-indel-astraltree-5-contract.tre -
+
+[intron-indel] intron-indel/intron-indel-astraltree.tre -
+
+[intron-indel] [intron-nt] 
+[intron-indel] intron-nt/intron-nt-astraltree-0-contract.tre -
+
+[intron-indel] intron-nt/intron-nt-astraltree-10-contract.tre -
+
+[intron-indel] intron-nt/intron-nt-astraltree-20-contract.tre -
+
+[intron-indel] intron-nt/intron-nt-astraltree-33-contract.tre -
+
+[intron-indel] intron-nt/intron-nt-astraltree-3-contract.tre -
+
+[intron-indel] intron-nt/intron-nt-astraltree-5-contract.tre -
+
+[intron-indel] intron-nt/intron-nt-astraltree.tre -
+
+[intron-indel] [uce-indel] 
+[intron-indel] uce-indel/uce-indel-astraltree-0-contract.tre -
+
+[intron-indel] uce-indel/uce-indel-astraltree-10-contract.tre -
+
+[intron-indel] uce-indel/uce-indel-astraltree-20-contract.tre -
+
+[intron-indel] uce-indel/uce-indel-astraltree-33-contract.tre -
+
+[intron-indel] uce-indel/uce-indel-astraltree-3-contract.tre -
+
+[intron-indel] uce-indel/uce-indel-astraltree-5-contract.tre -
+
+[intron-indel] uce-indel/uce-indel-astraltree.tre -
+
+[intron-indel] [uce-nt] 
+[intron-indel] uce-nt/uce-nt-astraltree-0-contract.tre -
+
+[intron-indel] uce-nt/uce-nt-astraltree-10-contract.tre -
+
+[intron-indel] uce-nt/uce-nt-astraltree-20-contract.tre -
+
+[intron-indel] uce-nt/uce-nt-astraltree-33-contract.tre -
+
+[intron-indel] uce-nt/uce-nt-astraltree-3-contract.tre -
+
+[intron-indel] uce-nt/uce-nt-astraltree-5-contract.tre -
+
+[intron-indel] uce-nt/uce-nt-astraltree.tre -
+
+intron-indel/intron-indel-astraltree-0-contract.tre [combined] 
+intron-indel/intron-indel-astraltree-0-contract.tre combined/combined-combined-astraltree-5-contract.tre 45 5 .1111
+
+intron-indel/intron-indel-astraltree-0-contract.tre combined/combined-indel/combined-indel-astraltree-5-contract.tre 45 6 .1333
+
+intron-indel/intron-indel-astraltree-0-contract.tre combined/combined-intron/combined-intron-astraltree-5-contract.tre 45 3 .0667
+
+intron-indel/intron-indel-astraltree-0-contract.tre combined/combined-nt/combined-nt-astraltree-5-contract.tre 45 7 .1556
+
+intron-indel/intron-indel-astraltree-0-contract.tre combined/combined-uce/combined-uce-astraltree-5-contract.tre 45 6 .1333
+
+intron-indel/intron-indel-astraltree-0-contract.tre [intron-indel] 
+intron-indel/intron-indel-astraltree-0-contract.tre intron-indel/intron-indel-astraltree-0-contract.tre 45 0 0
+
+intron-indel/intron-indel-astraltree-0-contract.tre intron-indel/intron-indel-astraltree-10-contract.tre 45 2 .0444
+
+intron-indel/intron-indel-astraltree-0-contract.tre intron-indel/intron-indel-astraltree-20-contract.tre 45 5 .1111
+
+intron-indel/intron-indel-astraltree-0-contract.tre intron-indel/intron-indel-astraltree-33-contract.tre 45 6 .1333
+
+intron-indel/intron-indel-astraltree-0-contract.tre intron-indel/intron-indel-astraltree-3-contract.tre 45 1 .0222
+
+intron-indel/intron-indel-astraltree-0-contract.tre intron-indel/intron-indel-astraltree-5-contract.tre 45 2 .0444
+
+intron-indel/intron-indel-astraltree-0-contract.tre intron-indel/intron-indel-astraltree.tre 45 1 .0222
+
+intron-indel/intron-indel-astraltree-0-contract.tre [intron-nt] 
+intron-indel/intron-indel-astraltree-0-contract.tre intron-nt/intron-nt-astraltree-0-contract.tre 45 4 .0889
+
+intron-indel/intron-indel-astraltree-0-contract.tre intron-nt/intron-nt-astraltree-10-contract.tre 45 5 .1111
+
+intron-indel/intron-indel-astraltree-0-contract.tre intron-nt/intron-nt-astraltree-20-contract.tre 45 6 .1333
+
+intron-indel/intron-indel-astraltree-0-contract.tre intron-nt/intron-nt-astraltree-33-contract.tre 45 6 .1333
+
+intron-indel/intron-indel-astraltree-0-contract.tre intron-nt/intron-nt-astraltree-3-contract.tre 45 4 .0889
+
+intron-indel/intron-indel-astraltree-0-contract.tre intron-nt/intron-nt-astraltree-5-contract.tre 45 4 .0889
+
+intron-indel/intron-indel-astraltree-0-contract.tre intron-nt/intron-nt-astraltree.tre 45 6 .1333
+
+intron-indel/intron-indel-astraltree-0-contract.tre [uce-indel] 
+intron-indel/intron-indel-astraltree-0-contract.tre uce-indel/uce-indel-astraltree-0-contract.tre 45 12 .2667
+
+intron-indel/intron-indel-astraltree-0-contract.tre uce-indel/uce-indel-astraltree-10-contract.tre 45 10 .2222
+
+intron-indel/intron-indel-astraltree-0-contract.tre uce-indel/uce-indel-astraltree-20-contract.tre 45 8 .1778
+
+intron-indel/intron-indel-astraltree-0-contract.tre uce-indel/uce-indel-astraltree-33-contract.tre 45 9 .2
+
+intron-indel/intron-indel-astraltree-0-contract.tre uce-indel/uce-indel-astraltree-3-contract.tre 45 11 .2444
+
+intron-indel/intron-indel-astraltree-0-contract.tre uce-indel/uce-indel-astraltree-5-contract.tre 45 10 .2222
+
+intron-indel/intron-indel-astraltree-0-contract.tre uce-indel/uce-indel-astraltree.tre 45 12 .2667
+
+intron-indel/intron-indel-astraltree-0-contract.tre [uce-nt] 
+intron-indel/intron-indel-astraltree-0-contract.tre uce-nt/uce-nt-astraltree-0-contract.tre 45 8 .1778
+
+intron-indel/intron-indel-astraltree-0-contract.tre uce-nt/uce-nt-astraltree-10-contract.tre 45 8 .1778
+
+intron-indel/intron-indel-astraltree-0-contract.tre uce-nt/uce-nt-astraltree-20-contract.tre 45 8 .1778
+
+intron-indel/intron-indel-astraltree-0-contract.tre uce-nt/uce-nt-astraltree-33-contract.tre 45 9 .2
+
+intron-indel/intron-indel-astraltree-0-contract.tre uce-nt/uce-nt-astraltree-3-contract.tre 45 8 .1778
+
+intron-indel/intron-indel-astraltree-0-contract.tre uce-nt/uce-nt-astraltree-5-contract.tre 45 9 .2
+
+intron-indel/intron-indel-astraltree-0-contract.tre uce-nt/uce-nt-astraltree.tre 45 8 .1778
+
+intron-indel/intron-indel-astraltree-10-contract.tre [combined] 
+intron-indel/intron-indel-astraltree-10-contract.tre combined/combined-combined-astraltree-5-contract.tre 45 4 .0889
+
+intron-indel/intron-indel-astraltree-10-contract.tre combined/combined-indel/combined-indel-astraltree-5-contract.tre 45 5 .1111
+
+intron-indel/intron-indel-astraltree-10-contract.tre combined/combined-intron/combined-intron-astraltree-5-contract.tre 45 4 .0889
+
+intron-indel/intron-indel-astraltree-10-contract.tre combined/combined-nt/combined-nt-astraltree-5-contract.tre 45 6 .1333
+
+intron-indel/intron-indel-astraltree-10-contract.tre combined/combined-uce/combined-uce-astraltree-5-contract.tre 45 5 .1111
+
+intron-indel/intron-indel-astraltree-10-contract.tre [intron-indel] 
+intron-indel/intron-indel-astraltree-10-contract.tre intron-indel/intron-indel-astraltree-0-contract.tre 45 2 .0444
+
+intron-indel/intron-indel-astraltree-10-contract.tre intron-indel/intron-indel-astraltree-10-contract.tre 45 0 0
+
+intron-indel/intron-indel-astraltree-10-contract.tre intron-indel/intron-indel-astraltree-20-contract.tre 45 4 .0889
+
+intron-indel/intron-indel-astraltree-10-contract.tre intron-indel/intron-indel-astraltree-33-contract.tre 45 5 .1111
+
+intron-indel/intron-indel-astraltree-10-contract.tre intron-indel/intron-indel-astraltree-3-contract.tre 45 3 .0667
+
+intron-indel/intron-indel-astraltree-10-contract.tre intron-indel/intron-indel-astraltree-5-contract.tre 45 2 .0444
+
+intron-indel/intron-indel-astraltree-10-contract.tre intron-indel/intron-indel-astraltree.tre 45 3 .0667
+
+intron-indel/intron-indel-astraltree-10-contract.tre [intron-nt] 
+intron-indel/intron-indel-astraltree-10-contract.tre intron-nt/intron-nt-astraltree-0-contract.tre 45 5 .1111
+
+intron-indel/intron-indel-astraltree-10-contract.tre intron-nt/intron-nt-astraltree-10-contract.tre 45 6 .1333
+
+intron-indel/intron-indel-astraltree-10-contract.tre intron-nt/intron-nt-astraltree-20-contract.tre 45 7 .1556
+
+intron-indel/intron-indel-astraltree-10-contract.tre intron-nt/intron-nt-astraltree-33-contract.tre 45 7 .1556
+
+intron-indel/intron-indel-astraltree-10-contract.tre intron-nt/intron-nt-astraltree-3-contract.tre 45 5 .1111
+
+intron-indel/intron-indel-astraltree-10-contract.tre intron-nt/intron-nt-astraltree-5-contract.tre 45 5 .1111
+
+intron-indel/intron-indel-astraltree-10-contract.tre intron-nt/intron-nt-astraltree.tre 45 7 .1556
+
+intron-indel/intron-indel-astraltree-10-contract.tre [uce-indel] 
+intron-indel/intron-indel-astraltree-10-contract.tre uce-indel/uce-indel-astraltree-0-contract.tre 45 11 .2444
+
+intron-indel/intron-indel-astraltree-10-contract.tre uce-indel/uce-indel-astraltree-10-contract.tre 45 11 .2444
+
+intron-indel/intron-indel-astraltree-10-contract.tre uce-indel/uce-indel-astraltree-20-contract.tre 45 8 .1778
+
+intron-indel/intron-indel-astraltree-10-contract.tre uce-indel/uce-indel-astraltree-33-contract.tre 45 9 .2
+
+intron-indel/intron-indel-astraltree-10-contract.tre uce-indel/uce-indel-astraltree-3-contract.tre 45 12 .2667
+
+intron-indel/intron-indel-astraltree-10-contract.tre uce-indel/uce-indel-astraltree-5-contract.tre 45 9 .2
+
+intron-indel/intron-indel-astraltree-10-contract.tre uce-indel/uce-indel-astraltree.tre 45 11 .2444
+
+intron-indel/intron-indel-astraltree-10-contract.tre [uce-nt] 
+intron-indel/intron-indel-astraltree-10-contract.tre uce-nt/uce-nt-astraltree-0-contract.tre 45 7 .1556
+
+intron-indel/intron-indel-astraltree-10-contract.tre uce-nt/uce-nt-astraltree-10-contract.tre 45 7 .1556
+
+intron-indel/intron-indel-astraltree-10-contract.tre uce-nt/uce-nt-astraltree-20-contract.tre 45 7 .1556
+
+intron-indel/intron-indel-astraltree-10-contract.tre uce-nt/uce-nt-astraltree-33-contract.tre 45 8 .1778
+
+intron-indel/intron-indel-astraltree-10-contract.tre uce-nt/uce-nt-astraltree-3-contract.tre 45 7 .1556
+
+intron-indel/intron-indel-astraltree-10-contract.tre uce-nt/uce-nt-astraltree-5-contract.tre 45 8 .1778
+
+intron-indel/intron-indel-astraltree-10-contract.tre uce-nt/uce-nt-astraltree.tre 45 7 .1556
+
+intron-indel/intron-indel-astraltree-20-contract.tre [combined] 
+intron-indel/intron-indel-astraltree-20-contract.tre combined/combined-combined-astraltree-5-contract.tre 45 6 .1333
+
+intron-indel/intron-indel-astraltree-20-contract.tre combined/combined-indel/combined-indel-astraltree-5-contract.tre 45 8 .1778
+
+intron-indel/intron-indel-astraltree-20-contract.tre combined/combined-intron/combined-intron-astraltree-5-contract.tre 45 7 .1556
+
+intron-indel/intron-indel-astraltree-20-contract.tre combined/combined-nt/combined-nt-astraltree-5-contract.tre 45 7 .1556
+
+intron-indel/intron-indel-astraltree-20-contract.tre combined/combined-uce/combined-uce-astraltree-5-contract.tre 45 7 .1556
+
+intron-indel/intron-indel-astraltree-20-contract.tre [intron-indel] 
+intron-indel/intron-indel-astraltree-20-contract.tre intron-indel/intron-indel-astraltree-0-contract.tre 45 5 .1111
+
+intron-indel/intron-indel-astraltree-20-contract.tre intron-indel/intron-indel-astraltree-10-contract.tre 45 4 .0889
+
+intron-indel/intron-indel-astraltree-20-contract.tre intron-indel/intron-indel-astraltree-20-contract.tre 45 0 0
+
+intron-indel/intron-indel-astraltree-20-contract.tre intron-indel/intron-indel-astraltree-33-contract.tre 45 1 .0222
+
+intron-indel/intron-indel-astraltree-20-contract.tre intron-indel/intron-indel-astraltree-3-contract.tre 45 6 .1333
+
+intron-indel/intron-indel-astraltree-20-contract.tre intron-indel/intron-indel-astraltree-5-contract.tre 45 6 .1333
+
+intron-indel/intron-indel-astraltree-20-contract.tre intron-indel/intron-indel-astraltree.tre 45 6 .1333
+
+intron-indel/intron-indel-astraltree-20-contract.tre [intron-nt] 
+intron-indel/intron-indel-astraltree-20-contract.tre intron-nt/intron-nt-astraltree-0-contract.tre 45 7 .1556
+
+intron-indel/intron-indel-astraltree-20-contract.tre intron-nt/intron-nt-astraltree-10-contract.tre 45 8 .1778
+
+intron-indel/intron-indel-astraltree-20-contract.tre intron-nt/intron-nt-astraltree-20-contract.tre 45 8 .1778
+
+intron-indel/intron-indel-astraltree-20-contract.tre intron-nt/intron-nt-astraltree-33-contract.tre 45 8 .1778
+
+intron-indel/intron-indel-astraltree-20-contract.tre intron-nt/intron-nt-astraltree-3-contract.tre 45 7 .1556
+
+intron-indel/intron-indel-astraltree-20-contract.tre intron-nt/intron-nt-astraltree-5-contract.tre 45 7 .1556
+
+intron-indel/intron-indel-astraltree-20-contract.tre intron-nt/intron-nt-astraltree.tre 45 9 .2
+
+intron-indel/intron-indel-astraltree-20-contract.tre [uce-indel] 
+intron-indel/intron-indel-astraltree-20-contract.tre uce-indel/uce-indel-astraltree-0-contract.tre 45 12 .2667
+
+intron-indel/intron-indel-astraltree-20-contract.tre uce-indel/uce-indel-astraltree-10-contract.tre 45 13 .2889
+
+intron-indel/intron-indel-astraltree-20-contract.tre uce-indel/uce-indel-astraltree-20-contract.tre 45 9 .2
+
+intron-indel/intron-indel-astraltree-20-contract.tre uce-indel/uce-indel-astraltree-33-contract.tre 45 9 .2
+
+intron-indel/intron-indel-astraltree-20-contract.tre uce-indel/uce-indel-astraltree-3-contract.tre 45 13 .2889
+
+intron-indel/intron-indel-astraltree-20-contract.tre uce-indel/uce-indel-astraltree-5-contract.tre 45 11 .2444
+
+intron-indel/intron-indel-astraltree-20-contract.tre uce-indel/uce-indel-astraltree.tre 45 12 .2667
+
+intron-indel/intron-indel-astraltree-20-contract.tre [uce-nt] 
+intron-indel/intron-indel-astraltree-20-contract.tre uce-nt/uce-nt-astraltree-0-contract.tre 45 8 .1778
+
+intron-indel/intron-indel-astraltree-20-contract.tre uce-nt/uce-nt-astraltree-10-contract.tre 45 8 .1778
+
+intron-indel/intron-indel-astraltree-20-contract.tre uce-nt/uce-nt-astraltree-20-contract.tre 45 8 .1778
+
+intron-indel/intron-indel-astraltree-20-contract.tre uce-nt/uce-nt-astraltree-33-contract.tre 45 9 .2
+
+intron-indel/intron-indel-astraltree-20-contract.tre uce-nt/uce-nt-astraltree-3-contract.tre 45 8 .1778
+
+intron-indel/intron-indel-astraltree-20-contract.tre uce-nt/uce-nt-astraltree-5-contract.tre 45 9 .2
+
+intron-indel/intron-indel-astraltree-20-contract.tre uce-nt/uce-nt-astraltree.tre 45 8 .1778
+
+intron-indel/intron-indel-astraltree-33-contract.tre [combined] 
+intron-indel/intron-indel-astraltree-33-contract.tre combined/combined-combined-astraltree-5-contract.tre 45 5 .1111
+
+intron-indel/intron-indel-astraltree-33-contract.tre combined/combined-indel/combined-indel-astraltree-5-contract.tre 45 7 .1556
+
+intron-indel/intron-indel-astraltree-33-contract.tre combined/combined-intron/combined-intron-astraltree-5-contract.tre 45 6 .1333
+
+intron-indel/intron-indel-astraltree-33-contract.tre combined/combined-nt/combined-nt-astraltree-5-contract.tre 45 6 .1333
+
+intron-indel/intron-indel-astraltree-33-contract.tre combined/combined-uce/combined-uce-astraltree-5-contract.tre 45 6 .1333
+
+intron-indel/intron-indel-astraltree-33-contract.tre [intron-indel] 
+intron-indel/intron-indel-astraltree-33-contract.tre intron-indel/intron-indel-astraltree-0-contract.tre 45 6 .1333
+
+intron-indel/intron-indel-astraltree-33-contract.tre intron-indel/intron-indel-astraltree-10-contract.tre 45 5 .1111
+
+intron-indel/intron-indel-astraltree-33-contract.tre intron-indel/intron-indel-astraltree-20-contract.tre 45 1 .0222
+
+intron-indel/intron-indel-astraltree-33-contract.tre intron-indel/intron-indel-astraltree-33-contract.tre 45 0 0
+
+intron-indel/intron-indel-astraltree-33-contract.tre intron-indel/intron-indel-astraltree-3-contract.tre 45 5 .1111
+
+intron-indel/intron-indel-astraltree-33-contract.tre intron-indel/intron-indel-astraltree-5-contract.tre 45 5 .1111
+
+intron-indel/intron-indel-astraltree-33-contract.tre intron-indel/intron-indel-astraltree.tre 45 7 .1556
+
+intron-indel/intron-indel-astraltree-33-contract.tre [intron-nt] 
+intron-indel/intron-indel-astraltree-33-contract.tre intron-nt/intron-nt-astraltree-0-contract.tre 45 6 .1333
+
+intron-indel/intron-indel-astraltree-33-contract.tre intron-nt/intron-nt-astraltree-10-contract.tre 45 7 .1556
+
+intron-indel/intron-indel-astraltree-33-contract.tre intron-nt/intron-nt-astraltree-20-contract.tre 45 7 .1556
+
+intron-indel/intron-indel-astraltree-33-contract.tre intron-nt/intron-nt-astraltree-33-contract.tre 45 7 .1556
+
+intron-indel/intron-indel-astraltree-33-contract.tre intron-nt/intron-nt-astraltree-3-contract.tre 45 6 .1333
+
+intron-indel/intron-indel-astraltree-33-contract.tre intron-nt/intron-nt-astraltree-5-contract.tre 45 6 .1333
+
+intron-indel/intron-indel-astraltree-33-contract.tre intron-nt/intron-nt-astraltree.tre 45 8 .1778
+
+intron-indel/intron-indel-astraltree-33-contract.tre [uce-indel] 
+intron-indel/intron-indel-astraltree-33-contract.tre uce-indel/uce-indel-astraltree-0-contract.tre 45 12 .2667
+
+intron-indel/intron-indel-astraltree-33-contract.tre uce-indel/uce-indel-astraltree-10-contract.tre 45 12 .2667
+
+intron-indel/intron-indel-astraltree-33-contract.tre uce-indel/uce-indel-astraltree-20-contract.tre 45 8 .1778
+
+intron-indel/intron-indel-astraltree-33-contract.tre uce-indel/uce-indel-astraltree-33-contract.tre 45 8 .1778
+
+intron-indel/intron-indel-astraltree-33-contract.tre uce-indel/uce-indel-astraltree-3-contract.tre 45 13 .2889
+
+intron-indel/intron-indel-astraltree-33-contract.tre uce-indel/uce-indel-astraltree-5-contract.tre 45 10 .2222
+
+intron-indel/intron-indel-astraltree-33-contract.tre uce-indel/uce-indel-astraltree.tre 45 12 .2667
+
+intron-indel/intron-indel-astraltree-33-contract.tre [uce-nt] 
+intron-indel/intron-indel-astraltree-33-contract.tre uce-nt/uce-nt-astraltree-0-contract.tre 45 9 .2
+
+intron-indel/intron-indel-astraltree-33-contract.tre uce-nt/uce-nt-astraltree-10-contract.tre 45 9 .2
+
+intron-indel/intron-indel-astraltree-33-contract.tre uce-nt/uce-nt-astraltree-20-contract.tre 45 9 .2
+
+intron-indel/intron-indel-astraltree-33-contract.tre uce-nt/uce-nt-astraltree-33-contract.tre 45 9 .2
+
+intron-indel/intron-indel-astraltree-33-contract.tre uce-nt/uce-nt-astraltree-3-contract.tre 45 9 .2
+
+intron-indel/intron-indel-astraltree-33-contract.tre uce-nt/uce-nt-astraltree-5-contract.tre 45 10 .2222
+
+intron-indel/intron-indel-astraltree-33-contract.tre uce-nt/uce-nt-astraltree.tre 45 7 .1556
+
+intron-indel/intron-indel-astraltree-3-contract.tre [combined] 
+intron-indel/intron-indel-astraltree-3-contract.tre combined/combined-combined-astraltree-5-contract.tre 45 4 .0889
+
+intron-indel/intron-indel-astraltree-3-contract.tre combined/combined-indel/combined-indel-astraltree-5-contract.tre 45 5 .1111
+
+intron-indel/intron-indel-astraltree-3-contract.tre combined/combined-intron/combined-intron-astraltree-5-contract.tre 45 2 .0444
+
+intron-indel/intron-indel-astraltree-3-contract.tre combined/combined-nt/combined-nt-astraltree-5-contract.tre 45 6 .1333
+
+intron-indel/intron-indel-astraltree-3-contract.tre combined/combined-uce/combined-uce-astraltree-5-contract.tre 45 5 .1111
+
+intron-indel/intron-indel-astraltree-3-contract.tre [intron-indel] 
+intron-indel/intron-indel-astraltree-3-contract.tre intron-indel/intron-indel-astraltree-0-contract.tre 45 1 .0222
+
+intron-indel/intron-indel-astraltree-3-contract.tre intron-indel/intron-indel-astraltree-10-contract.tre 45 3 .0667
+
+intron-indel/intron-indel-astraltree-3-contract.tre intron-indel/intron-indel-astraltree-20-contract.tre 45 6 .1333
+
+intron-indel/intron-indel-astraltree-3-contract.tre intron-indel/intron-indel-astraltree-33-contract.tre 45 5 .1111
+
+intron-indel/intron-indel-astraltree-3-contract.tre intron-indel/intron-indel-astraltree-3-contract.tre 45 0 0
+
+intron-indel/intron-indel-astraltree-3-contract.tre intron-indel/intron-indel-astraltree-5-contract.tre 45 1 .0222
+
+intron-indel/intron-indel-astraltree-3-contract.tre intron-indel/intron-indel-astraltree.tre 45 2 .0444
+
+intron-indel/intron-indel-astraltree-3-contract.tre [intron-nt] 
+intron-indel/intron-indel-astraltree-3-contract.tre intron-nt/intron-nt-astraltree-0-contract.tre 45 3 .0667
+
+intron-indel/intron-indel-astraltree-3-contract.tre intron-nt/intron-nt-astraltree-10-contract.tre 45 4 .0889
+
+intron-indel/intron-indel-astraltree-3-contract.tre intron-nt/intron-nt-astraltree-20-contract.tre 45 5 .1111
+
+intron-indel/intron-indel-astraltree-3-contract.tre intron-nt/intron-nt-astraltree-33-contract.tre 45 5 .1111
+
+intron-indel/intron-indel-astraltree-3-contract.tre intron-nt/intron-nt-astraltree-3-contract.tre 45 3 .0667
+
+intron-indel/intron-indel-astraltree-3-contract.tre intron-nt/intron-nt-astraltree-5-contract.tre 45 3 .0667
+
+intron-indel/intron-indel-astraltree-3-contract.tre intron-nt/intron-nt-astraltree.tre 45 5 .1111
+
+intron-indel/intron-indel-astraltree-3-contract.tre [uce-indel] 
+intron-indel/intron-indel-astraltree-3-contract.tre uce-indel/uce-indel-astraltree-0-contract.tre 45 12 .2667
+
+intron-indel/intron-indel-astraltree-3-contract.tre uce-indel/uce-indel-astraltree-10-contract.tre 45 9 .2
+
+intron-indel/intron-indel-astraltree-3-contract.tre uce-indel/uce-indel-astraltree-20-contract.tre 45 7 .1556
+
+intron-indel/intron-indel-astraltree-3-contract.tre uce-indel/uce-indel-astraltree-33-contract.tre 45 8 .1778
+
+intron-indel/intron-indel-astraltree-3-contract.tre uce-indel/uce-indel-astraltree-3-contract.tre 45 11 .2444
+
+intron-indel/intron-indel-astraltree-3-contract.tre uce-indel/uce-indel-astraltree-5-contract.tre 45 9 .2
+
+intron-indel/intron-indel-astraltree-3-contract.tre uce-indel/uce-indel-astraltree.tre 45 12 .2667
+
+intron-indel/intron-indel-astraltree-3-contract.tre [uce-nt] 
+intron-indel/intron-indel-astraltree-3-contract.tre uce-nt/uce-nt-astraltree-0-contract.tre 45 9 .2
+
+intron-indel/intron-indel-astraltree-3-contract.tre uce-nt/uce-nt-astraltree-10-contract.tre 45 9 .2
+
+intron-indel/intron-indel-astraltree-3-contract.tre uce-nt/uce-nt-astraltree-20-contract.tre 45 9 .2
+
+intron-indel/intron-indel-astraltree-3-contract.tre uce-nt/uce-nt-astraltree-33-contract.tre 45 9 .2
+
+intron-indel/intron-indel-astraltree-3-contract.tre uce-nt/uce-nt-astraltree-3-contract.tre 45 9 .2
+
+intron-indel/intron-indel-astraltree-3-contract.tre uce-nt/uce-nt-astraltree-5-contract.tre 45 10 .2222
+
+intron-indel/intron-indel-astraltree-3-contract.tre uce-nt/uce-nt-astraltree.tre 45 7 .1556
+
+intron-indel/intron-indel-astraltree-5-contract.tre [combined] 
+intron-indel/intron-indel-astraltree-5-contract.tre combined/combined-combined-astraltree-5-contract.tre 45 4 .0889
+
+intron-indel/intron-indel-astraltree-5-contract.tre combined/combined-indel/combined-indel-astraltree-5-contract.tre 45 5 .1111
+
+intron-indel/intron-indel-astraltree-5-contract.tre combined/combined-intron/combined-intron-astraltree-5-contract.tre 45 2 .0444
+
+intron-indel/intron-indel-astraltree-5-contract.tre combined/combined-nt/combined-nt-astraltree-5-contract.tre 45 6 .1333
+
+intron-indel/intron-indel-astraltree-5-contract.tre combined/combined-uce/combined-uce-astraltree-5-contract.tre 45 5 .1111
+
+intron-indel/intron-indel-astraltree-5-contract.tre [intron-indel] 
+intron-indel/intron-indel-astraltree-5-contract.tre intron-indel/intron-indel-astraltree-0-contract.tre 45 2 .0444
+
+intron-indel/intron-indel-astraltree-5-contract.tre intron-indel/intron-indel-astraltree-10-contract.tre 45 2 .0444
+
+intron-indel/intron-indel-astraltree-5-contract.tre intron-indel/intron-indel-astraltree-20-contract.tre 45 6 .1333
+
+intron-indel/intron-indel-astraltree-5-contract.tre intron-indel/intron-indel-astraltree-33-contract.tre 45 5 .1111
+
+intron-indel/intron-indel-astraltree-5-contract.tre intron-indel/intron-indel-astraltree-3-contract.tre 45 1 .0222
+
+intron-indel/intron-indel-astraltree-5-contract.tre intron-indel/intron-indel-astraltree-5-contract.tre 45 0 0
+
+intron-indel/intron-indel-astraltree-5-contract.tre intron-indel/intron-indel-astraltree.tre 45 3 .0667
+
+intron-indel/intron-indel-astraltree-5-contract.tre [intron-nt] 
+intron-indel/intron-indel-astraltree-5-contract.tre intron-nt/intron-nt-astraltree-0-contract.tre 45 3 .0667
+
+intron-indel/intron-indel-astraltree-5-contract.tre intron-nt/intron-nt-astraltree-10-contract.tre 45 4 .0889
+
+intron-indel/intron-indel-astraltree-5-contract.tre intron-nt/intron-nt-astraltree-20-contract.tre 45 5 .1111
+
+intron-indel/intron-indel-astraltree-5-contract.tre intron-nt/intron-nt-astraltree-33-contract.tre 45 5 .1111
+
+intron-indel/intron-indel-astraltree-5-contract.tre intron-nt/intron-nt-astraltree-3-contract.tre 45 3 .0667
+
+intron-indel/intron-indel-astraltree-5-contract.tre intron-nt/intron-nt-astraltree-5-contract.tre 45 3 .0667
+
+intron-indel/intron-indel-astraltree-5-contract.tre intron-nt/intron-nt-astraltree.tre 45 5 .1111
+
+intron-indel/intron-indel-astraltree-5-contract.tre [uce-indel] 
+intron-indel/intron-indel-astraltree-5-contract.tre uce-indel/uce-indel-astraltree-0-contract.tre 45 12 .2667
+
+intron-indel/intron-indel-astraltree-5-contract.tre uce-indel/uce-indel-astraltree-10-contract.tre 45 9 .2
+
+intron-indel/intron-indel-astraltree-5-contract.tre uce-indel/uce-indel-astraltree-20-contract.tre 45 8 .1778
+
+intron-indel/intron-indel-astraltree-5-contract.tre uce-indel/uce-indel-astraltree-33-contract.tre 45 9 .2
+
+intron-indel/intron-indel-astraltree-5-contract.tre uce-indel/uce-indel-astraltree-3-contract.tre 45 11 .2444
+
+intron-indel/intron-indel-astraltree-5-contract.tre uce-indel/uce-indel-astraltree-5-contract.tre 45 9 .2
+
+intron-indel/intron-indel-astraltree-5-contract.tre uce-indel/uce-indel-astraltree.tre 45 12 .2667
+
+intron-indel/intron-indel-astraltree-5-contract.tre [uce-nt] 
+intron-indel/intron-indel-astraltree-5-contract.tre uce-nt/uce-nt-astraltree-0-contract.tre 45 9 .2
+
+intron-indel/intron-indel-astraltree-5-contract.tre uce-nt/uce-nt-astraltree-10-contract.tre 45 9 .2
+
+intron-indel/intron-indel-astraltree-5-contract.tre uce-nt/uce-nt-astraltree-20-contract.tre 45 9 .2
+
+intron-indel/intron-indel-astraltree-5-contract.tre uce-nt/uce-nt-astraltree-33-contract.tre 45 9 .2
+
+intron-indel/intron-indel-astraltree-5-contract.tre uce-nt/uce-nt-astraltree-3-contract.tre 45 9 .2
+
+intron-indel/intron-indel-astraltree-5-contract.tre uce-nt/uce-nt-astraltree-5-contract.tre 45 10 .2222
+
+intron-indel/intron-indel-astraltree-5-contract.tre uce-nt/uce-nt-astraltree.tre 45 7 .1556
+
+intron-indel/intron-indel-astraltree.tre [combined] 
+intron-indel/intron-indel-astraltree.tre combined/combined-combined-astraltree-5-contract.tre 45 6 .1333
+
+intron-indel/intron-indel-astraltree.tre combined/combined-indel/combined-indel-astraltree-5-contract.tre 45 6 .1333
+
+intron-indel/intron-indel-astraltree.tre combined/combined-intron/combined-intron-astraltree-5-contract.tre 45 4 .0889
+
+intron-indel/intron-indel-astraltree.tre combined/combined-nt/combined-nt-astraltree-5-contract.tre 45 8 .1778
+
+intron-indel/intron-indel-astraltree.tre combined/combined-uce/combined-uce-astraltree-5-contract.tre 45 7 .1556
+
+intron-indel/intron-indel-astraltree.tre [intron-indel] 
+intron-indel/intron-indel-astraltree.tre intron-indel/intron-indel-astraltree-0-contract.tre 45 1 .0222
+
+intron-indel/intron-indel-astraltree.tre intron-indel/intron-indel-astraltree-10-contract.tre 45 3 .0667
+
+intron-indel/intron-indel-astraltree.tre intron-indel/intron-indel-astraltree-20-contract.tre 45 6 .1333
+
+intron-indel/intron-indel-astraltree.tre intron-indel/intron-indel-astraltree-33-contract.tre 45 7 .1556
+
+intron-indel/intron-indel-astraltree.tre intron-indel/intron-indel-astraltree-3-contract.tre 45 2 .0444
+
+intron-indel/intron-indel-astraltree.tre intron-indel/intron-indel-astraltree-5-contract.tre 45 3 .0667
+
+intron-indel/intron-indel-astraltree.tre intron-indel/intron-indel-astraltree.tre 45 0 0
+
+intron-indel/intron-indel-astraltree.tre [intron-nt] 
+intron-indel/intron-indel-astraltree.tre intron-nt/intron-nt-astraltree-0-contract.tre 45 5 .1111
+
+intron-indel/intron-indel-astraltree.tre intron-nt/intron-nt-astraltree-10-contract.tre 45 6 .1333
+
+intron-indel/intron-indel-astraltree.tre intron-nt/intron-nt-astraltree-20-contract.tre 45 7 .1556
+
+intron-indel/intron-indel-astraltree.tre intron-nt/intron-nt-astraltree-33-contract.tre 45 7 .1556
+
+intron-indel/intron-indel-astraltree.tre intron-nt/intron-nt-astraltree-3-contract.tre 45 5 .1111
+
+intron-indel/intron-indel-astraltree.tre intron-nt/intron-nt-astraltree-5-contract.tre 45 5 .1111
+
+intron-indel/intron-indel-astraltree.tre intron-nt/intron-nt-astraltree.tre 45 7 .1556
+
+intron-indel/intron-indel-astraltree.tre [uce-indel] 
+intron-indel/intron-indel-astraltree.tre uce-indel/uce-indel-astraltree-0-contract.tre 45 12 .2667
+
+intron-indel/intron-indel-astraltree.tre uce-indel/uce-indel-astraltree-10-contract.tre 45 10 .2222
+
+intron-indel/intron-indel-astraltree.tre uce-indel/uce-indel-astraltree-20-contract.tre 45 8 .1778
+
+intron-indel/intron-indel-astraltree.tre uce-indel/uce-indel-astraltree-33-contract.tre 45 9 .2
+
+intron-indel/intron-indel-astraltree.tre uce-indel/uce-indel-astraltree-3-contract.tre 45 11 .2444
+
+intron-indel/intron-indel-astraltree.tre uce-indel/uce-indel-astraltree-5-contract.tre 45 10 .2222
+
+intron-indel/intron-indel-astraltree.tre uce-indel/uce-indel-astraltree.tre 45 12 .2667
+
+intron-indel/intron-indel-astraltree.tre [uce-nt] 
+intron-indel/intron-indel-astraltree.tre uce-nt/uce-nt-astraltree-0-contract.tre 45 9 .2
+
+intron-indel/intron-indel-astraltree.tre uce-nt/uce-nt-astraltree-10-contract.tre 45 9 .2
+
+intron-indel/intron-indel-astraltree.tre uce-nt/uce-nt-astraltree-20-contract.tre 45 9 .2
+
+intron-indel/intron-indel-astraltree.tre uce-nt/uce-nt-astraltree-33-contract.tre 45 10 .2222
+
+intron-indel/intron-indel-astraltree.tre uce-nt/uce-nt-astraltree-3-contract.tre 45 9 .2
+
+intron-indel/intron-indel-astraltree.tre uce-nt/uce-nt-astraltree-5-contract.tre 45 9 .2
+
+intron-indel/intron-indel-astraltree.tre uce-nt/uce-nt-astraltree.tre 45 9 .2
+
+[intron-nt] [combined] 
+[intron-nt] combined/combined-combined-astraltree-5-contract.tre -
+
+[intron-nt] combined/combined-indel/combined-indel-astraltree-5-contract.tre -
+
+[intron-nt] combined/combined-intron/combined-intron-astraltree-5-contract.tre -
+
+[intron-nt] combined/combined-nt/combined-nt-astraltree-5-contract.tre -
+
+[intron-nt] combined/combined-uce/combined-uce-astraltree-5-contract.tre -
+
+[intron-nt] [intron-indel] 
+[intron-nt] intron-indel/intron-indel-astraltree-0-contract.tre -
+
+[intron-nt] intron-indel/intron-indel-astraltree-10-contract.tre -
+
+[intron-nt] intron-indel/intron-indel-astraltree-20-contract.tre -
+
+[intron-nt] intron-indel/intron-indel-astraltree-33-contract.tre -
+
+[intron-nt] intron-indel/intron-indel-astraltree-3-contract.tre -
+
+[intron-nt] intron-indel/intron-indel-astraltree-5-contract.tre -
+
+[intron-nt] intron-indel/intron-indel-astraltree.tre -
+
+[intron-nt] [intron-nt] 
+[intron-nt] intron-nt/intron-nt-astraltree-0-contract.tre -
+
+[intron-nt] intron-nt/intron-nt-astraltree-10-contract.tre -
+
+[intron-nt] intron-nt/intron-nt-astraltree-20-contract.tre -
+
+[intron-nt] intron-nt/intron-nt-astraltree-33-contract.tre -
+
+[intron-nt] intron-nt/intron-nt-astraltree-3-contract.tre -
+
+[intron-nt] intron-nt/intron-nt-astraltree-5-contract.tre -
+
+[intron-nt] intron-nt/intron-nt-astraltree.tre -
+
+[intron-nt] [uce-indel] 
+[intron-nt] uce-indel/uce-indel-astraltree-0-contract.tre -
+
+[intron-nt] uce-indel/uce-indel-astraltree-10-contract.tre -
+
+[intron-nt] uce-indel/uce-indel-astraltree-20-contract.tre -
+
+[intron-nt] uce-indel/uce-indel-astraltree-33-contract.tre -
+
+[intron-nt] uce-indel/uce-indel-astraltree-3-contract.tre -
+
+[intron-nt] uce-indel/uce-indel-astraltree-5-contract.tre -
+
+[intron-nt] uce-indel/uce-indel-astraltree.tre -
+
+[intron-nt] [uce-nt] 
+[intron-nt] uce-nt/uce-nt-astraltree-0-contract.tre -
+
+[intron-nt] uce-nt/uce-nt-astraltree-10-contract.tre -
+
+[intron-nt] uce-nt/uce-nt-astraltree-20-contract.tre -
+
+[intron-nt] uce-nt/uce-nt-astraltree-33-contract.tre -
+
+[intron-nt] uce-nt/uce-nt-astraltree-3-contract.tre -
+
+[intron-nt] uce-nt/uce-nt-astraltree-5-contract.tre -
+
+[intron-nt] uce-nt/uce-nt-astraltree.tre -
+
+intron-nt/intron-nt-astraltree-0-contract.tre [combined] 
+intron-nt/intron-nt-astraltree-0-contract.tre combined/combined-combined-astraltree-5-contract.tre 45 1 .0222
+
+intron-nt/intron-nt-astraltree-0-contract.tre combined/combined-indel/combined-indel-astraltree-5-contract.tre 45 7 .1556
+
+intron-nt/intron-nt-astraltree-0-contract.tre combined/combined-intron/combined-intron-astraltree-5-contract.tre 45 1 .0222
+
+intron-nt/intron-nt-astraltree-0-contract.tre combined/combined-nt/combined-nt-astraltree-5-contract.tre 45 3 .0667
+
+intron-nt/intron-nt-astraltree-0-contract.tre combined/combined-uce/combined-uce-astraltree-5-contract.tre 45 2 .0444
+
+intron-nt/intron-nt-astraltree-0-contract.tre [intron-indel] 
+intron-nt/intron-nt-astraltree-0-contract.tre intron-indel/intron-indel-astraltree-0-contract.tre 45 4 .0889
+
+intron-nt/intron-nt-astraltree-0-contract.tre intron-indel/intron-indel-astraltree-10-contract.tre 45 5 .1111
+
+intron-nt/intron-nt-astraltree-0-contract.tre intron-indel/intron-indel-astraltree-20-contract.tre 45 7 .1556
+
+intron-nt/intron-nt-astraltree-0-contract.tre intron-indel/intron-indel-astraltree-33-contract.tre 45 6 .1333
+
+intron-nt/intron-nt-astraltree-0-contract.tre intron-indel/intron-indel-astraltree-3-contract.tre 45 3 .0667
+
+intron-nt/intron-nt-astraltree-0-contract.tre intron-indel/intron-indel-astraltree-5-contract.tre 45 3 .0667
+
+intron-nt/intron-nt-astraltree-0-contract.tre intron-indel/intron-indel-astraltree.tre 45 5 .1111
+
+intron-nt/intron-nt-astraltree-0-contract.tre [intron-nt] 
+intron-nt/intron-nt-astraltree-0-contract.tre intron-nt/intron-nt-astraltree-0-contract.tre 45 0 0
+
+intron-nt/intron-nt-astraltree-0-contract.tre intron-nt/intron-nt-astraltree-10-contract.tre 45 1 .0222
+
+intron-nt/intron-nt-astraltree-0-contract.tre intron-nt/intron-nt-astraltree-20-contract.tre 45 2 .0444
+
+intron-nt/intron-nt-astraltree-0-contract.tre intron-nt/intron-nt-astraltree-33-contract.tre 45 3 .0667
+
+intron-nt/intron-nt-astraltree-0-contract.tre intron-nt/intron-nt-astraltree-3-contract.tre 45 0 0
+
+intron-nt/intron-nt-astraltree-0-contract.tre intron-nt/intron-nt-astraltree-5-contract.tre 45 0 0
+
+intron-nt/intron-nt-astraltree-0-contract.tre intron-nt/intron-nt-astraltree.tre 45 2 .0444
+
+intron-nt/intron-nt-astraltree-0-contract.tre [uce-indel] 
+intron-nt/intron-nt-astraltree-0-contract.tre uce-indel/uce-indel-astraltree-0-contract.tre 45 13 .2889
+
+intron-nt/intron-nt-astraltree-0-contract.tre uce-indel/uce-indel-astraltree-10-contract.tre 45 11 .2444
+
+intron-nt/intron-nt-astraltree-0-contract.tre uce-indel/uce-indel-astraltree-20-contract.tre 45 9 .2
+
+intron-nt/intron-nt-astraltree-0-contract.tre uce-indel/uce-indel-astraltree-33-contract.tre 45 10 .2222
+
+intron-nt/intron-nt-astraltree-0-contract.tre uce-indel/uce-indel-astraltree-3-contract.tre 45 12 .2667
+
+intron-nt/intron-nt-astraltree-0-contract.tre uce-indel/uce-indel-astraltree-5-contract.tre 45 9 .2
+
+intron-nt/intron-nt-astraltree-0-contract.tre uce-indel/uce-indel-astraltree.tre 45 13 .2889
+
+intron-nt/intron-nt-astraltree-0-contract.tre [uce-nt] 
+intron-nt/intron-nt-astraltree-0-contract.tre uce-nt/uce-nt-astraltree-0-contract.tre 45 6 .1333
+
+intron-nt/intron-nt-astraltree-0-contract.tre uce-nt/uce-nt-astraltree-10-contract.tre 45 6 .1333
+
+intron-nt/intron-nt-astraltree-0-contract.tre uce-nt/uce-nt-astraltree-20-contract.tre 45 7 .1556
+
+intron-nt/intron-nt-astraltree-0-contract.tre uce-nt/uce-nt-astraltree-33-contract.tre 45 7 .1556
+
+intron-nt/intron-nt-astraltree-0-contract.tre uce-nt/uce-nt-astraltree-3-contract.tre 45 6 .1333
+
+intron-nt/intron-nt-astraltree-0-contract.tre uce-nt/uce-nt-astraltree-5-contract.tre 45 7 .1556
+
+intron-nt/intron-nt-astraltree-0-contract.tre uce-nt/uce-nt-astraltree.tre 45 4 .0889
+
+intron-nt/intron-nt-astraltree-10-contract.tre [combined] 
+intron-nt/intron-nt-astraltree-10-contract.tre combined/combined-combined-astraltree-5-contract.tre 45 2 .0444
+
+intron-nt/intron-nt-astraltree-10-contract.tre combined/combined-indel/combined-indel-astraltree-5-contract.tre 45 8 .1778
+
+intron-nt/intron-nt-astraltree-10-contract.tre combined/combined-intron/combined-intron-astraltree-5-contract.tre 45 2 .0444
+
+intron-nt/intron-nt-astraltree-10-contract.tre combined/combined-nt/combined-nt-astraltree-5-contract.tre 45 2 .0444
+
+intron-nt/intron-nt-astraltree-10-contract.tre combined/combined-uce/combined-uce-astraltree-5-contract.tre 45 3 .0667
+
+intron-nt/intron-nt-astraltree-10-contract.tre [intron-indel] 
+intron-nt/intron-nt-astraltree-10-contract.tre intron-indel/intron-indel-astraltree-0-contract.tre 45 5 .1111
+
+intron-nt/intron-nt-astraltree-10-contract.tre intron-indel/intron-indel-astraltree-10-contract.tre 45 6 .1333
+
+intron-nt/intron-nt-astraltree-10-contract.tre intron-indel/intron-indel-astraltree-20-contract.tre 45 8 .1778
+
+intron-nt/intron-nt-astraltree-10-contract.tre intron-indel/intron-indel-astraltree-33-contract.tre 45 7 .1556
+
+intron-nt/intron-nt-astraltree-10-contract.tre intron-indel/intron-indel-astraltree-3-contract.tre 45 4 .0889
+
+intron-nt/intron-nt-astraltree-10-contract.tre intron-indel/intron-indel-astraltree-5-contract.tre 45 4 .0889
+
+intron-nt/intron-nt-astraltree-10-contract.tre intron-indel/intron-indel-astraltree.tre 45 6 .1333
+
+intron-nt/intron-nt-astraltree-10-contract.tre [intron-nt] 
+intron-nt/intron-nt-astraltree-10-contract.tre intron-nt/intron-nt-astraltree-0-contract.tre 45 1 .0222
+
+intron-nt/intron-nt-astraltree-10-contract.tre intron-nt/intron-nt-astraltree-10-contract.tre 45 0 0
+
+intron-nt/intron-nt-astraltree-10-contract.tre intron-nt/intron-nt-astraltree-20-contract.tre 45 1 .0222
+
+intron-nt/intron-nt-astraltree-10-contract.tre intron-nt/intron-nt-astraltree-33-contract.tre 45 2 .0444
+
+intron-nt/intron-nt-astraltree-10-contract.tre intron-nt/intron-nt-astraltree-3-contract.tre 45 1 .0222
+
+intron-nt/intron-nt-astraltree-10-contract.tre intron-nt/intron-nt-astraltree-5-contract.tre 45 1 .0222
+
+intron-nt/intron-nt-astraltree-10-contract.tre intron-nt/intron-nt-astraltree.tre 45 2 .0444
+
+intron-nt/intron-nt-astraltree-10-contract.tre [uce-indel] 
+intron-nt/intron-nt-astraltree-10-contract.tre uce-indel/uce-indel-astraltree-0-contract.tre 45 13 .2889
+
+intron-nt/intron-nt-astraltree-10-contract.tre uce-indel/uce-indel-astraltree-10-contract.tre 45 11 .2444
+
+intron-nt/intron-nt-astraltree-10-contract.tre uce-indel/uce-indel-astraltree-20-contract.tre 45 10 .2222
+
+intron-nt/intron-nt-astraltree-10-contract.tre uce-indel/uce-indel-astraltree-33-contract.tre 45 11 .2444
+
+intron-nt/intron-nt-astraltree-10-contract.tre uce-indel/uce-indel-astraltree-3-contract.tre 45 12 .2667
+
+intron-nt/intron-nt-astraltree-10-contract.tre uce-indel/uce-indel-astraltree-5-contract.tre 45 9 .2
+
+intron-nt/intron-nt-astraltree-10-contract.tre uce-indel/uce-indel-astraltree.tre 45 13 .2889
+
+intron-nt/intron-nt-astraltree-10-contract.tre [uce-nt] 
+intron-nt/intron-nt-astraltree-10-contract.tre uce-nt/uce-nt-astraltree-0-contract.tre 45 6 .1333
+
+intron-nt/intron-nt-astraltree-10-contract.tre uce-nt/uce-nt-astraltree-10-contract.tre 45 6 .1333
+
+intron-nt/intron-nt-astraltree-10-contract.tre uce-nt/uce-nt-astraltree-20-contract.tre 45 7 .1556
+
+intron-nt/intron-nt-astraltree-10-contract.tre uce-nt/uce-nt-astraltree-33-contract.tre 45 6 .1333
+
+intron-nt/intron-nt-astraltree-10-contract.tre uce-nt/uce-nt-astraltree-3-contract.tre 45 6 .1333
+
+intron-nt/intron-nt-astraltree-10-contract.tre uce-nt/uce-nt-astraltree-5-contract.tre 45 7 .1556
+
+intron-nt/intron-nt-astraltree-10-contract.tre uce-nt/uce-nt-astraltree.tre 45 5 .1111
+
+intron-nt/intron-nt-astraltree-20-contract.tre [combined] 
+intron-nt/intron-nt-astraltree-20-contract.tre combined/combined-combined-astraltree-5-contract.tre 45 3 .0667
+
+intron-nt/intron-nt-astraltree-20-contract.tre combined/combined-indel/combined-indel-astraltree-5-contract.tre 45 9 .2
+
+intron-nt/intron-nt-astraltree-20-contract.tre combined/combined-intron/combined-intron-astraltree-5-contract.tre 45 3 .0667
+
+intron-nt/intron-nt-astraltree-20-contract.tre combined/combined-nt/combined-nt-astraltree-5-contract.tre 45 1 .0222
+
+intron-nt/intron-nt-astraltree-20-contract.tre combined/combined-uce/combined-uce-astraltree-5-contract.tre 45 4 .0889
+
+intron-nt/intron-nt-astraltree-20-contract.tre [intron-indel] 
+intron-nt/intron-nt-astraltree-20-contract.tre intron-indel/intron-indel-astraltree-0-contract.tre 45 6 .1333
+
+intron-nt/intron-nt-astraltree-20-contract.tre intron-indel/intron-indel-astraltree-10-contract.tre 45 7 .1556
+
+intron-nt/intron-nt-astraltree-20-contract.tre intron-indel/intron-indel-astraltree-20-contract.tre 45 8 .1778
+
+intron-nt/intron-nt-astraltree-20-contract.tre intron-indel/intron-indel-astraltree-33-contract.tre 45 7 .1556
+
+intron-nt/intron-nt-astraltree-20-contract.tre intron-indel/intron-indel-astraltree-3-contract.tre 45 5 .1111
+
+intron-nt/intron-nt-astraltree-20-contract.tre intron-indel/intron-indel-astraltree-5-contract.tre 45 5 .1111
+
+intron-nt/intron-nt-astraltree-20-contract.tre intron-indel/intron-indel-astraltree.tre 45 7 .1556
+
+intron-nt/intron-nt-astraltree-20-contract.tre [intron-nt] 
+intron-nt/intron-nt-astraltree-20-contract.tre intron-nt/intron-nt-astraltree-0-contract.tre 45 2 .0444
+
+intron-nt/intron-nt-astraltree-20-contract.tre intron-nt/intron-nt-astraltree-10-contract.tre 45 1 .0222
+
+intron-nt/intron-nt-astraltree-20-contract.tre intron-nt/intron-nt-astraltree-20-contract.tre 45 0 0
+
+intron-nt/intron-nt-astraltree-20-contract.tre intron-nt/intron-nt-astraltree-33-contract.tre 45 2 .0444
+
+intron-nt/intron-nt-astraltree-20-contract.tre intron-nt/intron-nt-astraltree-3-contract.tre 45 2 .0444
+
+intron-nt/intron-nt-astraltree-20-contract.tre intron-nt/intron-nt-astraltree-5-contract.tre 45 2 .0444
+
+intron-nt/intron-nt-astraltree-20-contract.tre intron-nt/intron-nt-astraltree.tre 45 3 .0667
+
+intron-nt/intron-nt-astraltree-20-contract.tre [uce-indel] 
+intron-nt/intron-nt-astraltree-20-contract.tre uce-indel/uce-indel-astraltree-0-contract.tre 45 14 .3111
+
+intron-nt/intron-nt-astraltree-20-contract.tre uce-indel/uce-indel-astraltree-10-contract.tre 45 11 .2444
+
+intron-nt/intron-nt-astraltree-20-contract.tre uce-indel/uce-indel-astraltree-20-contract.tre 45 10 .2222
+
+intron-nt/intron-nt-astraltree-20-contract.tre uce-indel/uce-indel-astraltree-33-contract.tre 45 11 .2444
+
+intron-nt/intron-nt-astraltree-20-contract.tre uce-indel/uce-indel-astraltree-3-contract.tre 45 12 .2667
+
+intron-nt/intron-nt-astraltree-20-contract.tre uce-indel/uce-indel-astraltree-5-contract.tre 45 10 .2222
+
+intron-nt/intron-nt-astraltree-20-contract.tre uce-indel/uce-indel-astraltree.tre 45 14 .3111
+
+intron-nt/intron-nt-astraltree-20-contract.tre [uce-nt] 
+intron-nt/intron-nt-astraltree-20-contract.tre uce-nt/uce-nt-astraltree-0-contract.tre 45 5 .1111
+
+intron-nt/intron-nt-astraltree-20-contract.tre uce-nt/uce-nt-astraltree-10-contract.tre 45 5 .1111
+
+intron-nt/intron-nt-astraltree-20-contract.tre uce-nt/uce-nt-astraltree-20-contract.tre 45 6 .1333
+
+intron-nt/intron-nt-astraltree-20-contract.tre uce-nt/uce-nt-astraltree-33-contract.tre 45 5 .1111
+
+intron-nt/intron-nt-astraltree-20-contract.tre uce-nt/uce-nt-astraltree-3-contract.tre 45 5 .1111
+
+intron-nt/intron-nt-astraltree-20-contract.tre uce-nt/uce-nt-astraltree-5-contract.tre 45 6 .1333
+
+intron-nt/intron-nt-astraltree-20-contract.tre uce-nt/uce-nt-astraltree.tre 45 4 .0889
+
+intron-nt/intron-nt-astraltree-33-contract.tre [combined] 
+intron-nt/intron-nt-astraltree-33-contract.tre combined/combined-combined-astraltree-5-contract.tre 45 4 .0889
+
+intron-nt/intron-nt-astraltree-33-contract.tre combined/combined-indel/combined-indel-astraltree-5-contract.tre 45 9 .2
+
+intron-nt/intron-nt-astraltree-33-contract.tre combined/combined-intron/combined-intron-astraltree-5-contract.tre 45 3 .0667
+
+intron-nt/intron-nt-astraltree-33-contract.tre combined/combined-nt/combined-nt-astraltree-5-contract.tre 45 3 .0667
+
+intron-nt/intron-nt-astraltree-33-contract.tre combined/combined-uce/combined-uce-astraltree-5-contract.tre 45 5 .1111
+
+intron-nt/intron-nt-astraltree-33-contract.tre [intron-indel] 
+intron-nt/intron-nt-astraltree-33-contract.tre intron-indel/intron-indel-astraltree-0-contract.tre 45 6 .1333
+
+intron-nt/intron-nt-astraltree-33-contract.tre intron-indel/intron-indel-astraltree-10-contract.tre 45 7 .1556
+
+intron-nt/intron-nt-astraltree-33-contract.tre intron-indel/intron-indel-astraltree-20-contract.tre 45 8 .1778
+
+intron-nt/intron-nt-astraltree-33-contract.tre intron-indel/intron-indel-astraltree-33-contract.tre 45 7 .1556
+
+intron-nt/intron-nt-astraltree-33-contract.tre intron-indel/intron-indel-astraltree-3-contract.tre 45 5 .1111
+
+intron-nt/intron-nt-astraltree-33-contract.tre intron-indel/intron-indel-astraltree-5-contract.tre 45 5 .1111
+
+intron-nt/intron-nt-astraltree-33-contract.tre intron-indel/intron-indel-astraltree.tre 45 7 .1556
+
+intron-nt/intron-nt-astraltree-33-contract.tre [intron-nt] 
+intron-nt/intron-nt-astraltree-33-contract.tre intron-nt/intron-nt-astraltree-0-contract.tre 45 3 .0667
+
+intron-nt/intron-nt-astraltree-33-contract.tre intron-nt/intron-nt-astraltree-10-contract.tre 45 2 .0444
+
+intron-nt/intron-nt-astraltree-33-contract.tre intron-nt/intron-nt-astraltree-20-contract.tre 45 2 .0444
+
+intron-nt/intron-nt-astraltree-33-contract.tre intron-nt/intron-nt-astraltree-33-contract.tre 45 0 0
+
+intron-nt/intron-nt-astraltree-33-contract.tre intron-nt/intron-nt-astraltree-3-contract.tre 45 3 .0667
+
+intron-nt/intron-nt-astraltree-33-contract.tre intron-nt/intron-nt-astraltree-5-contract.tre 45 3 .0667
+
+intron-nt/intron-nt-astraltree-33-contract.tre intron-nt/intron-nt-astraltree.tre 45 4 .0889
+
+intron-nt/intron-nt-astraltree-33-contract.tre [uce-indel] 
+intron-nt/intron-nt-astraltree-33-contract.tre uce-indel/uce-indel-astraltree-0-contract.tre 45 14 .3111
+
+intron-nt/intron-nt-astraltree-33-contract.tre uce-indel/uce-indel-astraltree-10-contract.tre 45 11 .2444
+
+intron-nt/intron-nt-astraltree-33-contract.tre uce-indel/uce-indel-astraltree-20-contract.tre 45 10 .2222
+
+intron-nt/intron-nt-astraltree-33-contract.tre uce-indel/uce-indel-astraltree-33-contract.tre 45 11 .2444
+
+intron-nt/intron-nt-astraltree-33-contract.tre uce-indel/uce-indel-astraltree-3-contract.tre 45 12 .2667
+
+intron-nt/intron-nt-astraltree-33-contract.tre uce-indel/uce-indel-astraltree-5-contract.tre 45 11 .2444
+
+intron-nt/intron-nt-astraltree-33-contract.tre uce-indel/uce-indel-astraltree.tre 45 14 .3111
+
+intron-nt/intron-nt-astraltree-33-contract.tre [uce-nt] 
+intron-nt/intron-nt-astraltree-33-contract.tre uce-nt/uce-nt-astraltree-0-contract.tre 45 7 .1556
+
+intron-nt/intron-nt-astraltree-33-contract.tre uce-nt/uce-nt-astraltree-10-contract.tre 45 7 .1556
+
+intron-nt/intron-nt-astraltree-33-contract.tre uce-nt/uce-nt-astraltree-20-contract.tre 45 8 .1778
+
+intron-nt/intron-nt-astraltree-33-contract.tre uce-nt/uce-nt-astraltree-33-contract.tre 45 7 .1556
+
+intron-nt/intron-nt-astraltree-33-contract.tre uce-nt/uce-nt-astraltree-3-contract.tre 45 7 .1556
+
+intron-nt/intron-nt-astraltree-33-contract.tre uce-nt/uce-nt-astraltree-5-contract.tre 45 8 .1778
+
+intron-nt/intron-nt-astraltree-33-contract.tre uce-nt/uce-nt-astraltree.tre 45 6 .1333
+
+intron-nt/intron-nt-astraltree-3-contract.tre [combined] 
+intron-nt/intron-nt-astraltree-3-contract.tre combined/combined-combined-astraltree-5-contract.tre 45 1 .0222
+
+intron-nt/intron-nt-astraltree-3-contract.tre combined/combined-indel/combined-indel-astraltree-5-contract.tre 45 7 .1556
+
+intron-nt/intron-nt-astraltree-3-contract.tre combined/combined-intron/combined-intron-astraltree-5-contract.tre 45 1 .0222
+
+intron-nt/intron-nt-astraltree-3-contract.tre combined/combined-nt/combined-nt-astraltree-5-contract.tre 45 3 .0667
+
+intron-nt/intron-nt-astraltree-3-contract.tre combined/combined-uce/combined-uce-astraltree-5-contract.tre 45 2 .0444
+
+intron-nt/intron-nt-astraltree-3-contract.tre [intron-indel] 
+intron-nt/intron-nt-astraltree-3-contract.tre intron-indel/intron-indel-astraltree-0-contract.tre 45 4 .0889
+
+intron-nt/intron-nt-astraltree-3-contract.tre intron-indel/intron-indel-astraltree-10-contract.tre 45 5 .1111
+
+intron-nt/intron-nt-astraltree-3-contract.tre intron-indel/intron-indel-astraltree-20-contract.tre 45 7 .1556
+
+intron-nt/intron-nt-astraltree-3-contract.tre intron-indel/intron-indel-astraltree-33-contract.tre 45 6 .1333
+
+intron-nt/intron-nt-astraltree-3-contract.tre intron-indel/intron-indel-astraltree-3-contract.tre 45 3 .0667
+
+intron-nt/intron-nt-astraltree-3-contract.tre intron-indel/intron-indel-astraltree-5-contract.tre 45 3 .0667
+
+intron-nt/intron-nt-astraltree-3-contract.tre intron-indel/intron-indel-astraltree.tre 45 5 .1111
+
+intron-nt/intron-nt-astraltree-3-contract.tre [intron-nt] 
+intron-nt/intron-nt-astraltree-3-contract.tre intron-nt/intron-nt-astraltree-0-contract.tre 45 0 0
+
+intron-nt/intron-nt-astraltree-3-contract.tre intron-nt/intron-nt-astraltree-10-contract.tre 45 1 .0222
+
+intron-nt/intron-nt-astraltree-3-contract.tre intron-nt/intron-nt-astraltree-20-contract.tre 45 2 .0444
+
+intron-nt/intron-nt-astraltree-3-contract.tre intron-nt/intron-nt-astraltree-33-contract.tre 45 3 .0667
+
+intron-nt/intron-nt-astraltree-3-contract.tre intron-nt/intron-nt-astraltree-3-contract.tre 45 0 0
+
+intron-nt/intron-nt-astraltree-3-contract.tre intron-nt/intron-nt-astraltree-5-contract.tre 45 0 0
+
+intron-nt/intron-nt-astraltree-3-contract.tre intron-nt/intron-nt-astraltree.tre 45 2 .0444
+
+intron-nt/intron-nt-astraltree-3-contract.tre [uce-indel] 
+intron-nt/intron-nt-astraltree-3-contract.tre uce-indel/uce-indel-astraltree-0-contract.tre 45 13 .2889
+
+intron-nt/intron-nt-astraltree-3-contract.tre uce-indel/uce-indel-astraltree-10-contract.tre 45 11 .2444
+
+intron-nt/intron-nt-astraltree-3-contract.tre uce-indel/uce-indel-astraltree-20-contract.tre 45 9 .2
+
+intron-nt/intron-nt-astraltree-3-contract.tre uce-indel/uce-indel-astraltree-33-contract.tre 45 10 .2222
+
+intron-nt/intron-nt-astraltree-3-contract.tre uce-indel/uce-indel-astraltree-3-contract.tre 45 12 .2667
+
+intron-nt/intron-nt-astraltree-3-contract.tre uce-indel/uce-indel-astraltree-5-contract.tre 45 9 .2
+
+intron-nt/intron-nt-astraltree-3-contract.tre uce-indel/uce-indel-astraltree.tre 45 13 .2889
+
+intron-nt/intron-nt-astraltree-3-contract.tre [uce-nt] 
+intron-nt/intron-nt-astraltree-3-contract.tre uce-nt/uce-nt-astraltree-0-contract.tre 45 6 .1333
+
+intron-nt/intron-nt-astraltree-3-contract.tre uce-nt/uce-nt-astraltree-10-contract.tre 45 6 .1333
+
+intron-nt/intron-nt-astraltree-3-contract.tre uce-nt/uce-nt-astraltree-20-contract.tre 45 7 .1556
+
+intron-nt/intron-nt-astraltree-3-contract.tre uce-nt/uce-nt-astraltree-33-contract.tre 45 7 .1556
+
+intron-nt/intron-nt-astraltree-3-contract.tre uce-nt/uce-nt-astraltree-3-contract.tre 45 6 .1333
+
+intron-nt/intron-nt-astraltree-3-contract.tre uce-nt/uce-nt-astraltree-5-contract.tre 45 7 .1556
+
+intron-nt/intron-nt-astraltree-3-contract.tre uce-nt/uce-nt-astraltree.tre 45 4 .0889
+
+intron-nt/intron-nt-astraltree-5-contract.tre [combined] 
+intron-nt/intron-nt-astraltree-5-contract.tre combined/combined-combined-astraltree-5-contract.tre 45 1 .0222
+
+intron-nt/intron-nt-astraltree-5-contract.tre combined/combined-indel/combined-indel-astraltree-5-contract.tre 45 7 .1556
+
+intron-nt/intron-nt-astraltree-5-contract.tre combined/combined-intron/combined-intron-astraltree-5-contract.tre 45 1 .0222
+
+intron-nt/intron-nt-astraltree-5-contract.tre combined/combined-nt/combined-nt-astraltree-5-contract.tre 45 3 .0667
+
+intron-nt/intron-nt-astraltree-5-contract.tre combined/combined-uce/combined-uce-astraltree-5-contract.tre 45 2 .0444
+
+intron-nt/intron-nt-astraltree-5-contract.tre [intron-indel] 
+intron-nt/intron-nt-astraltree-5-contract.tre intron-indel/intron-indel-astraltree-0-contract.tre 45 4 .0889
+
+intron-nt/intron-nt-astraltree-5-contract.tre intron-indel/intron-indel-astraltree-10-contract.tre 45 5 .1111
+
+intron-nt/intron-nt-astraltree-5-contract.tre intron-indel/intron-indel-astraltree-20-contract.tre 45 7 .1556
+
+intron-nt/intron-nt-astraltree-5-contract.tre intron-indel/intron-indel-astraltree-33-contract.tre 45 6 .1333
+
+intron-nt/intron-nt-astraltree-5-contract.tre intron-indel/intron-indel-astraltree-3-contract.tre 45 3 .0667
+
+intron-nt/intron-nt-astraltree-5-contract.tre intron-indel/intron-indel-astraltree-5-contract.tre 45 3 .0667
+
+intron-nt/intron-nt-astraltree-5-contract.tre intron-indel/intron-indel-astraltree.tre 45 5 .1111
+
+intron-nt/intron-nt-astraltree-5-contract.tre [intron-nt] 
+intron-nt/intron-nt-astraltree-5-contract.tre intron-nt/intron-nt-astraltree-0-contract.tre 45 0 0
+
+intron-nt/intron-nt-astraltree-5-contract.tre intron-nt/intron-nt-astraltree-10-contract.tre 45 1 .0222
+
+intron-nt/intron-nt-astraltree-5-contract.tre intron-nt/intron-nt-astraltree-20-contract.tre 45 2 .0444
+
+intron-nt/intron-nt-astraltree-5-contract.tre intron-nt/intron-nt-astraltree-33-contract.tre 45 3 .0667
+
+intron-nt/intron-nt-astraltree-5-contract.tre intron-nt/intron-nt-astraltree-3-contract.tre 45 0 0
+
+intron-nt/intron-nt-astraltree-5-contract.tre intron-nt/intron-nt-astraltree-5-contract.tre 45 0 0
+
+intron-nt/intron-nt-astraltree-5-contract.tre intron-nt/intron-nt-astraltree.tre 45 2 .0444
+
+intron-nt/intron-nt-astraltree-5-contract.tre [uce-indel] 
+intron-nt/intron-nt-astraltree-5-contract.tre uce-indel/uce-indel-astraltree-0-contract.tre 45 13 .2889
+
+intron-nt/intron-nt-astraltree-5-contract.tre uce-indel/uce-indel-astraltree-10-contract.tre 45 11 .2444
+
+intron-nt/intron-nt-astraltree-5-contract.tre uce-indel/uce-indel-astraltree-20-contract.tre 45 9 .2
+
+intron-nt/intron-nt-astraltree-5-contract.tre uce-indel/uce-indel-astraltree-33-contract.tre 45 10 .2222
+
+intron-nt/intron-nt-astraltree-5-contract.tre uce-indel/uce-indel-astraltree-3-contract.tre 45 12 .2667
+
+intron-nt/intron-nt-astraltree-5-contract.tre uce-indel/uce-indel-astraltree-5-contract.tre 45 9 .2
+
+intron-nt/intron-nt-astraltree-5-contract.tre uce-indel/uce-indel-astraltree.tre 45 13 .2889
+
+intron-nt/intron-nt-astraltree-5-contract.tre [uce-nt] 
+intron-nt/intron-nt-astraltree-5-contract.tre uce-nt/uce-nt-astraltree-0-contract.tre 45 6 .1333
+
+intron-nt/intron-nt-astraltree-5-contract.tre uce-nt/uce-nt-astraltree-10-contract.tre 45 6 .1333
+
+intron-nt/intron-nt-astraltree-5-contract.tre uce-nt/uce-nt-astraltree-20-contract.tre 45 7 .1556
+
+intron-nt/intron-nt-astraltree-5-contract.tre uce-nt/uce-nt-astraltree-33-contract.tre 45 7 .1556
+
+intron-nt/intron-nt-astraltree-5-contract.tre uce-nt/uce-nt-astraltree-3-contract.tre 45 6 .1333
+
+intron-nt/intron-nt-astraltree-5-contract.tre uce-nt/uce-nt-astraltree-5-contract.tre 45 7 .1556
+
+intron-nt/intron-nt-astraltree-5-contract.tre uce-nt/uce-nt-astraltree.tre 45 4 .0889
+
+intron-nt/intron-nt-astraltree.tre [combined] 
+intron-nt/intron-nt-astraltree.tre combined/combined-combined-astraltree-5-contract.tre 45 3 .0667
+
+intron-nt/intron-nt-astraltree.tre combined/combined-indel/combined-indel-astraltree-5-contract.tre 45 9 .2
+
+intron-nt/intron-nt-astraltree.tre combined/combined-intron/combined-intron-astraltree-5-contract.tre 45 3 .0667
+
+intron-nt/intron-nt-astraltree.tre combined/combined-nt/combined-nt-astraltree-5-contract.tre 45 4 .0889
+
+intron-nt/intron-nt-astraltree.tre combined/combined-uce/combined-uce-astraltree-5-contract.tre 45 4 .0889
+
+intron-nt/intron-nt-astraltree.tre [intron-indel] 
+intron-nt/intron-nt-astraltree.tre intron-indel/intron-indel-astraltree-0-contract.tre 45 6 .1333
+
+intron-nt/intron-nt-astraltree.tre intron-indel/intron-indel-astraltree-10-contract.tre 45 7 .1556
+
+intron-nt/intron-nt-astraltree.tre intron-indel/intron-indel-astraltree-20-contract.tre 45 9 .2
+
+intron-nt/intron-nt-astraltree.tre intron-indel/intron-indel-astraltree-33-contract.tre 45 8 .1778
+
+intron-nt/intron-nt-astraltree.tre intron-indel/intron-indel-astraltree-3-contract.tre 45 5 .1111
+
+intron-nt/intron-nt-astraltree.tre intron-indel/intron-indel-astraltree-5-contract.tre 45 5 .1111
+
+intron-nt/intron-nt-astraltree.tre intron-indel/intron-indel-astraltree.tre 45 7 .1556
+
+intron-nt/intron-nt-astraltree.tre [intron-nt] 
+intron-nt/intron-nt-astraltree.tre intron-nt/intron-nt-astraltree-0-contract.tre 45 2 .0444
+
+intron-nt/intron-nt-astraltree.tre intron-nt/intron-nt-astraltree-10-contract.tre 45 2 .0444
+
+intron-nt/intron-nt-astraltree.tre intron-nt/intron-nt-astraltree-20-contract.tre 45 3 .0667
+
+intron-nt/intron-nt-astraltree.tre intron-nt/intron-nt-astraltree-33-contract.tre 45 4 .0889
+
+intron-nt/intron-nt-astraltree.tre intron-nt/intron-nt-astraltree-3-contract.tre 45 2 .0444
+
+intron-nt/intron-nt-astraltree.tre intron-nt/intron-nt-astraltree-5-contract.tre 45 2 .0444
+
+intron-nt/intron-nt-astraltree.tre intron-nt/intron-nt-astraltree.tre 45 0 0
+
+intron-nt/intron-nt-astraltree.tre [uce-indel] 
+intron-nt/intron-nt-astraltree.tre uce-indel/uce-indel-astraltree-0-contract.tre 45 14 .3111
+
+intron-nt/intron-nt-astraltree.tre uce-indel/uce-indel-astraltree-10-contract.tre 45 12 .2667
+
+intron-nt/intron-nt-astraltree.tre uce-indel/uce-indel-astraltree-20-contract.tre 45 11 .2444
+
+intron-nt/intron-nt-astraltree.tre uce-indel/uce-indel-astraltree-33-contract.tre 45 12 .2667
+
+intron-nt/intron-nt-astraltree.tre uce-indel/uce-indel-astraltree-3-contract.tre 45 13 .2889
+
+intron-nt/intron-nt-astraltree.tre uce-indel/uce-indel-astraltree-5-contract.tre 45 10 .2222
+
+intron-nt/intron-nt-astraltree.tre uce-indel/uce-indel-astraltree.tre 45 14 .3111
+
+intron-nt/intron-nt-astraltree.tre [uce-nt] 
+intron-nt/intron-nt-astraltree.tre uce-nt/uce-nt-astraltree-0-contract.tre 45 7 .1556
+
+intron-nt/intron-nt-astraltree.tre uce-nt/uce-nt-astraltree-10-contract.tre 45 7 .1556
+
+intron-nt/intron-nt-astraltree.tre uce-nt/uce-nt-astraltree-20-contract.tre 45 8 .1778
+
+intron-nt/intron-nt-astraltree.tre uce-nt/uce-nt-astraltree-33-contract.tre 45 8 .1778
+
+intron-nt/intron-nt-astraltree.tre uce-nt/uce-nt-astraltree-3-contract.tre 45 7 .1556
+
+intron-nt/intron-nt-astraltree.tre uce-nt/uce-nt-astraltree-5-contract.tre 45 8 .1778
+
+intron-nt/intron-nt-astraltree.tre uce-nt/uce-nt-astraltree.tre 45 6 .1333
+
+[uce-indel] [combined] 
+[uce-indel] combined/combined-combined-astraltree-5-contract.tre -
+
+[uce-indel] combined/combined-indel/combined-indel-astraltree-5-contract.tre -
+
+[uce-indel] combined/combined-intron/combined-intron-astraltree-5-contract.tre -
+
+[uce-indel] combined/combined-nt/combined-nt-astraltree-5-contract.tre -
+
+[uce-indel] combined/combined-uce/combined-uce-astraltree-5-contract.tre -
+
+[uce-indel] [intron-indel] 
+[uce-indel] intron-indel/intron-indel-astraltree-0-contract.tre -
+
+[uce-indel] intron-indel/intron-indel-astraltree-10-contract.tre -
+
+[uce-indel] intron-indel/intron-indel-astraltree-20-contract.tre -
+
+[uce-indel] intron-indel/intron-indel-astraltree-33-contract.tre -
+
+[uce-indel] intron-indel/intron-indel-astraltree-3-contract.tre -
+
+[uce-indel] intron-indel/intron-indel-astraltree-5-contract.tre -
+
+[uce-indel] intron-indel/intron-indel-astraltree.tre -
+
+[uce-indel] [intron-nt] 
+[uce-indel] intron-nt/intron-nt-astraltree-0-contract.tre -
+
+[uce-indel] intron-nt/intron-nt-astraltree-10-contract.tre -
+
+[uce-indel] intron-nt/intron-nt-astraltree-20-contract.tre -
+
+[uce-indel] intron-nt/intron-nt-astraltree-33-contract.tre -
+
+[uce-indel] intron-nt/intron-nt-astraltree-3-contract.tre -
+
+[uce-indel] intron-nt/intron-nt-astraltree-5-contract.tre -
+
+[uce-indel] intron-nt/intron-nt-astraltree.tre -
+
+[uce-indel] [uce-indel] 
+[uce-indel] uce-indel/uce-indel-astraltree-0-contract.tre -
+
+[uce-indel] uce-indel/uce-indel-astraltree-10-contract.tre -
+
+[uce-indel] uce-indel/uce-indel-astraltree-20-contract.tre -
+
+[uce-indel] uce-indel/uce-indel-astraltree-33-contract.tre -
+
+[uce-indel] uce-indel/uce-indel-astraltree-3-contract.tre -
+
+[uce-indel] uce-indel/uce-indel-astraltree-5-contract.tre -
+
+[uce-indel] uce-indel/uce-indel-astraltree.tre -
+
+[uce-indel] [uce-nt] 
+[uce-indel] uce-nt/uce-nt-astraltree-0-contract.tre -
+
+[uce-indel] uce-nt/uce-nt-astraltree-10-contract.tre -
+
+[uce-indel] uce-nt/uce-nt-astraltree-20-contract.tre -
+
+[uce-indel] uce-nt/uce-nt-astraltree-33-contract.tre -
+
+[uce-indel] uce-nt/uce-nt-astraltree-3-contract.tre -
+
+[uce-indel] uce-nt/uce-nt-astraltree-5-contract.tre -
+
+[uce-indel] uce-nt/uce-nt-astraltree.tre -
+
+uce-indel/uce-indel-astraltree-0-contract.tre [combined] 
+uce-indel/uce-indel-astraltree-0-contract.tre combined/combined-combined-astraltree-5-contract.tre 45 12 .2667
+
+uce-indel/uce-indel-astraltree-0-contract.tre combined/combined-indel/combined-indel-astraltree-5-contract.tre 45 9 .2
+
+uce-indel/uce-indel-astraltree-0-contract.tre combined/combined-intron/combined-intron-astraltree-5-contract.tre 45 13 .2889
+
+uce-indel/uce-indel-astraltree-0-contract.tre combined/combined-nt/combined-nt-astraltree-5-contract.tre 45 13 .2889
+
+uce-indel/uce-indel-astraltree-0-contract.tre combined/combined-uce/combined-uce-astraltree-5-contract.tre 45 12 .2667
+
+uce-indel/uce-indel-astraltree-0-contract.tre [intron-indel] 
+uce-indel/uce-indel-astraltree-0-contract.tre intron-indel/intron-indel-astraltree-0-contract.tre 45 12 .2667
+
+uce-indel/uce-indel-astraltree-0-contract.tre intron-indel/intron-indel-astraltree-10-contract.tre 45 11 .2444
+
+uce-indel/uce-indel-astraltree-0-contract.tre intron-indel/intron-indel-astraltree-20-contract.tre 45 12 .2667
+
+uce-indel/uce-indel-astraltree-0-contract.tre intron-indel/intron-indel-astraltree-33-contract.tre 45 12 .2667
+
+uce-indel/uce-indel-astraltree-0-contract.tre intron-indel/intron-indel-astraltree-3-contract.tre 45 12 .2667
+
+uce-indel/uce-indel-astraltree-0-contract.tre intron-indel/intron-indel-astraltree-5-contract.tre 45 12 .2667
+
+uce-indel/uce-indel-astraltree-0-contract.tre intron-indel/intron-indel-astraltree.tre 45 12 .2667
+
+uce-indel/uce-indel-astraltree-0-contract.tre [intron-nt] 
+uce-indel/uce-indel-astraltree-0-contract.tre intron-nt/intron-nt-astraltree-0-contract.tre 45 13 .2889
+
+uce-indel/uce-indel-astraltree-0-contract.tre intron-nt/intron-nt-astraltree-10-contract.tre 45 13 .2889
+
+uce-indel/uce-indel-astraltree-0-contract.tre intron-nt/intron-nt-astraltree-20-contract.tre 45 14 .3111
+
+uce-indel/uce-indel-astraltree-0-contract.tre intron-nt/intron-nt-astraltree-33-contract.tre 45 14 .3111
+
+uce-indel/uce-indel-astraltree-0-contract.tre intron-nt/intron-nt-astraltree-3-contract.tre 45 13 .2889
+
+uce-indel/uce-indel-astraltree-0-contract.tre intron-nt/intron-nt-astraltree-5-contract.tre 45 13 .2889
+
+uce-indel/uce-indel-astraltree-0-contract.tre intron-nt/intron-nt-astraltree.tre 45 14 .3111
+
+uce-indel/uce-indel-astraltree-0-contract.tre [uce-indel] 
+uce-indel/uce-indel-astraltree-0-contract.tre uce-indel/uce-indel-astraltree-0-contract.tre 45 0 0
+
+uce-indel/uce-indel-astraltree-0-contract.tre uce-indel/uce-indel-astraltree-10-contract.tre 45 10 .2222
+
+uce-indel/uce-indel-astraltree-0-contract.tre uce-indel/uce-indel-astraltree-20-contract.tre 45 10 .2222
+
+uce-indel/uce-indel-astraltree-0-contract.tre uce-indel/uce-indel-astraltree-33-contract.tre 45 12 .2667
+
+uce-indel/uce-indel-astraltree-0-contract.tre uce-indel/uce-indel-astraltree-3-contract.tre 45 11 .2444
+
+uce-indel/uce-indel-astraltree-0-contract.tre uce-indel/uce-indel-astraltree-5-contract.tre 45 8 .1778
+
+uce-indel/uce-indel-astraltree-0-contract.tre uce-indel/uce-indel-astraltree.tre 45 1 .0222
+
+uce-indel/uce-indel-astraltree-0-contract.tre [uce-nt] 
+uce-indel/uce-indel-astraltree-0-contract.tre uce-nt/uce-nt-astraltree-0-contract.tre 45 13 .2889
+
+uce-indel/uce-indel-astraltree-0-contract.tre uce-nt/uce-nt-astraltree-10-contract.tre 45 13 .2889
+
+uce-indel/uce-indel-astraltree-0-contract.tre uce-nt/uce-nt-astraltree-20-contract.tre 45 13 .2889
+
+uce-indel/uce-indel-astraltree-0-contract.tre uce-nt/uce-nt-astraltree-33-contract.tre 45 13 .2889
+
+uce-indel/uce-indel-astraltree-0-contract.tre uce-nt/uce-nt-astraltree-3-contract.tre 45 13 .2889
+
+uce-indel/uce-indel-astraltree-0-contract.tre uce-nt/uce-nt-astraltree-5-contract.tre 45 13 .2889
+
+uce-indel/uce-indel-astraltree-0-contract.tre uce-nt/uce-nt-astraltree.tre 45 13 .2889
+
+uce-indel/uce-indel-astraltree-10-contract.tre [combined] 
+uce-indel/uce-indel-astraltree-10-contract.tre combined/combined-combined-astraltree-5-contract.tre 45 12 .2667
+
+uce-indel/uce-indel-astraltree-10-contract.tre combined/combined-indel/combined-indel-astraltree-5-contract.tre 45 9 .2
+
+uce-indel/uce-indel-astraltree-10-contract.tre combined/combined-intron/combined-intron-astraltree-5-contract.tre 45 10 .2222
+
+uce-indel/uce-indel-astraltree-10-contract.tre combined/combined-nt/combined-nt-astraltree-5-contract.tre 45 12 .2667
+
+uce-indel/uce-indel-astraltree-10-contract.tre combined/combined-uce/combined-uce-astraltree-5-contract.tre 45 12 .2667
+
+uce-indel/uce-indel-astraltree-10-contract.tre [intron-indel] 
+uce-indel/uce-indel-astraltree-10-contract.tre intron-indel/intron-indel-astraltree-0-contract.tre 45 10 .2222
+
+uce-indel/uce-indel-astraltree-10-contract.tre intron-indel/intron-indel-astraltree-10-contract.tre 45 11 .2444
+
+uce-indel/uce-indel-astraltree-10-contract.tre intron-indel/intron-indel-astraltree-20-contract.tre 45 13 .2889
+
+uce-indel/uce-indel-astraltree-10-contract.tre intron-indel/intron-indel-astraltree-33-contract.tre 45 12 .2667
+
+uce-indel/uce-indel-astraltree-10-contract.tre intron-indel/intron-indel-astraltree-3-contract.tre 45 9 .2
+
+uce-indel/uce-indel-astraltree-10-contract.tre intron-indel/intron-indel-astraltree-5-contract.tre 45 9 .2
+
+uce-indel/uce-indel-astraltree-10-contract.tre intron-indel/intron-indel-astraltree.tre 45 10 .2222
+
+uce-indel/uce-indel-astraltree-10-contract.tre [intron-nt] 
+uce-indel/uce-indel-astraltree-10-contract.tre intron-nt/intron-nt-astraltree-0-contract.tre 45 11 .2444
+
+uce-indel/uce-indel-astraltree-10-contract.tre intron-nt/intron-nt-astraltree-10-contract.tre 45 11 .2444
+
+uce-indel/uce-indel-astraltree-10-contract.tre intron-nt/intron-nt-astraltree-20-contract.tre 45 11 .2444
+
+uce-indel/uce-indel-astraltree-10-contract.tre intron-nt/intron-nt-astraltree-33-contract.tre 45 11 .2444
+
+uce-indel/uce-indel-astraltree-10-contract.tre intron-nt/intron-nt-astraltree-3-contract.tre 45 11 .2444
+
+uce-indel/uce-indel-astraltree-10-contract.tre intron-nt/intron-nt-astraltree-5-contract.tre 45 11 .2444
+
+uce-indel/uce-indel-astraltree-10-contract.tre intron-nt/intron-nt-astraltree.tre 45 12 .2667
+
+uce-indel/uce-indel-astraltree-10-contract.tre [uce-indel] 
+uce-indel/uce-indel-astraltree-10-contract.tre uce-indel/uce-indel-astraltree-0-contract.tre 45 10 .2222
+
+uce-indel/uce-indel-astraltree-10-contract.tre uce-indel/uce-indel-astraltree-10-contract.tre 45 0 0
+
+uce-indel/uce-indel-astraltree-10-contract.tre uce-indel/uce-indel-astraltree-20-contract.tre 45 10 .2222
+
+uce-indel/uce-indel-astraltree-10-contract.tre uce-indel/uce-indel-astraltree-33-contract.tre 45 12 .2667
+
+uce-indel/uce-indel-astraltree-10-contract.tre uce-indel/uce-indel-astraltree-3-contract.tre 45 10 .2222
+
+uce-indel/uce-indel-astraltree-10-contract.tre uce-indel/uce-indel-astraltree-5-contract.tre 45 9 .2
+
+uce-indel/uce-indel-astraltree-10-contract.tre uce-indel/uce-indel-astraltree.tre 45 10 .2222
+
+uce-indel/uce-indel-astraltree-10-contract.tre [uce-nt] 
+uce-indel/uce-indel-astraltree-10-contract.tre uce-nt/uce-nt-astraltree-0-contract.tre 45 13 .2889
+
+uce-indel/uce-indel-astraltree-10-contract.tre uce-nt/uce-nt-astraltree-10-contract.tre 45 13 .2889
+
+uce-indel/uce-indel-astraltree-10-contract.tre uce-nt/uce-nt-astraltree-20-contract.tre 45 13 .2889
+
+uce-indel/uce-indel-astraltree-10-contract.tre uce-nt/uce-nt-astraltree-33-contract.tre 45 13 .2889
+
+uce-indel/uce-indel-astraltree-10-contract.tre uce-nt/uce-nt-astraltree-3-contract.tre 45 13 .2889
+
+uce-indel/uce-indel-astraltree-10-contract.tre uce-nt/uce-nt-astraltree-5-contract.tre 45 13 .2889
+
+uce-indel/uce-indel-astraltree-10-contract.tre uce-nt/uce-nt-astraltree.tre 45 12 .2667
+
+uce-indel/uce-indel-astraltree-20-contract.tre [combined] 
+uce-indel/uce-indel-astraltree-20-contract.tre combined/combined-combined-astraltree-5-contract.tre 45 8 .1778
+
+uce-indel/uce-indel-astraltree-20-contract.tre combined/combined-indel/combined-indel-astraltree-5-contract.tre 45 5 .1111
+
+uce-indel/uce-indel-astraltree-20-contract.tre combined/combined-intron/combined-intron-astraltree-5-contract.tre 45 9 .2
+
+uce-indel/uce-indel-astraltree-20-contract.tre combined/combined-nt/combined-nt-astraltree-5-contract.tre 45 9 .2
+
+uce-indel/uce-indel-astraltree-20-contract.tre combined/combined-uce/combined-uce-astraltree-5-contract.tre 45 8 .1778
+
+uce-indel/uce-indel-astraltree-20-contract.tre [intron-indel] 
+uce-indel/uce-indel-astraltree-20-contract.tre intron-indel/intron-indel-astraltree-0-contract.tre 45 8 .1778
+
+uce-indel/uce-indel-astraltree-20-contract.tre intron-indel/intron-indel-astraltree-10-contract.tre 45 8 .1778
+
+uce-indel/uce-indel-astraltree-20-contract.tre intron-indel/intron-indel-astraltree-20-contract.tre 45 9 .2
+
+uce-indel/uce-indel-astraltree-20-contract.tre intron-indel/intron-indel-astraltree-33-contract.tre 45 8 .1778
+
+uce-indel/uce-indel-astraltree-20-contract.tre intron-indel/intron-indel-astraltree-3-contract.tre 45 7 .1556
+
+uce-indel/uce-indel-astraltree-20-contract.tre intron-indel/intron-indel-astraltree-5-contract.tre 45 8 .1778
+
+uce-indel/uce-indel-astraltree-20-contract.tre intron-indel/intron-indel-astraltree.tre 45 8 .1778
+
+uce-indel/uce-indel-astraltree-20-contract.tre [intron-nt] 
+uce-indel/uce-indel-astraltree-20-contract.tre intron-nt/intron-nt-astraltree-0-contract.tre 45 9 .2
+
+uce-indel/uce-indel-astraltree-20-contract.tre intron-nt/intron-nt-astraltree-10-contract.tre 45 10 .2222
+
+uce-indel/uce-indel-astraltree-20-contract.tre intron-nt/intron-nt-astraltree-20-contract.tre 45 10 .2222
+
+uce-indel/uce-indel-astraltree-20-contract.tre intron-nt/intron-nt-astraltree-33-contract.tre 45 10 .2222
+
+uce-indel/uce-indel-astraltree-20-contract.tre intron-nt/intron-nt-astraltree-3-contract.tre 45 9 .2
+
+uce-indel/uce-indel-astraltree-20-contract.tre intron-nt/intron-nt-astraltree-5-contract.tre 45 9 .2
+
+uce-indel/uce-indel-astraltree-20-contract.tre intron-nt/intron-nt-astraltree.tre 45 11 .2444
+
+uce-indel/uce-indel-astraltree-20-contract.tre [uce-indel] 
+uce-indel/uce-indel-astraltree-20-contract.tre uce-indel/uce-indel-astraltree-0-contract.tre 45 10 .2222
+
+uce-indel/uce-indel-astraltree-20-contract.tre uce-indel/uce-indel-astraltree-10-contract.tre 45 10 .2222
+
+uce-indel/uce-indel-astraltree-20-contract.tre uce-indel/uce-indel-astraltree-20-contract.tre 45 0 0
+
+uce-indel/uce-indel-astraltree-20-contract.tre uce-indel/uce-indel-astraltree-33-contract.tre 45 4 .0889
+
+uce-indel/uce-indel-astraltree-20-contract.tre uce-indel/uce-indel-astraltree-3-contract.tre 45 13 .2889
+
+uce-indel/uce-indel-astraltree-20-contract.tre uce-indel/uce-indel-astraltree-5-contract.tre 45 9 .2
+
+uce-indel/uce-indel-astraltree-20-contract.tre uce-indel/uce-indel-astraltree.tre 45 11 .2444
+
+uce-indel/uce-indel-astraltree-20-contract.tre [uce-nt] 
+uce-indel/uce-indel-astraltree-20-contract.tre uce-nt/uce-nt-astraltree-0-contract.tre 45 10 .2222
+
+uce-indel/uce-indel-astraltree-20-contract.tre uce-nt/uce-nt-astraltree-10-contract.tre 45 10 .2222
+
+uce-indel/uce-indel-astraltree-20-contract.tre uce-nt/uce-nt-astraltree-20-contract.tre 45 10 .2222
+
+uce-indel/uce-indel-astraltree-20-contract.tre uce-nt/uce-nt-astraltree-33-contract.tre 45 10 .2222
+
+uce-indel/uce-indel-astraltree-20-contract.tre uce-nt/uce-nt-astraltree-3-contract.tre 45 10 .2222
+
+uce-indel/uce-indel-astraltree-20-contract.tre uce-nt/uce-nt-astraltree-5-contract.tre 45 10 .2222
+
+uce-indel/uce-indel-astraltree-20-contract.tre uce-nt/uce-nt-astraltree.tre 45 8 .1778
+
+uce-indel/uce-indel-astraltree-33-contract.tre [combined] 
+uce-indel/uce-indel-astraltree-33-contract.tre combined/combined-combined-astraltree-5-contract.tre 45 9 .2
+
+uce-indel/uce-indel-astraltree-33-contract.tre combined/combined-indel/combined-indel-astraltree-5-contract.tre 45 7 .1556
+
+uce-indel/uce-indel-astraltree-33-contract.tre combined/combined-intron/combined-intron-astraltree-5-contract.tre 45 10 .2222
+
+uce-indel/uce-indel-astraltree-33-contract.tre combined/combined-nt/combined-nt-astraltree-5-contract.tre 45 10 .2222
+
+uce-indel/uce-indel-astraltree-33-contract.tre combined/combined-uce/combined-uce-astraltree-5-contract.tre 45 9 .2
+
+uce-indel/uce-indel-astraltree-33-contract.tre [intron-indel] 
+uce-indel/uce-indel-astraltree-33-contract.tre intron-indel/intron-indel-astraltree-0-contract.tre 45 9 .2
+
+uce-indel/uce-indel-astraltree-33-contract.tre intron-indel/intron-indel-astraltree-10-contract.tre 45 9 .2
+
+uce-indel/uce-indel-astraltree-33-contract.tre intron-indel/intron-indel-astraltree-20-contract.tre 45 9 .2
+
+uce-indel/uce-indel-astraltree-33-contract.tre intron-indel/intron-indel-astraltree-33-contract.tre 45 8 .1778
+
+uce-indel/uce-indel-astraltree-33-contract.tre intron-indel/intron-indel-astraltree-3-contract.tre 45 8 .1778
+
+uce-indel/uce-indel-astraltree-33-contract.tre intron-indel/intron-indel-astraltree-5-contract.tre 45 9 .2
+
+uce-indel/uce-indel-astraltree-33-contract.tre intron-indel/intron-indel-astraltree.tre 45 9 .2
+
+uce-indel/uce-indel-astraltree-33-contract.tre [intron-nt] 
+uce-indel/uce-indel-astraltree-33-contract.tre intron-nt/intron-nt-astraltree-0-contract.tre 45 10 .2222
+
+uce-indel/uce-indel-astraltree-33-contract.tre intron-nt/intron-nt-astraltree-10-contract.tre 45 11 .2444
+
+uce-indel/uce-indel-astraltree-33-contract.tre intron-nt/intron-nt-astraltree-20-contract.tre 45 11 .2444
+
+uce-indel/uce-indel-astraltree-33-contract.tre intron-nt/intron-nt-astraltree-33-contract.tre 45 11 .2444
+
+uce-indel/uce-indel-astraltree-33-contract.tre intron-nt/intron-nt-astraltree-3-contract.tre 45 10 .2222
+
+uce-indel/uce-indel-astraltree-33-contract.tre intron-nt/intron-nt-astraltree-5-contract.tre 45 10 .2222
+
+uce-indel/uce-indel-astraltree-33-contract.tre intron-nt/intron-nt-astraltree.tre 45 12 .2667
+
+uce-indel/uce-indel-astraltree-33-contract.tre [uce-indel] 
+uce-indel/uce-indel-astraltree-33-contract.tre uce-indel/uce-indel-astraltree-0-contract.tre 45 12 .2667
+
+uce-indel/uce-indel-astraltree-33-contract.tre uce-indel/uce-indel-astraltree-10-contract.tre 45 12 .2667
+
+uce-indel/uce-indel-astraltree-33-contract.tre uce-indel/uce-indel-astraltree-20-contract.tre 45 4 .0889
+
+uce-indel/uce-indel-astraltree-33-contract.tre uce-indel/uce-indel-astraltree-33-contract.tre 45 0 0
+
+uce-indel/uce-indel-astraltree-33-contract.tre uce-indel/uce-indel-astraltree-3-contract.tre 45 14 .3111
+
+uce-indel/uce-indel-astraltree-33-contract.tre uce-indel/uce-indel-astraltree-5-contract.tre 45 11 .2444
+
+uce-indel/uce-indel-astraltree-33-contract.tre uce-indel/uce-indel-astraltree.tre 45 12 .2667
+
+uce-indel/uce-indel-astraltree-33-contract.tre [uce-nt] 
+uce-indel/uce-indel-astraltree-33-contract.tre uce-nt/uce-nt-astraltree-0-contract.tre 45 11 .2444
+
+uce-indel/uce-indel-astraltree-33-contract.tre uce-nt/uce-nt-astraltree-10-contract.tre 45 11 .2444
+
+uce-indel/uce-indel-astraltree-33-contract.tre uce-nt/uce-nt-astraltree-20-contract.tre 45 11 .2444
+
+uce-indel/uce-indel-astraltree-33-contract.tre uce-nt/uce-nt-astraltree-33-contract.tre 45 11 .2444
+
+uce-indel/uce-indel-astraltree-33-contract.tre uce-nt/uce-nt-astraltree-3-contract.tre 45 11 .2444
+
+uce-indel/uce-indel-astraltree-33-contract.tre uce-nt/uce-nt-astraltree-5-contract.tre 45 11 .2444
+
+uce-indel/uce-indel-astraltree-33-contract.tre uce-nt/uce-nt-astraltree.tre 45 9 .2
+
+uce-indel/uce-indel-astraltree-3-contract.tre [combined] 
+uce-indel/uce-indel-astraltree-3-contract.tre combined/combined-combined-astraltree-5-contract.tre 45 13 .2889
+
+uce-indel/uce-indel-astraltree-3-contract.tre combined/combined-indel/combined-indel-astraltree-5-contract.tre 45 12 .2667
+
+uce-indel/uce-indel-astraltree-3-contract.tre combined/combined-intron/combined-intron-astraltree-5-contract.tre 45 12 .2667
+
+uce-indel/uce-indel-astraltree-3-contract.tre combined/combined-nt/combined-nt-astraltree-5-contract.tre 45 13 .2889
+
+uce-indel/uce-indel-astraltree-3-contract.tre combined/combined-uce/combined-uce-astraltree-5-contract.tre 45 14 .3111
+
+uce-indel/uce-indel-astraltree-3-contract.tre [intron-indel] 
+uce-indel/uce-indel-astraltree-3-contract.tre intron-indel/intron-indel-astraltree-0-contract.tre 45 11 .2444
+
+uce-indel/uce-indel-astraltree-3-contract.tre intron-indel/intron-indel-astraltree-10-contract.tre 45 12 .2667
+
+uce-indel/uce-indel-astraltree-3-contract.tre intron-indel/intron-indel-astraltree-20-contract.tre 45 13 .2889
+
+uce-indel/uce-indel-astraltree-3-contract.tre intron-indel/intron-indel-astraltree-33-contract.tre 45 13 .2889
+
+uce-indel/uce-indel-astraltree-3-contract.tre intron-indel/intron-indel-astraltree-3-contract.tre 45 11 .2444
+
+uce-indel/uce-indel-astraltree-3-contract.tre intron-indel/intron-indel-astraltree-5-contract.tre 45 11 .2444
+
+uce-indel/uce-indel-astraltree-3-contract.tre intron-indel/intron-indel-astraltree.tre 45 11 .2444
+
+uce-indel/uce-indel-astraltree-3-contract.tre [intron-nt] 
+uce-indel/uce-indel-astraltree-3-contract.tre intron-nt/intron-nt-astraltree-0-contract.tre 45 12 .2667
+
+uce-indel/uce-indel-astraltree-3-contract.tre intron-nt/intron-nt-astraltree-10-contract.tre 45 12 .2667
+
+uce-indel/uce-indel-astraltree-3-contract.tre intron-nt/intron-nt-astraltree-20-contract.tre 45 12 .2667
+
+uce-indel/uce-indel-astraltree-3-contract.tre intron-nt/intron-nt-astraltree-33-contract.tre 45 12 .2667
+
+uce-indel/uce-indel-astraltree-3-contract.tre intron-nt/intron-nt-astraltree-3-contract.tre 45 12 .2667
+
+uce-indel/uce-indel-astraltree-3-contract.tre intron-nt/intron-nt-astraltree-5-contract.tre 45 12 .2667
+
+uce-indel/uce-indel-astraltree-3-contract.tre intron-nt/intron-nt-astraltree.tre 45 13 .2889
+
+uce-indel/uce-indel-astraltree-3-contract.tre [uce-indel] 
+uce-indel/uce-indel-astraltree-3-contract.tre uce-indel/uce-indel-astraltree-0-contract.tre 45 11 .2444
+
+uce-indel/uce-indel-astraltree-3-contract.tre uce-indel/uce-indel-astraltree-10-contract.tre 45 10 .2222
+
+uce-indel/uce-indel-astraltree-3-contract.tre uce-indel/uce-indel-astraltree-20-contract.tre 45 13 .2889
+
+uce-indel/uce-indel-astraltree-3-contract.tre uce-indel/uce-indel-astraltree-33-contract.tre 45 14 .3111
+
+uce-indel/uce-indel-astraltree-3-contract.tre uce-indel/uce-indel-astraltree-3-contract.tre 45 0 0
+
+uce-indel/uce-indel-astraltree-3-contract.tre uce-indel/uce-indel-astraltree-5-contract.tre 45 10 .2222
+
+uce-indel/uce-indel-astraltree-3-contract.tre uce-indel/uce-indel-astraltree.tre 45 11 .2444
+
+uce-indel/uce-indel-astraltree-3-contract.tre [uce-nt] 
+uce-indel/uce-indel-astraltree-3-contract.tre uce-nt/uce-nt-astraltree-0-contract.tre 45 14 .3111
+
+uce-indel/uce-indel-astraltree-3-contract.tre uce-nt/uce-nt-astraltree-10-contract.tre 45 14 .3111
+
+uce-indel/uce-indel-astraltree-3-contract.tre uce-nt/uce-nt-astraltree-20-contract.tre 45 14 .3111
+
+uce-indel/uce-indel-astraltree-3-contract.tre uce-nt/uce-nt-astraltree-33-contract.tre 45 14 .3111
+
+uce-indel/uce-indel-astraltree-3-contract.tre uce-nt/uce-nt-astraltree-3-contract.tre 45 14 .3111
+
+uce-indel/uce-indel-astraltree-3-contract.tre uce-nt/uce-nt-astraltree-5-contract.tre 45 14 .3111
+
+uce-indel/uce-indel-astraltree-3-contract.tre uce-nt/uce-nt-astraltree.tre 45 14 .3111
+
+uce-indel/uce-indel-astraltree-5-contract.tre [combined] 
+uce-indel/uce-indel-astraltree-5-contract.tre combined/combined-combined-astraltree-5-contract.tre 45 8 .1778
+
+uce-indel/uce-indel-astraltree-5-contract.tre combined/combined-indel/combined-indel-astraltree-5-contract.tre 45 5 .1111
+
+uce-indel/uce-indel-astraltree-5-contract.tre combined/combined-intron/combined-intron-astraltree-5-contract.tre 45 10 .2222
+
+uce-indel/uce-indel-astraltree-5-contract.tre combined/combined-nt/combined-nt-astraltree-5-contract.tre 45 9 .2
+
+uce-indel/uce-indel-astraltree-5-contract.tre combined/combined-uce/combined-uce-astraltree-5-contract.tre 45 9 .2
+
+uce-indel/uce-indel-astraltree-5-contract.tre [intron-indel] 
+uce-indel/uce-indel-astraltree-5-contract.tre intron-indel/intron-indel-astraltree-0-contract.tre 45 10 .2222
+
+uce-indel/uce-indel-astraltree-5-contract.tre intron-indel/intron-indel-astraltree-10-contract.tre 45 9 .2
+
+uce-indel/uce-indel-astraltree-5-contract.tre intron-indel/intron-indel-astraltree-20-contract.tre 45 11 .2444
+
+uce-indel/uce-indel-astraltree-5-contract.tre intron-indel/intron-indel-astraltree-33-contract.tre 45 10 .2222
+
+uce-indel/uce-indel-astraltree-5-contract.tre intron-indel/intron-indel-astraltree-3-contract.tre 45 9 .2
+
+uce-indel/uce-indel-astraltree-5-contract.tre intron-indel/intron-indel-astraltree-5-contract.tre 45 9 .2
+
+uce-indel/uce-indel-astraltree-5-contract.tre intron-indel/intron-indel-astraltree.tre 45 10 .2222
+
+uce-indel/uce-indel-astraltree-5-contract.tre [intron-nt] 
+uce-indel/uce-indel-astraltree-5-contract.tre intron-nt/intron-nt-astraltree-0-contract.tre 45 9 .2
+
+uce-indel/uce-indel-astraltree-5-contract.tre intron-nt/intron-nt-astraltree-10-contract.tre 45 9 .2
+
+uce-indel/uce-indel-astraltree-5-contract.tre intron-nt/intron-nt-astraltree-20-contract.tre 45 10 .2222
+
+uce-indel/uce-indel-astraltree-5-contract.tre intron-nt/intron-nt-astraltree-33-contract.tre 45 11 .2444
+
+uce-indel/uce-indel-astraltree-5-contract.tre intron-nt/intron-nt-astraltree-3-contract.tre 45 9 .2
+
+uce-indel/uce-indel-astraltree-5-contract.tre intron-nt/intron-nt-astraltree-5-contract.tre 45 9 .2
+
+uce-indel/uce-indel-astraltree-5-contract.tre intron-nt/intron-nt-astraltree.tre 45 10 .2222
+
+uce-indel/uce-indel-astraltree-5-contract.tre [uce-indel] 
+uce-indel/uce-indel-astraltree-5-contract.tre uce-indel/uce-indel-astraltree-0-contract.tre 45 8 .1778
+
+uce-indel/uce-indel-astraltree-5-contract.tre uce-indel/uce-indel-astraltree-10-contract.tre 45 9 .2
+
+uce-indel/uce-indel-astraltree-5-contract.tre uce-indel/uce-indel-astraltree-20-contract.tre 45 9 .2
+
+uce-indel/uce-indel-astraltree-5-contract.tre uce-indel/uce-indel-astraltree-33-contract.tre 45 11 .2444
+
+uce-indel/uce-indel-astraltree-5-contract.tre uce-indel/uce-indel-astraltree-3-contract.tre 45 10 .2222
+
+uce-indel/uce-indel-astraltree-5-contract.tre uce-indel/uce-indel-astraltree-5-contract.tre 45 0 0
+
+uce-indel/uce-indel-astraltree-5-contract.tre uce-indel/uce-indel-astraltree.tre 45 8 .1778
+
+uce-indel/uce-indel-astraltree-5-contract.tre [uce-nt] 
+uce-indel/uce-indel-astraltree-5-contract.tre uce-nt/uce-nt-astraltree-0-contract.tre 45 11 .2444
+
+uce-indel/uce-indel-astraltree-5-contract.tre uce-nt/uce-nt-astraltree-10-contract.tre 45 11 .2444
+
+uce-indel/uce-indel-astraltree-5-contract.tre uce-nt/uce-nt-astraltree-20-contract.tre 45 11 .2444
+
+uce-indel/uce-indel-astraltree-5-contract.tre uce-nt/uce-nt-astraltree-33-contract.tre 45 11 .2444
+
+uce-indel/uce-indel-astraltree-5-contract.tre uce-nt/uce-nt-astraltree-3-contract.tre 45 11 .2444
+
+uce-indel/uce-indel-astraltree-5-contract.tre uce-nt/uce-nt-astraltree-5-contract.tre 45 11 .2444
+
+uce-indel/uce-indel-astraltree-5-contract.tre uce-nt/uce-nt-astraltree.tre 45 10 .2222
+
+uce-indel/uce-indel-astraltree.tre [combined] 
+uce-indel/uce-indel-astraltree.tre combined/combined-combined-astraltree-5-contract.tre 45 12 .2667
+
+uce-indel/uce-indel-astraltree.tre combined/combined-indel/combined-indel-astraltree-5-contract.tre 45 9 .2
+
+uce-indel/uce-indel-astraltree.tre combined/combined-intron/combined-intron-astraltree-5-contract.tre 45 13 .2889
+
+uce-indel/uce-indel-astraltree.tre combined/combined-nt/combined-nt-astraltree-5-contract.tre 45 13 .2889
+
+uce-indel/uce-indel-astraltree.tre combined/combined-uce/combined-uce-astraltree-5-contract.tre 45 12 .2667
+
+uce-indel/uce-indel-astraltree.tre [intron-indel] 
+uce-indel/uce-indel-astraltree.tre intron-indel/intron-indel-astraltree-0-contract.tre 45 12 .2667
+
+uce-indel/uce-indel-astraltree.tre intron-indel/intron-indel-astraltree-10-contract.tre 45 11 .2444
+
+uce-indel/uce-indel-astraltree.tre intron-indel/intron-indel-astraltree-20-contract.tre 45 12 .2667
+
+uce-indel/uce-indel-astraltree.tre intron-indel/intron-indel-astraltree-33-contract.tre 45 12 .2667
+
+uce-indel/uce-indel-astraltree.tre intron-indel/intron-indel-astraltree-3-contract.tre 45 12 .2667
+
+uce-indel/uce-indel-astraltree.tre intron-indel/intron-indel-astraltree-5-contract.tre 45 12 .2667
+
+uce-indel/uce-indel-astraltree.tre intron-indel/intron-indel-astraltree.tre 45 12 .2667
+
+uce-indel/uce-indel-astraltree.tre [intron-nt] 
+uce-indel/uce-indel-astraltree.tre intron-nt/intron-nt-astraltree-0-contract.tre 45 13 .2889
+
+uce-indel/uce-indel-astraltree.tre intron-nt/intron-nt-astraltree-10-contract.tre 45 13 .2889
+
+uce-indel/uce-indel-astraltree.tre intron-nt/intron-nt-astraltree-20-contract.tre 45 14 .3111
+
+uce-indel/uce-indel-astraltree.tre intron-nt/intron-nt-astraltree-33-contract.tre 45 14 .3111
+
+uce-indel/uce-indel-astraltree.tre intron-nt/intron-nt-astraltree-3-contract.tre 45 13 .2889
+
+uce-indel/uce-indel-astraltree.tre intron-nt/intron-nt-astraltree-5-contract.tre 45 13 .2889
+
+uce-indel/uce-indel-astraltree.tre intron-nt/intron-nt-astraltree.tre 45 14 .3111
+
+uce-indel/uce-indel-astraltree.tre [uce-indel] 
+uce-indel/uce-indel-astraltree.tre uce-indel/uce-indel-astraltree-0-contract.tre 45 1 .0222
+
+uce-indel/uce-indel-astraltree.tre uce-indel/uce-indel-astraltree-10-contract.tre 45 10 .2222
+
+uce-indel/uce-indel-astraltree.tre uce-indel/uce-indel-astraltree-20-contract.tre 45 11 .2444
+
+uce-indel/uce-indel-astraltree.tre uce-indel/uce-indel-astraltree-33-contract.tre 45 12 .2667
+
+uce-indel/uce-indel-astraltree.tre uce-indel/uce-indel-astraltree-3-contract.tre 45 11 .2444
+
+uce-indel/uce-indel-astraltree.tre uce-indel/uce-indel-astraltree-5-contract.tre 45 8 .1778
+
+uce-indel/uce-indel-astraltree.tre uce-indel/uce-indel-astraltree.tre 45 0 0
+
+uce-indel/uce-indel-astraltree.tre [uce-nt] 
+uce-indel/uce-indel-astraltree.tre uce-nt/uce-nt-astraltree-0-contract.tre 45 13 .2889
+
+uce-indel/uce-indel-astraltree.tre uce-nt/uce-nt-astraltree-10-contract.tre 45 13 .2889
+
+uce-indel/uce-indel-astraltree.tre uce-nt/uce-nt-astraltree-20-contract.tre 45 13 .2889
+
+uce-indel/uce-indel-astraltree.tre uce-nt/uce-nt-astraltree-33-contract.tre 45 13 .2889
+
+uce-indel/uce-indel-astraltree.tre uce-nt/uce-nt-astraltree-3-contract.tre 45 13 .2889
+
+uce-indel/uce-indel-astraltree.tre uce-nt/uce-nt-astraltree-5-contract.tre 45 13 .2889
+
+uce-indel/uce-indel-astraltree.tre uce-nt/uce-nt-astraltree.tre 45 13 .2889
+
+[uce-nt] [combined] 
+[uce-nt] combined/combined-combined-astraltree-5-contract.tre -
+
+[uce-nt] combined/combined-indel/combined-indel-astraltree-5-contract.tre -
+
+[uce-nt] combined/combined-intron/combined-intron-astraltree-5-contract.tre -
+
+[uce-nt] combined/combined-nt/combined-nt-astraltree-5-contract.tre -
+
+[uce-nt] combined/combined-uce/combined-uce-astraltree-5-contract.tre -
+
+[uce-nt] [intron-indel] 
+[uce-nt] intron-indel/intron-indel-astraltree-0-contract.tre -
+
+[uce-nt] intron-indel/intron-indel-astraltree-10-contract.tre -
+
+[uce-nt] intron-indel/intron-indel-astraltree-20-contract.tre -
+
+[uce-nt] intron-indel/intron-indel-astraltree-33-contract.tre -
+
+[uce-nt] intron-indel/intron-indel-astraltree-3-contract.tre -
+
+[uce-nt] intron-indel/intron-indel-astraltree-5-contract.tre -
+
+[uce-nt] intron-indel/intron-indel-astraltree.tre -
+
+[uce-nt] [intron-nt] 
+[uce-nt] intron-nt/intron-nt-astraltree-0-contract.tre -
+
+[uce-nt] intron-nt/intron-nt-astraltree-10-contract.tre -
+
+[uce-nt] intron-nt/intron-nt-astraltree-20-contract.tre -
+
+[uce-nt] intron-nt/intron-nt-astraltree-33-contract.tre -
+
+[uce-nt] intron-nt/intron-nt-astraltree-3-contract.tre -
+
+[uce-nt] intron-nt/intron-nt-astraltree-5-contract.tre -
+
+[uce-nt] intron-nt/intron-nt-astraltree.tre -
+
+[uce-nt] [uce-indel] 
+[uce-nt] uce-indel/uce-indel-astraltree-0-contract.tre -
+
+[uce-nt] uce-indel/uce-indel-astraltree-10-contract.tre -
+
+[uce-nt] uce-indel/uce-indel-astraltree-20-contract.tre -
+
+[uce-nt] uce-indel/uce-indel-astraltree-33-contract.tre -
+
+[uce-nt] uce-indel/uce-indel-astraltree-3-contract.tre -
+
+[uce-nt] uce-indel/uce-indel-astraltree-5-contract.tre -
+
+[uce-nt] uce-indel/uce-indel-astraltree.tre -
+
+[uce-nt] [uce-nt] 
+[uce-nt] uce-nt/uce-nt-astraltree-0-contract.tre -
+
+[uce-nt] uce-nt/uce-nt-astraltree-10-contract.tre -
+
+[uce-nt] uce-nt/uce-nt-astraltree-20-contract.tre -
+
+[uce-nt] uce-nt/uce-nt-astraltree-33-contract.tre -
+
+[uce-nt] uce-nt/uce-nt-astraltree-3-contract.tre -
+
+[uce-nt] uce-nt/uce-nt-astraltree-5-contract.tre -
+
+[uce-nt] uce-nt/uce-nt-astraltree.tre -
+
+uce-nt/uce-nt-astraltree-0-contract.tre [combined] 
+uce-nt/uce-nt-astraltree-0-contract.tre combined/combined-combined-astraltree-5-contract.tre 45 5 .1111
+
+uce-nt/uce-nt-astraltree-0-contract.tre combined/combined-indel/combined-indel-astraltree-5-contract.tre 45 10 .2222
+
+uce-nt/uce-nt-astraltree-0-contract.tre combined/combined-intron/combined-intron-astraltree-5-contract.tre 45 7 .1556
+
+uce-nt/uce-nt-astraltree-0-contract.tre combined/combined-nt/combined-nt-astraltree-5-contract.tre 45 4 .0889
+
+uce-nt/uce-nt-astraltree-0-contract.tre combined/combined-uce/combined-uce-astraltree-5-contract.tre 45 4 .0889
+
+uce-nt/uce-nt-astraltree-0-contract.tre [intron-indel] 
+uce-nt/uce-nt-astraltree-0-contract.tre intron-indel/intron-indel-astraltree-0-contract.tre 45 8 .1778
+
+uce-nt/uce-nt-astraltree-0-contract.tre intron-indel/intron-indel-astraltree-10-contract.tre 45 7 .1556
+
+uce-nt/uce-nt-astraltree-0-contract.tre intron-indel/intron-indel-astraltree-20-contract.tre 45 8 .1778
+
+uce-nt/uce-nt-astraltree-0-contract.tre intron-indel/intron-indel-astraltree-33-contract.tre 45 9 .2
+
+uce-nt/uce-nt-astraltree-0-contract.tre intron-indel/intron-indel-astraltree-3-contract.tre 45 9 .2
+
+uce-nt/uce-nt-astraltree-0-contract.tre intron-indel/intron-indel-astraltree-5-contract.tre 45 9 .2
+
+uce-nt/uce-nt-astraltree-0-contract.tre intron-indel/intron-indel-astraltree.tre 45 9 .2
+
+uce-nt/uce-nt-astraltree-0-contract.tre [intron-nt] 
+uce-nt/uce-nt-astraltree-0-contract.tre intron-nt/intron-nt-astraltree-0-contract.tre 45 6 .1333
+
+uce-nt/uce-nt-astraltree-0-contract.tre intron-nt/intron-nt-astraltree-10-contract.tre 45 6 .1333
+
+uce-nt/uce-nt-astraltree-0-contract.tre intron-nt/intron-nt-astraltree-20-contract.tre 45 5 .1111
+
+uce-nt/uce-nt-astraltree-0-contract.tre intron-nt/intron-nt-astraltree-33-contract.tre 45 7 .1556
+
+uce-nt/uce-nt-astraltree-0-contract.tre intron-nt/intron-nt-astraltree-3-contract.tre 45 6 .1333
+
+uce-nt/uce-nt-astraltree-0-contract.tre intron-nt/intron-nt-astraltree-5-contract.tre 45 6 .1333
+
+uce-nt/uce-nt-astraltree-0-contract.tre intron-nt/intron-nt-astraltree.tre 45 7 .1556
+
+uce-nt/uce-nt-astraltree-0-contract.tre [uce-indel] 
+uce-nt/uce-nt-astraltree-0-contract.tre uce-indel/uce-indel-astraltree-0-contract.tre 45 13 .2889
+
+uce-nt/uce-nt-astraltree-0-contract.tre uce-indel/uce-indel-astraltree-10-contract.tre 45 13 .2889
+
+uce-nt/uce-nt-astraltree-0-contract.tre uce-indel/uce-indel-astraltree-20-contract.tre 45 10 .2222
+
+uce-nt/uce-nt-astraltree-0-contract.tre uce-indel/uce-indel-astraltree-33-contract.tre 45 11 .2444
+
+uce-nt/uce-nt-astraltree-0-contract.tre uce-indel/uce-indel-astraltree-3-contract.tre 45 14 .3111
+
+uce-nt/uce-nt-astraltree-0-contract.tre uce-indel/uce-indel-astraltree-5-contract.tre 45 11 .2444
+
+uce-nt/uce-nt-astraltree-0-contract.tre uce-indel/uce-indel-astraltree.tre 45 13 .2889
+
+uce-nt/uce-nt-astraltree-0-contract.tre [uce-nt] 
+uce-nt/uce-nt-astraltree-0-contract.tre uce-nt/uce-nt-astraltree-0-contract.tre 45 0 0
+
+uce-nt/uce-nt-astraltree-0-contract.tre uce-nt/uce-nt-astraltree-10-contract.tre 45 0 0
+
+uce-nt/uce-nt-astraltree-0-contract.tre uce-nt/uce-nt-astraltree-20-contract.tre 45 1 .0222
+
+uce-nt/uce-nt-astraltree-0-contract.tre uce-nt/uce-nt-astraltree-33-contract.tre 45 2 .0444
+
+uce-nt/uce-nt-astraltree-0-contract.tre uce-nt/uce-nt-astraltree-3-contract.tre 45 0 0
+
+uce-nt/uce-nt-astraltree-0-contract.tre uce-nt/uce-nt-astraltree-5-contract.tre 45 3 .0667
+
+uce-nt/uce-nt-astraltree-0-contract.tre uce-nt/uce-nt-astraltree.tre 45 2 .0444
+
+uce-nt/uce-nt-astraltree-10-contract.tre [combined] 
+uce-nt/uce-nt-astraltree-10-contract.tre combined/combined-combined-astraltree-5-contract.tre 45 5 .1111
+
+uce-nt/uce-nt-astraltree-10-contract.tre combined/combined-indel/combined-indel-astraltree-5-contract.tre 45 10 .2222
+
+uce-nt/uce-nt-astraltree-10-contract.tre combined/combined-intron/combined-intron-astraltree-5-contract.tre 45 7 .1556
+
+uce-nt/uce-nt-astraltree-10-contract.tre combined/combined-nt/combined-nt-astraltree-5-contract.tre 45 4 .0889
+
+uce-nt/uce-nt-astraltree-10-contract.tre combined/combined-uce/combined-uce-astraltree-5-contract.tre 45 4 .0889
+
+uce-nt/uce-nt-astraltree-10-contract.tre [intron-indel] 
+uce-nt/uce-nt-astraltree-10-contract.tre intron-indel/intron-indel-astraltree-0-contract.tre 45 8 .1778
+
+uce-nt/uce-nt-astraltree-10-contract.tre intron-indel/intron-indel-astraltree-10-contract.tre 45 7 .1556
+
+uce-nt/uce-nt-astraltree-10-contract.tre intron-indel/intron-indel-astraltree-20-contract.tre 45 8 .1778
+
+uce-nt/uce-nt-astraltree-10-contract.tre intron-indel/intron-indel-astraltree-33-contract.tre 45 9 .2
+
+uce-nt/uce-nt-astraltree-10-contract.tre intron-indel/intron-indel-astraltree-3-contract.tre 45 9 .2
+
+uce-nt/uce-nt-astraltree-10-contract.tre intron-indel/intron-indel-astraltree-5-contract.tre 45 9 .2
+
+uce-nt/uce-nt-astraltree-10-contract.tre intron-indel/intron-indel-astraltree.tre 45 9 .2
+
+uce-nt/uce-nt-astraltree-10-contract.tre [intron-nt] 
+uce-nt/uce-nt-astraltree-10-contract.tre intron-nt/intron-nt-astraltree-0-contract.tre 45 6 .1333
+
+uce-nt/uce-nt-astraltree-10-contract.tre intron-nt/intron-nt-astraltree-10-contract.tre 45 6 .1333
+
+uce-nt/uce-nt-astraltree-10-contract.tre intron-nt/intron-nt-astraltree-20-contract.tre 45 5 .1111
+
+uce-nt/uce-nt-astraltree-10-contract.tre intron-nt/intron-nt-astraltree-33-contract.tre 45 7 .1556
+
+uce-nt/uce-nt-astraltree-10-contract.tre intron-nt/intron-nt-astraltree-3-contract.tre 45 6 .1333
+
+uce-nt/uce-nt-astraltree-10-contract.tre intron-nt/intron-nt-astraltree-5-contract.tre 45 6 .1333
+
+uce-nt/uce-nt-astraltree-10-contract.tre intron-nt/intron-nt-astraltree.tre 45 7 .1556
+
+uce-nt/uce-nt-astraltree-10-contract.tre [uce-indel] 
+uce-nt/uce-nt-astraltree-10-contract.tre uce-indel/uce-indel-astraltree-0-contract.tre 45 13 .2889
+
+uce-nt/uce-nt-astraltree-10-contract.tre uce-indel/uce-indel-astraltree-10-contract.tre 45 13 .2889
+
+uce-nt/uce-nt-astraltree-10-contract.tre uce-indel/uce-indel-astraltree-20-contract.tre 45 10 .2222
+
+uce-nt/uce-nt-astraltree-10-contract.tre uce-indel/uce-indel-astraltree-33-contract.tre 45 11 .2444
+
+uce-nt/uce-nt-astraltree-10-contract.tre uce-indel/uce-indel-astraltree-3-contract.tre 45 14 .3111
+
+uce-nt/uce-nt-astraltree-10-contract.tre uce-indel/uce-indel-astraltree-5-contract.tre 45 11 .2444
+
+uce-nt/uce-nt-astraltree-10-contract.tre uce-indel/uce-indel-astraltree.tre 45 13 .2889
+
+uce-nt/uce-nt-astraltree-10-contract.tre [uce-nt] 
+uce-nt/uce-nt-astraltree-10-contract.tre uce-nt/uce-nt-astraltree-0-contract.tre 45 0 0
+
+uce-nt/uce-nt-astraltree-10-contract.tre uce-nt/uce-nt-astraltree-10-contract.tre 45 0 0
+
+uce-nt/uce-nt-astraltree-10-contract.tre uce-nt/uce-nt-astraltree-20-contract.tre 45 1 .0222
+
+uce-nt/uce-nt-astraltree-10-contract.tre uce-nt/uce-nt-astraltree-33-contract.tre 45 2 .0444
+
+uce-nt/uce-nt-astraltree-10-contract.tre uce-nt/uce-nt-astraltree-3-contract.tre 45 0 0
+
+uce-nt/uce-nt-astraltree-10-contract.tre uce-nt/uce-nt-astraltree-5-contract.tre 45 3 .0667
+
+uce-nt/uce-nt-astraltree-10-contract.tre uce-nt/uce-nt-astraltree.tre 45 2 .0444
+
+uce-nt/uce-nt-astraltree-20-contract.tre [combined] 
+uce-nt/uce-nt-astraltree-20-contract.tre combined/combined-combined-astraltree-5-contract.tre 45 6 .1333
+
+uce-nt/uce-nt-astraltree-20-contract.tre combined/combined-indel/combined-indel-astraltree-5-contract.tre 45 10 .2222
+
+uce-nt/uce-nt-astraltree-20-contract.tre combined/combined-intron/combined-intron-astraltree-5-contract.tre 45 8 .1778
+
+uce-nt/uce-nt-astraltree-20-contract.tre combined/combined-nt/combined-nt-astraltree-5-contract.tre 45 5 .1111
+
+uce-nt/uce-nt-astraltree-20-contract.tre combined/combined-uce/combined-uce-astraltree-5-contract.tre 45 5 .1111
+
+uce-nt/uce-nt-astraltree-20-contract.tre [intron-indel] 
+uce-nt/uce-nt-astraltree-20-contract.tre intron-indel/intron-indel-astraltree-0-contract.tre 45 8 .1778
+
+uce-nt/uce-nt-astraltree-20-contract.tre intron-indel/intron-indel-astraltree-10-contract.tre 45 7 .1556
+
+uce-nt/uce-nt-astraltree-20-contract.tre intron-indel/intron-indel-astraltree-20-contract.tre 45 8 .1778
+
+uce-nt/uce-nt-astraltree-20-contract.tre intron-indel/intron-indel-astraltree-33-contract.tre 45 9 .2
+
+uce-nt/uce-nt-astraltree-20-contract.tre intron-indel/intron-indel-astraltree-3-contract.tre 45 9 .2
+
+uce-nt/uce-nt-astraltree-20-contract.tre intron-indel/intron-indel-astraltree-5-contract.tre 45 9 .2
+
+uce-nt/uce-nt-astraltree-20-contract.tre intron-indel/intron-indel-astraltree.tre 45 9 .2
+
+uce-nt/uce-nt-astraltree-20-contract.tre [intron-nt] 
+uce-nt/uce-nt-astraltree-20-contract.tre intron-nt/intron-nt-astraltree-0-contract.tre 45 7 .1556
+
+uce-nt/uce-nt-astraltree-20-contract.tre intron-nt/intron-nt-astraltree-10-contract.tre 45 7 .1556
+
+uce-nt/uce-nt-astraltree-20-contract.tre intron-nt/intron-nt-astraltree-20-contract.tre 45 6 .1333
+
+uce-nt/uce-nt-astraltree-20-contract.tre intron-nt/intron-nt-astraltree-33-contract.tre 45 8 .1778
+
+uce-nt/uce-nt-astraltree-20-contract.tre intron-nt/intron-nt-astraltree-3-contract.tre 45 7 .1556
+
+uce-nt/uce-nt-astraltree-20-contract.tre intron-nt/intron-nt-astraltree-5-contract.tre 45 7 .1556
+
+uce-nt/uce-nt-astraltree-20-contract.tre intron-nt/intron-nt-astraltree.tre 45 8 .1778
+
+uce-nt/uce-nt-astraltree-20-contract.tre [uce-indel] 
+uce-nt/uce-nt-astraltree-20-contract.tre uce-indel/uce-indel-astraltree-0-contract.tre 45 13 .2889
+
+uce-nt/uce-nt-astraltree-20-contract.tre uce-indel/uce-indel-astraltree-10-contract.tre 45 13 .2889
+
+uce-nt/uce-nt-astraltree-20-contract.tre uce-indel/uce-indel-astraltree-20-contract.tre 45 10 .2222
+
+uce-nt/uce-nt-astraltree-20-contract.tre uce-indel/uce-indel-astraltree-33-contract.tre 45 11 .2444
+
+uce-nt/uce-nt-astraltree-20-contract.tre uce-indel/uce-indel-astraltree-3-contract.tre 45 14 .3111
+
+uce-nt/uce-nt-astraltree-20-contract.tre uce-indel/uce-indel-astraltree-5-contract.tre 45 11 .2444
+
+uce-nt/uce-nt-astraltree-20-contract.tre uce-indel/uce-indel-astraltree.tre 45 13 .2889
+
+uce-nt/uce-nt-astraltree-20-contract.tre [uce-nt] 
+uce-nt/uce-nt-astraltree-20-contract.tre uce-nt/uce-nt-astraltree-0-contract.tre 45 1 .0222
+
+uce-nt/uce-nt-astraltree-20-contract.tre uce-nt/uce-nt-astraltree-10-contract.tre 45 1 .0222
+
+uce-nt/uce-nt-astraltree-20-contract.tre uce-nt/uce-nt-astraltree-20-contract.tre 45 0 0
+
+uce-nt/uce-nt-astraltree-20-contract.tre uce-nt/uce-nt-astraltree-33-contract.tre 45 2 .0444
+
+uce-nt/uce-nt-astraltree-20-contract.tre uce-nt/uce-nt-astraltree-3-contract.tre 45 1 .0222
+
+uce-nt/uce-nt-astraltree-20-contract.tre uce-nt/uce-nt-astraltree-5-contract.tre 45 4 .0889
+
+uce-nt/uce-nt-astraltree-20-contract.tre uce-nt/uce-nt-astraltree.tre 45 3 .0667
+
+uce-nt/uce-nt-astraltree-33-contract.tre [combined] 
+uce-nt/uce-nt-astraltree-33-contract.tre combined/combined-combined-astraltree-5-contract.tre 45 6 .1333
+
+uce-nt/uce-nt-astraltree-33-contract.tre combined/combined-indel/combined-indel-astraltree-5-contract.tre 45 10 .2222
+
+uce-nt/uce-nt-astraltree-33-contract.tre combined/combined-intron/combined-intron-astraltree-5-contract.tre 45 8 .1778
+
+uce-nt/uce-nt-astraltree-33-contract.tre combined/combined-nt/combined-nt-astraltree-5-contract.tre 45 4 .0889
+
+uce-nt/uce-nt-astraltree-33-contract.tre combined/combined-uce/combined-uce-astraltree-5-contract.tre 45 5 .1111
+
+uce-nt/uce-nt-astraltree-33-contract.tre [intron-indel] 
+uce-nt/uce-nt-astraltree-33-contract.tre intron-indel/intron-indel-astraltree-0-contract.tre 45 9 .2
+
+uce-nt/uce-nt-astraltree-33-contract.tre intron-indel/intron-indel-astraltree-10-contract.tre 45 8 .1778
+
+uce-nt/uce-nt-astraltree-33-contract.tre intron-indel/intron-indel-astraltree-20-contract.tre 45 9 .2
+
+uce-nt/uce-nt-astraltree-33-contract.tre intron-indel/intron-indel-astraltree-33-contract.tre 45 9 .2
+
+uce-nt/uce-nt-astraltree-33-contract.tre intron-indel/intron-indel-astraltree-3-contract.tre 45 9 .2
+
+uce-nt/uce-nt-astraltree-33-contract.tre intron-indel/intron-indel-astraltree-5-contract.tre 45 9 .2
+
+uce-nt/uce-nt-astraltree-33-contract.tre intron-indel/intron-indel-astraltree.tre 45 10 .2222
+
+uce-nt/uce-nt-astraltree-33-contract.tre [intron-nt] 
+uce-nt/uce-nt-astraltree-33-contract.tre intron-nt/intron-nt-astraltree-0-contract.tre 45 7 .1556
+
+uce-nt/uce-nt-astraltree-33-contract.tre intron-nt/intron-nt-astraltree-10-contract.tre 45 6 .1333
+
+uce-nt/uce-nt-astraltree-33-contract.tre intron-nt/intron-nt-astraltree-20-contract.tre 45 5 .1111
+
+uce-nt/uce-nt-astraltree-33-contract.tre intron-nt/intron-nt-astraltree-33-contract.tre 45 7 .1556
+
+uce-nt/uce-nt-astraltree-33-contract.tre intron-nt/intron-nt-astraltree-3-contract.tre 45 7 .1556
+
+uce-nt/uce-nt-astraltree-33-contract.tre intron-nt/intron-nt-astraltree-5-contract.tre 45 7 .1556
+
+uce-nt/uce-nt-astraltree-33-contract.tre intron-nt/intron-nt-astraltree.tre 45 8 .1778
+
+uce-nt/uce-nt-astraltree-33-contract.tre [uce-indel] 
+uce-nt/uce-nt-astraltree-33-contract.tre uce-indel/uce-indel-astraltree-0-contract.tre 45 13 .2889
+
+uce-nt/uce-nt-astraltree-33-contract.tre uce-indel/uce-indel-astraltree-10-contract.tre 45 13 .2889
+
+uce-nt/uce-nt-astraltree-33-contract.tre uce-indel/uce-indel-astraltree-20-contract.tre 45 10 .2222
+
+uce-nt/uce-nt-astraltree-33-contract.tre uce-indel/uce-indel-astraltree-33-contract.tre 45 11 .2444
+
+uce-nt/uce-nt-astraltree-33-contract.tre uce-indel/uce-indel-astraltree-3-contract.tre 45 14 .3111
+
+uce-nt/uce-nt-astraltree-33-contract.tre uce-indel/uce-indel-astraltree-5-contract.tre 45 11 .2444
+
+uce-nt/uce-nt-astraltree-33-contract.tre uce-indel/uce-indel-astraltree.tre 45 13 .2889
+
+uce-nt/uce-nt-astraltree-33-contract.tre [uce-nt] 
+uce-nt/uce-nt-astraltree-33-contract.tre uce-nt/uce-nt-astraltree-0-contract.tre 45 2 .0444
+
+uce-nt/uce-nt-astraltree-33-contract.tre uce-nt/uce-nt-astraltree-10-contract.tre 45 2 .0444
+
+uce-nt/uce-nt-astraltree-33-contract.tre uce-nt/uce-nt-astraltree-20-contract.tre 45 2 .0444
+
+uce-nt/uce-nt-astraltree-33-contract.tre uce-nt/uce-nt-astraltree-33-contract.tre 45 0 0
+
+uce-nt/uce-nt-astraltree-33-contract.tre uce-nt/uce-nt-astraltree-3-contract.tre 45 2 .0444
+
+uce-nt/uce-nt-astraltree-33-contract.tre uce-nt/uce-nt-astraltree-5-contract.tre 45 5 .1111
+
+uce-nt/uce-nt-astraltree-33-contract.tre uce-nt/uce-nt-astraltree.tre 45 3 .0667
+
+uce-nt/uce-nt-astraltree-3-contract.tre [combined] 
+uce-nt/uce-nt-astraltree-3-contract.tre combined/combined-combined-astraltree-5-contract.tre 45 5 .1111
+
+uce-nt/uce-nt-astraltree-3-contract.tre combined/combined-indel/combined-indel-astraltree-5-contract.tre 45 10 .2222
+
+uce-nt/uce-nt-astraltree-3-contract.tre combined/combined-intron/combined-intron-astraltree-5-contract.tre 45 7 .1556
+
+uce-nt/uce-nt-astraltree-3-contract.tre combined/combined-nt/combined-nt-astraltree-5-contract.tre 45 4 .0889
+
+uce-nt/uce-nt-astraltree-3-contract.tre combined/combined-uce/combined-uce-astraltree-5-contract.tre 45 4 .0889
+
+uce-nt/uce-nt-astraltree-3-contract.tre [intron-indel] 
+uce-nt/uce-nt-astraltree-3-contract.tre intron-indel/intron-indel-astraltree-0-contract.tre 45 8 .1778
+
+uce-nt/uce-nt-astraltree-3-contract.tre intron-indel/intron-indel-astraltree-10-contract.tre 45 7 .1556
+
+uce-nt/uce-nt-astraltree-3-contract.tre intron-indel/intron-indel-astraltree-20-contract.tre 45 8 .1778
+
+uce-nt/uce-nt-astraltree-3-contract.tre intron-indel/intron-indel-astraltree-33-contract.tre 45 9 .2
+
+uce-nt/uce-nt-astraltree-3-contract.tre intron-indel/intron-indel-astraltree-3-contract.tre 45 9 .2
+
+uce-nt/uce-nt-astraltree-3-contract.tre intron-indel/intron-indel-astraltree-5-contract.tre 45 9 .2
+
+uce-nt/uce-nt-astraltree-3-contract.tre intron-indel/intron-indel-astraltree.tre 45 9 .2
+
+uce-nt/uce-nt-astraltree-3-contract.tre [intron-nt] 
+uce-nt/uce-nt-astraltree-3-contract.tre intron-nt/intron-nt-astraltree-0-contract.tre 45 6 .1333
+
+uce-nt/uce-nt-astraltree-3-contract.tre intron-nt/intron-nt-astraltree-10-contract.tre 45 6 .1333
+
+uce-nt/uce-nt-astraltree-3-contract.tre intron-nt/intron-nt-astraltree-20-contract.tre 45 5 .1111
+
+uce-nt/uce-nt-astraltree-3-contract.tre intron-nt/intron-nt-astraltree-33-contract.tre 45 7 .1556
+
+uce-nt/uce-nt-astraltree-3-contract.tre intron-nt/intron-nt-astraltree-3-contract.tre 45 6 .1333
+
+uce-nt/uce-nt-astraltree-3-contract.tre intron-nt/intron-nt-astraltree-5-contract.tre 45 6 .1333
+
+uce-nt/uce-nt-astraltree-3-contract.tre intron-nt/intron-nt-astraltree.tre 45 7 .1556
+
+uce-nt/uce-nt-astraltree-3-contract.tre [uce-indel] 
+uce-nt/uce-nt-astraltree-3-contract.tre uce-indel/uce-indel-astraltree-0-contract.tre 45 13 .2889
+
+uce-nt/uce-nt-astraltree-3-contract.tre uce-indel/uce-indel-astraltree-10-contract.tre 45 13 .2889
+
+uce-nt/uce-nt-astraltree-3-contract.tre uce-indel/uce-indel-astraltree-20-contract.tre 45 10 .2222
+
+uce-nt/uce-nt-astraltree-3-contract.tre uce-indel/uce-indel-astraltree-33-contract.tre 45 11 .2444
+
+uce-nt/uce-nt-astraltree-3-contract.tre uce-indel/uce-indel-astraltree-3-contract.tre 45 14 .3111
+
+uce-nt/uce-nt-astraltree-3-contract.tre uce-indel/uce-indel-astraltree-5-contract.tre 45 11 .2444
+
+uce-nt/uce-nt-astraltree-3-contract.tre uce-indel/uce-indel-astraltree.tre 45 13 .2889
+
+uce-nt/uce-nt-astraltree-3-contract.tre [uce-nt] 
+uce-nt/uce-nt-astraltree-3-contract.tre uce-nt/uce-nt-astraltree-0-contract.tre 45 0 0
+
+uce-nt/uce-nt-astraltree-3-contract.tre uce-nt/uce-nt-astraltree-10-contract.tre 45 0 0
+
+uce-nt/uce-nt-astraltree-3-contract.tre uce-nt/uce-nt-astraltree-20-contract.tre 45 1 .0222
+
+uce-nt/uce-nt-astraltree-3-contract.tre uce-nt/uce-nt-astraltree-33-contract.tre 45 2 .0444
+
+uce-nt/uce-nt-astraltree-3-contract.tre uce-nt/uce-nt-astraltree-3-contract.tre 45 0 0
+
+uce-nt/uce-nt-astraltree-3-contract.tre uce-nt/uce-nt-astraltree-5-contract.tre 45 3 .0667
+
+uce-nt/uce-nt-astraltree-3-contract.tre uce-nt/uce-nt-astraltree.tre 45 2 .0444
+
+uce-nt/uce-nt-astraltree-5-contract.tre [combined] 
+uce-nt/uce-nt-astraltree-5-contract.tre combined/combined-combined-astraltree-5-contract.tre 45 6 .1333
+
+uce-nt/uce-nt-astraltree-5-contract.tre combined/combined-indel/combined-indel-astraltree-5-contract.tre 45 10 .2222
+
+uce-nt/uce-nt-astraltree-5-contract.tre combined/combined-intron/combined-intron-astraltree-5-contract.tre 45 8 .1778
+
+uce-nt/uce-nt-astraltree-5-contract.tre combined/combined-nt/combined-nt-astraltree-5-contract.tre 45 5 .1111
+
+uce-nt/uce-nt-astraltree-5-contract.tre combined/combined-uce/combined-uce-astraltree-5-contract.tre 45 5 .1111
+
+uce-nt/uce-nt-astraltree-5-contract.tre [intron-indel] 
+uce-nt/uce-nt-astraltree-5-contract.tre intron-indel/intron-indel-astraltree-0-contract.tre 45 9 .2
+
+uce-nt/uce-nt-astraltree-5-contract.tre intron-indel/intron-indel-astraltree-10-contract.tre 45 8 .1778
+
+uce-nt/uce-nt-astraltree-5-contract.tre intron-indel/intron-indel-astraltree-20-contract.tre 45 9 .2
+
+uce-nt/uce-nt-astraltree-5-contract.tre intron-indel/intron-indel-astraltree-33-contract.tre 45 10 .2222
+
+uce-nt/uce-nt-astraltree-5-contract.tre intron-indel/intron-indel-astraltree-3-contract.tre 45 10 .2222
+
+uce-nt/uce-nt-astraltree-5-contract.tre intron-indel/intron-indel-astraltree-5-contract.tre 45 10 .2222
+
+uce-nt/uce-nt-astraltree-5-contract.tre intron-indel/intron-indel-astraltree.tre 45 9 .2
+
+uce-nt/uce-nt-astraltree-5-contract.tre [intron-nt] 
+uce-nt/uce-nt-astraltree-5-contract.tre intron-nt/intron-nt-astraltree-0-contract.tre 45 7 .1556
+
+uce-nt/uce-nt-astraltree-5-contract.tre intron-nt/intron-nt-astraltree-10-contract.tre 45 7 .1556
+
+uce-nt/uce-nt-astraltree-5-contract.tre intron-nt/intron-nt-astraltree-20-contract.tre 45 6 .1333
+
+uce-nt/uce-nt-astraltree-5-contract.tre intron-nt/intron-nt-astraltree-33-contract.tre 45 8 .1778
+
+uce-nt/uce-nt-astraltree-5-contract.tre intron-nt/intron-nt-astraltree-3-contract.tre 45 7 .1556
+
+uce-nt/uce-nt-astraltree-5-contract.tre intron-nt/intron-nt-astraltree-5-contract.tre 45 7 .1556
+
+uce-nt/uce-nt-astraltree-5-contract.tre intron-nt/intron-nt-astraltree.tre 45 8 .1778
+
+uce-nt/uce-nt-astraltree-5-contract.tre [uce-indel] 
+uce-nt/uce-nt-astraltree-5-contract.tre uce-indel/uce-indel-astraltree-0-contract.tre 45 13 .2889
+
+uce-nt/uce-nt-astraltree-5-contract.tre uce-indel/uce-indel-astraltree-10-contract.tre 45 13 .2889
+
+uce-nt/uce-nt-astraltree-5-contract.tre uce-indel/uce-indel-astraltree-20-contract.tre 45 10 .2222
+
+uce-nt/uce-nt-astraltree-5-contract.tre uce-indel/uce-indel-astraltree-33-contract.tre 45 11 .2444
+
+uce-nt/uce-nt-astraltree-5-contract.tre uce-indel/uce-indel-astraltree-3-contract.tre 45 14 .3111
+
+uce-nt/uce-nt-astraltree-5-contract.tre uce-indel/uce-indel-astraltree-5-contract.tre 45 11 .2444
+
+uce-nt/uce-nt-astraltree-5-contract.tre uce-indel/uce-indel-astraltree.tre 45 13 .2889
+
+uce-nt/uce-nt-astraltree-5-contract.tre [uce-nt] 
+uce-nt/uce-nt-astraltree-5-contract.tre uce-nt/uce-nt-astraltree-0-contract.tre 45 3 .0667
+
+uce-nt/uce-nt-astraltree-5-contract.tre uce-nt/uce-nt-astraltree-10-contract.tre 45 3 .0667
+
+uce-nt/uce-nt-astraltree-5-contract.tre uce-nt/uce-nt-astraltree-20-contract.tre 45 4 .0889
+
+uce-nt/uce-nt-astraltree-5-contract.tre uce-nt/uce-nt-astraltree-33-contract.tre 45 5 .1111
+
+uce-nt/uce-nt-astraltree-5-contract.tre uce-nt/uce-nt-astraltree-3-contract.tre 45 3 .0667
+
+uce-nt/uce-nt-astraltree-5-contract.tre uce-nt/uce-nt-astraltree-5-contract.tre 45 0 0
+
+uce-nt/uce-nt-astraltree-5-contract.tre uce-nt/uce-nt-astraltree.tre 45 5 .1111
+
+uce-nt/uce-nt-astraltree.tre [combined] 
+uce-nt/uce-nt-astraltree.tre combined/combined-combined-astraltree-5-contract.tre 45 3 .0667
+
+uce-nt/uce-nt-astraltree.tre combined/combined-indel/combined-indel-astraltree-5-contract.tre 45 8 .1778
+
+uce-nt/uce-nt-astraltree.tre combined/combined-intron/combined-intron-astraltree-5-contract.tre 45 5 .1111
+
+uce-nt/uce-nt-astraltree.tre combined/combined-nt/combined-nt-astraltree-5-contract.tre 45 3 .0667
+
+uce-nt/uce-nt-astraltree.tre combined/combined-uce/combined-uce-astraltree-5-contract.tre 45 2 .0444
+
+uce-nt/uce-nt-astraltree.tre [intron-indel] 
+uce-nt/uce-nt-astraltree.tre intron-indel/intron-indel-astraltree-0-contract.tre 45 8 .1778
+
+uce-nt/uce-nt-astraltree.tre intron-indel/intron-indel-astraltree-10-contract.tre 45 7 .1556
+
+uce-nt/uce-nt-astraltree.tre intron-indel/intron-indel-astraltree-20-contract.tre 45 8 .1778
+
+uce-nt/uce-nt-astraltree.tre intron-indel/intron-indel-astraltree-33-contract.tre 45 7 .1556
+
+uce-nt/uce-nt-astraltree.tre intron-indel/intron-indel-astraltree-3-contract.tre 45 7 .1556
+
+uce-nt/uce-nt-astraltree.tre intron-indel/intron-indel-astraltree-5-contract.tre 45 7 .1556
+
+uce-nt/uce-nt-astraltree.tre intron-indel/intron-indel-astraltree.tre 45 9 .2
+
+uce-nt/uce-nt-astraltree.tre [intron-nt] 
+uce-nt/uce-nt-astraltree.tre intron-nt/intron-nt-astraltree-0-contract.tre 45 4 .0889
+
+uce-nt/uce-nt-astraltree.tre intron-nt/intron-nt-astraltree-10-contract.tre 45 5 .1111
+
+uce-nt/uce-nt-astraltree.tre intron-nt/intron-nt-astraltree-20-contract.tre 45 4 .0889
+
+uce-nt/uce-nt-astraltree.tre intron-nt/intron-nt-astraltree-33-contract.tre 45 6 .1333
+
+uce-nt/uce-nt-astraltree.tre intron-nt/intron-nt-astraltree-3-contract.tre 45 4 .0889
+
+uce-nt/uce-nt-astraltree.tre intron-nt/intron-nt-astraltree-5-contract.tre 45 4 .0889
+
+uce-nt/uce-nt-astraltree.tre intron-nt/intron-nt-astraltree.tre 45 6 .1333
+
+uce-nt/uce-nt-astraltree.tre [uce-indel] 
+uce-nt/uce-nt-astraltree.tre uce-indel/uce-indel-astraltree-0-contract.tre 45 13 .2889
+
+uce-nt/uce-nt-astraltree.tre uce-indel/uce-indel-astraltree-10-contract.tre 45 12 .2667
+
+uce-nt/uce-nt-astraltree.tre uce-indel/uce-indel-astraltree-20-contract.tre 45 8 .1778
+
+uce-nt/uce-nt-astraltree.tre uce-indel/uce-indel-astraltree-33-contract.tre 45 9 .2
+
+uce-nt/uce-nt-astraltree.tre uce-indel/uce-indel-astraltree-3-contract.tre 45 14 .3111
+
+uce-nt/uce-nt-astraltree.tre uce-indel/uce-indel-astraltree-5-contract.tre 45 10 .2222
+
+uce-nt/uce-nt-astraltree.tre uce-indel/uce-indel-astraltree.tre 45 13 .2889
+
+uce-nt/uce-nt-astraltree.tre [uce-nt] 
+uce-nt/uce-nt-astraltree.tre uce-nt/uce-nt-astraltree-0-contract.tre 45 2 .0444
+
+uce-nt/uce-nt-astraltree.tre uce-nt/uce-nt-astraltree-10-contract.tre 45 2 .0444
+
+uce-nt/uce-nt-astraltree.tre uce-nt/uce-nt-astraltree-20-contract.tre 45 3 .0667
+
+uce-nt/uce-nt-astraltree.tre uce-nt/uce-nt-astraltree-33-contract.tre 45 3 .0667
+
+uce-nt/uce-nt-astraltree.tre uce-nt/uce-nt-astraltree-3-contract.tre 45 2 .0444
+
+uce-nt/uce-nt-astraltree.tre uce-nt/uce-nt-astraltree-5-contract.tre 45 5 .1111
+
+uce-nt/uce-nt-astraltree.tre uce-nt/uce-nt-astraltree.tre 45 0 0
+

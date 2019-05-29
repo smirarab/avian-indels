@@ -28,3 +28,8 @@ The instruction use other tools, including,
 ### `draw-figures.R`
 
 Includes scripts used to draw most figures of the paper (using ggplot2 package of R)
+
+
+## Stat files
+
+Stat files used by `draw-figures.R` and produxed by `commands.sh` are also included here for completeness 
