@@ -44,3 +44,6 @@ The folder `species` includes all the species trees reported in this study. Each
 - See [names-common-2.csv](names-common-2.csv) for mapping to common names 
 - See [clade-defs.txt](clade-defs.txt) and [annotation.txt](annotation.txt) for mapping to clade names used in the meta table
 
+## Gene Trees
+
+The folder [genetrees](genetrees) includes all the gene trees used in the paper. We also include shuffled gene trees used to compute RF among random pair of gene trees. 
