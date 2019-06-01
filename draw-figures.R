@@ -1,5 +1,6 @@
 require(ggplot2)
 require(scales)
+require(reshape2)
 
 
 ################### RF among gene trees
@@ -73,4 +74,14 @@ ggplot(aes(x=factor(V3,levels=levels(q$V3)[c(7,1,4,6,2,3,5)]),color=V1,linetype=
  ggsave("quartet-score.pdf",width=4.2,height=3.7)
 
 
+######### Compatibility table
+
+c=read.csv("compatibility-intron-indel-nt-all.stat",sep=" ",head=F)
+recast(formula=V2==V3-1~V1,measure.var="V4",data=c,fun.a=function(x)mean(x))
+recast(formula=V2==V3-1~V1,measure.var="V4",data=c,fun.a=function(x)sd(x))
+recast(formula=V2==V3-1~V1,measure.var="V4",data=c) #Check counts
+recast(formula=V2==V3-1~V1,measure.var="V4",data=c,fun.a=function(x)summary(x)[1])
+recast(formula=V2==V3-1~V1,measure.var="V4",data=c,fun.a=function(x)summary(x)[3])
+recast(formula=V2==V3-1~V1,measure.var="V4",data=c,fun.a=function(x)summary(x)[4])
+recast(formula=V2==V3-1~V1,measure.var="V4",data=c,fun.a=function(x)summary(x)[5])
 
