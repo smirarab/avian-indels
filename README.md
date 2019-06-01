@@ -36,6 +36,9 @@ Stat files used by [draw-figures.R](draw-figures.R) and produced by [commands.sh
 * RF-indel-indel-withlabels.stat, RF-indel-indel.stat, RF-nt-nt-withlabels.stat, RF-nt-nt.stat, and RF.stat (for nti-indel (same locus)): RF distances between pairs of gene trees
 * RF.stats: RF distance between pairs of species trees
 * qscore.stat: quartet scores of species trees
+* nwstats.txt: stats on contracted gene trees
+* bootstrap.stats: stats on bootstrap of gene trees
+
 
 
 ## Species Trees
