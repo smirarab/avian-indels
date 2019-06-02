@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/189260858.svg)](https://zenodo.org/badge/latestdoi/189260858)
+
 # avian-indels
 
 Code and data from the paper on analyses of avian indels. 
