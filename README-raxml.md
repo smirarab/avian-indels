@@ -3,7 +3,7 @@
 ##  UCE  Gene Trees
 
 
-```
+```bash
 for file in *.phy
 do
         raxmlHPC-PTHREADS-SSE3_WA -T 4 -s $file -m ASC_BINGAMMA -n $file.bestml.out --asc-corr=lewis --no-seq-check -p 12345 -N 10&
@@ -16,7 +16,7 @@ done
 ## 2) Intron Gene Trees
 
 
-```
+```bash
 for file in *.phy
 do
         raxmlHPC-PTHREADS-SSE3_WA -T 4 -s $file -m ASC_BINGAMMA -n $file.bestml.out --asc-corr=lewis --no-seq-check -p 12345 -N 10&
