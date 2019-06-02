@@ -19,13 +19,13 @@ The folder [genetrees](genetrees) includes all the gene trees used in the paper.
 
 ### Species Trees
 
-The folder `species` includes all the species trees reported in this study. 
+- The folder [species](species) includes all the species trees reported in this study. 
 Each folder names corresponds to a tree, and a single newick file is given inside each folder for each species tree. 
-- This file structure is what DiscoVista takes as input for generating the Meta Table. 
-- See [newModel.txt](newModel.txt) for mapping between folder names and names that appear in the meta table. 
-- See [names-common-2.csv](names-common-2.csv) for mapping to common names 
-- See [clade-defs.txt](clade-defs.txt) and [annotation.txt](annotation.txt) for mapping to clade names used in the meta table
-
+This file structure is what DiscoVista takes as input for generating the Meta Table. 
+    - See [newModel.txt](newModel.txt) for mapping between folder names and names that appear in the meta table. 
+    - See [names-common-2.csv](names-common-2.csv) for mapping to common names 
+    - See [clade-defs.txt](clade-defs.txt) and [annotation.txt](annotation.txt) for mapping to clade names used in the meta table
+    - See [newTaxa.txt](newTaxa.txt) for mapping between names in clade definition file and names that appear in the meta table. 
 - Folder [polytomytest](polytomytest) includes all the trees with the polytomy test applied. 
 
 
@@ -44,7 +44,7 @@ Stat files used by [draw-figures.R](draw-figures.R) and produced by [commands.sh
 
 ### [commands.sh](commands.sh)
 
-This script includes all the unix instructions we used to manipulate data, including, 
+This script includes the .nix instructions we used to manipulate data, including, 
 
 * Contracting low support branches
 * Combining gene trees
@@ -76,7 +76,7 @@ Scripts for indel encoding are described in more detail [here](README-coding.md)
 
 RAxML commands used for inferring gene trees from indel data.
 
-### [PAUP commands](PAUP-readme.txt)
+### [PAUP commands](PAUP-readme.md)
 
 Scripts for computing RI using  PAUP. 
 
