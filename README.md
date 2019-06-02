@@ -32,9 +32,13 @@ The commands in this file use other tools, including,
 Includes scripts used to draw most figures of the paper (using ggplot2 package of R)
 
 
-### Indel encoding. 
+### [Indel encoding](README-coding.md) 
 
 Scripts for indel encoding are described in more detail [here](README-coding.md).
+
+### [RAxML commands](README-raxml.md)
+
+RAxML commands used for inferring gene trees from indel data.
 
 ## Stat files
 
