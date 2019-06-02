@@ -48,12 +48,10 @@ for c in 0 3 5 10 20 33; do
 done
 
 
-#for c in 0 3 5 10 20 33; do
-#	java -jar $ASTRALDIR/Astral/astral.5.6.1.jar -i intron-combined-genetrees-$c-contract.tre -o intron-combined--astraltree-$c-contract.tre 2> intron-combined--astraltree-$c-contract.log & 
-#done
-
 java -jar $ASTRALDIR/Astral/astral.5.6.1.jar -i intron-combined-genetrees-5-contract.tre -o intron-combined-astraltree-5-contract.tre -w2 2> intron-combined-astraltree-5-contract.log  ## Note; this was originally run by mistake with no -w2. Mistake was caught and fixed later. Be aware. 
 java -jar $ASTRALDIR/Astral/astral.5.6.1.jar -i uce-combined-genetrees-5-contract.tre -o uce-combined-astraltree-5-contract.tre -w2 2> uce-combined-astraltree-5-contract.log
+java -jar $ASTRALDIR/Astral/astral.5.6.1.jar -i combined-indel-genetrees-5-contract.tre -o combined-indel-astraltree-5-contract.tre 2> combined-indel-astraltree-5-contract.log
+java -jar $ASTRALDIR/Astral/astral.5.6.1.jar -i combined-nt-genetrees-5-contract.tre -o combined-nt-astraltree-5-contract.tre 2> combined-nt-astraltree-5-contract.log
 java -jar $ASTRALDIR/Astral/astral.5.6.1.jar -i combined-combined-genetrees-5-contract.tre -o combined-combined-asltraltree-5-contract.tre -w2 2> combined-combined-asltraltree-5-contract.log & 
 
 ################################################### score for polytomies
@@ -78,7 +76,6 @@ done
 
 ################################################### Cleanup logs
 sed -i '/Warning:/d' *.log    # astral.5.6.1 adds a spurious warning that should be removed; it makes the log files long otherwise
-
 
 
 ################################################### RF distance
