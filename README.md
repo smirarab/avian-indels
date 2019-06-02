@@ -40,6 +40,10 @@ Scripts for indel encoding are described in more detail [here](README-coding.md)
 
 RAxML commands used for inferring gene trees from indel data.
 
+### [PAUP commands](PAUP-readme.txt)
+
+Scripts for running PAUP. 
+
 ## Stat files
 
 Stat files used by [draw-figures.R](draw-figures.R) and produced by [commands.sh](commands.sh) are also included here for completeness 
