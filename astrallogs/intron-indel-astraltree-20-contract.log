@@ -1,0 +1,75 @@
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.11
+Gene trees are treated as unrooted
+2515 trees read from intron-indel-genetrees-20-contract.tre
+All output trees will be *arbitrarily* rooted at MELGA
+
+======== Running the main analysis
+Number of taxa: 48 (48 species)
+Taxa: [MELGA, ANAPL, NIPNI, EGRGA, TAUER, FULGL, CUCCA, CATAU, FALPE, ACACH, MANVI, CORBR, GEOFO, TAEGU, MERNU, PICPU, CARCR, TYTAL, LEPDI, COLST, APAVI, NESNO, MELUN, HALLE, HALAL, BUCRH, PHORU, PODCR, PHALE, EURHE, PTEGU, MESUN, PELCR, BALRE, CAPCA, CHAVO, COLLI, CHAPE, CALAN, OPHHO, GAVST, PYGAD, APTFO, CHLUN, STRCA, TINMA, GALGA, PHACA]
+Taxon occupancy: {FULGL=2393, ANAPL=2392, COLLI=2419, MESUN=2315, TAUER=2339, HALAL=2363, PHALE=2364, GALGA=2514, BUCRH=2314, TINMA=2255, MELUN=2375, PYGAD=2463, MELGA=2283, TYTAL=2365, PHORU=2359, COLST=2244, CALAN=2411, NESNO=2365, STRCA=2411, TAEGU=1963, PODCR=2310, GAVST=2369, MERNU=2296, APAVI=2314, NIPNI=2474, CAPCA=2334, FALPE=2463, BALRE=2407, CHAPE=2422, PTEGU=2344, PELCR=2332, CORBR=2423, CATAU=2077, CHAVO=2482, PICPU=2279, EGRGA=2460, EURHE=2301, CARCR=2362, PHACA=2377, OPHHO=2426, CHLUN=2366, GEOFO=2413, LEPDI=2387, MANVI=2399, ACACH=2285, APTFO=2477, CUCCA=2430, HALLE=2411}
+Number of gene trees: 2515
+2186 trees have missing taxa
+Calculating quartet distance matrix (for completion of X)
+Species tree distances calculated ...
+Will attempt to complete bipartitions from X before adding using a distance matrix.
+Building set of clusters (X) from gene trees 
+------------------------------
+gradient0: 97783
+Number of Clusters after addition by distance: 97783
+calculating extra bipartitions to be added at level 1 ...
+Adding to X using resolutions of greedy consensus ...
+Limit for sigma of degrees:1250
+polytomy size limit : 28
+discarded polytomies: 33 34  [3, 5, 5, 8, 10, 20, 28, 33, 34]
+Threshold 0.0:
+polytomy of size 3; rounds with additions with at least 5 support: 1; clusters: 97787
+Threshold 0.01:
+polytomy of size 5; rounds with additions with at least 5 support: 0; clusters: 97787
+polytomy of size 8; rounds with additions with at least 5 support: 0; clusters: 97837
+Threshold 0.02:
+polytomy of size 5; rounds with additions with at least 5 support: 0; clusters: 97837
+polytomy of size 10; rounds with additions with at least 5 support: 0; clusters: 97931
+Threshold 0.05:
+polytomy of size 20; rounds with additions with at least 5 support: 0; clusters: 97931
+Threshold 0.1:
+polytomy of size 28; rounds with additions with at least 5 support: 0; clusters: 97931
+Threshold 0.2:
+polytomy of size 33; rounds with additions with at least 5 support: 0; clusters: 97933
+Threshold 0.3333333333333333:
+polytomy of size 34; rounds with additions with at least 5 support: 0; clusters: 97933
+max k is :2
+Number of Clusters after addition by greedy: 97933
+gradient0 in heuristiic: 97933
+partitions formed in 25.809 secs
+Dynamic Programming starting after 25.809 secs
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 159334812
+Polytree building time: 0.308 seconds.
+Number of quartet trees in the gene trees: 159334812
+Size of largest cluster: 48
+Greedy score: 105865442
+estimationFactor: 1.5050691612849452
+Calculated 100000 weights; time (seconds): 611
+Calculated 200000 weights; time (seconds): 568
+Sub-optimal score: 109694299
+Calculated 300000 weights; time (seconds): 609
+Calculated 400000 weights; time (seconds): 582
+Calculated 500000 weights; time (seconds): 601
+Calculated 600000 weights; time (seconds): 574
+Calculated 700000 weights; time (seconds): 487
+Calculated 800000 weights; time (seconds): 433
+Calculated 900000 weights; time (seconds): 420
+Total Number of elements weighted: 955483
+Normalized score (portion of input quartet trees satisfied before correcting for multiple individuals): 0.7012460842518207
+Optimization score: 111732913
+Optimal tree inferred in 5103.753 secs.
+(APAVI,((BUCRH,(MERNU,PICPU)),(LEPDI,((COLST,(CARCR,(FALPE,((NESNO,MELUN),(ACACH,(MANVI,(CORBR,(GEOFO,TAEGU)))))))),((TYTAL,(CATAU,(HALLE,HALAL))),((OPHHO,(PHALE,EURHE)),((BALRE,CHAVO),((CAPCA,(CHAPE,CALAN)),((GAVST,((FULGL,(PYGAD,APTFO)),(PHACA,(EGRGA,(NIPNI,PELCR))))),((CUCCA,(TAUER,CHLUN)),(((PHORU,PODCR),(COLLI,(PTEGU,MESUN))),((STRCA,TINMA),(ANAPL,(MELGA,GALGA))))))))))))));
+Final quartet score is: 111732913
+Final normalized quartet score is: 0.7012460842518207
+(MELGA,(GALGA,(ANAPL,((STRCA,TINMA)1:3.293118481296228,(((PHORU,PODCR)1:2.27075010460314,(COLLI,(PTEGU,MESUN)1:0.3644375044463275)0.73:0.028926775844876025)1:0.08204703223185232,((CUCCA,(TAUER,CHLUN)0.54:0.016717440667885653)0.99:0.07602580881871002,((GAVST,((FULGL,(PYGAD,APTFO)1:4.725135451487601)1:0.3246290091262013,(PHACA,(EGRGA,(NIPNI,PELCR)0.9:0.05022543546201432)1:0.21748554599392336)1:0.23815890196467157)1:0.46282784356177625)1:0.533209834969369,((CAPCA,(CHAPE,CALAN)1:1.941650952359271)1:0.61004022639931,((BALRE,CHAVO)0.88:0.043376427434584204,((OPHHO,(PHALE,EURHE)1:0.3331155593835548)0.52:0.014010635039329254,((TYTAL,(CATAU,(HALLE,HALAL)1:6.139216043474605)1:0.3945659552735686)1:0.1658116618264081,((COLST,(CARCR,(FALPE,((NESNO,MELUN)1:4.812870302224196,(ACACH,(MANVI,(CORBR,(GEOFO,TAEGU)1:2.3515227283376285)1:3.554872382453842)1:0.8341735438251477)1:4.023239497562518)1:0.2101187457367224)1:0.15166648881159214)1:0.1887408010958456)0.43:0.012737215159235371,(LEPDI,((BUCRH,(MERNU,PICPU)1:0.17558842405562353)1:0.18647314024800354,APAVI)0.99:0.08805481767424383)1:0.21064405400134462)0.78:0.046615489155254874)1:0.9226653548055416)0.68:0.02639309172166264)0.54:0.015617238931379812)0.46:0.010112806164919177)0.72:0.028250133822831366)0.87:0.04529325882184408)1:3.1469540962391602)1:1.9250191141620883)1:2.5554412568219997));
+Weight calculation took 4924.126817924 secs
+ASTRAL finished in 5107.044 secs

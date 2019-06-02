@@ -58,7 +58,7 @@ java -jar $ASTRALDIR/Astral/astral.5.6.1.jar -i combined-combined-genetrees-5-co
 
 ################################################### score for polytomies
 
-for d in introng-indel/intron-indel intron-nt/intron-nt uce-indel/uce-indel uce-nt/uce-nt; do 
+for d in intron-indel/intron-indel intron-nt/intron-nt uce-indel/uce-indel uce-nt/uce-nt; do 
 	for c in 0 3 5 10 20 33; do 
 		java -jar $ASTRALDIR/Astral/astral.5.6.1.jar -i $d-genetrees-$c-contract.tre -q $d-astraltree-$c-contract.tre -t10  -o $d-astraltree-$c-contract-polytometest.tre 2> $d-astraltree-$c-contract-polytometest.log &
 	done;

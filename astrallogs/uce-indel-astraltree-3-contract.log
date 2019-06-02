@@ -1,0 +1,83 @@
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.6.1
+Gene trees are treated as unrooted
+3679 trees read from uce-indel-genetrees-3-contract.tre
+All output trees will be *arbitrarily* rooted at STRCA
+
+======== Running the main analysis
+Number of taxa: 48 (48 species)
+Taxa: [STRCA, LEPDI, EGRGA, GALGA, MELGA, CALAN, MESUN, PELCR, APTFO, PYGAD, MELUN, NESNO, TAUER, FALPE, BUCRH, ACACH, CORBR, TAEGU, GEOFO, CUCCA, NIPNI, PHORU, PODCR, EURHE, TYTAL, HALLE, HALAL, PHACA, COLST, BALRE, CHAPE, MANVI, OPHHO, FULGL, CATAU, CARCR, APAVI, CAPCA, MERNU, PHALE, CHLUN, COLLI, PICPU, CHAVO, GAVST, ANAPL, PTEGU, TINMA]
+Taxon occupancy: {FULGL=3679, COLLI=3679, ANAPL=3678, MESUN=3679, GALGA=3674, TAUER=3679, HALAL=3678, PHALE=3679, BUCRH=3677, TINMA=3679, MELUN=3679, PYGAD=3679, MELGA=3679, PHORU=3678, TYTAL=3677, COLST=3679, CALAN=3679, STRCA=3679, NESNO=3679, TAEGU=3679, PODCR=3678, GAVST=3679, APAVI=3679, MERNU=3679, NIPNI=3679, CAPCA=3679, FALPE=3679, BALRE=3679, CHAPE=3679, PELCR=3679, PTEGU=3679, CORBR=3679, CATAU=3677, CHAVO=3679, PICPU=3678, EGRGA=3679, EURHE=3679, CARCR=3677, PHACA=3678, OPHHO=3679, CHLUN=3678, LEPDI=3679, GEOFO=3679, MANVI=3679, APTFO=3679, ACACH=3679, CUCCA=3679, HALLE=3678}
+Number of gene trees: 3679
+18 trees have missing taxa
+Calculating quartet distance matrix (for completion of X)
+Mem reserved
+Mem reserved. 2
+...............................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................BS set and saved
+Convert to species 
+Species tree distances calculated ...
+Will attempt to complete bipartitions from X before adding using a distance matrix.
+Building set of clusters (X) from gene trees 
+------------------------------
+gradient0: 229397
+Number of Clusters after addition by distance: 229397
+calculating extra bipartitions to be added at level 1 ...
+Adding to X using resolutions of greedy consensus ...
+Limit for sigma of degrees:1250
+polytomy size limit : 31
+discarded polytomies: 34 34 36  [3, 17, 19, 31, 34, 34, 36]
+Threshold 0.0:
+polytomy of size 3; rounds with additions with at least 5 support: 1; clusters: 229403
+Threshold 0.01:
+polytomy of size 17; rounds with additions with at least 5 support: 3; clusters: 230003
+Threshold 0.02:
+polytomy of size 19; rounds with additions with at least 5 support: 1; clusters: 230381
+Threshold 0.05:
+polytomy of size 31; rounds with additions with at least 5 support: 0; clusters: 230387
+Threshold 0.1:
+polytomy of size 34; rounds with additions with at least 5 support: 0; clusters: 230395
+Threshold 0.2:
+polytomy of size 34; rounds with additions with at least 5 support: 0; clusters: 230395
+Threshold 0.3333333333333333:
+polytomy of size 36; rounds with additions with at least 5 support: 0; clusters: 230399
+max k is :6
+Number of Clusters after addition by greedy: 230399
+gradient0 in heuristiic: 230399
+partitions formed in 52.579 secs
+Dynamic Programming starting after 52.579 secs
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 378340515
+Polytree building time: 0.956 seconds.
+Number of quartet trees in the gene trees: 378340515
+Size of largest cluster: 48
+Greedy score: 189578693
+estimationFactor: 1.9956911244239879
+Calculated 100000 weights; time (seconds): 464
+Calculated 200000 weights; time (seconds): 486
+Sub-optimal score: 207399617
+Calculated 300000 weights; time (seconds): 503
+Calculated 400000 weights; time (seconds): 493
+Calculated 500000 weights; time (seconds): 503
+Calculated 600000 weights; time (seconds): 509
+Calculated 700000 weights; time (seconds): 506
+Calculated 800000 weights; time (seconds): 430
+Calculated 900000 weights; time (seconds): 447
+Calculated 1000000 weights; time (seconds): 456
+Calculated 1100000 weights; time (seconds): 487
+Calculated 1200000 weights; time (seconds): 446
+Calculated 1300000 weights; time (seconds): 468
+Calculated 1400000 weights; time (seconds): 465
+Calculated 1500000 weights; time (seconds): 467
+Total Number of elements weighted: 1521375
+Normalized score (portion of input quartet trees satisfied before correcting for multiple individuals): 0.5635872779842254
+Optimization score: 213227901
+Optimal tree inferred in 7239.234 secs.
+(APAVI,((BUCRH,(MERNU,PICPU)),(LEPDI,((COLST,(FALPE,((MELUN,NESNO),(ACACH,(MANVI,(CORBR,(TAEGU,GEOFO))))))),((CARCR,(TYTAL,(CATAU,(HALLE,HALAL)))),(COLLI,(OPHHO,(((MESUN,PTEGU),((CAPCA,(CALAN,CHAPE)),((CUCCA,CHLUN),((STRCA,TINMA),(ANAPL,(GALGA,MELGA)))))),((PHORU,PODCR),(TAUER,((BALRE,CHAVO),((EURHE,PHALE),(GAVST,((FULGL,(APTFO,PYGAD)),(PHACA,(EGRGA,(PELCR,NIPNI)))))))))))))))));
+Final quartet score is: 213227901
+Final normalized quartet score is: 0.5635872779842254
+(STRCA,(TINMA,((ANAPL,(GALGA,MELGA)1:2.669063214468694)1:0.8731472897983892,((CUCCA,CHLUN)0.95:0.03623574228363488,((CAPCA,(CALAN,CHAPE)1:0.6746909774629533)1:0.24479921808343905,((MESUN,PTEGU)1:0.1641190113351697,(((PHORU,PODCR)1:0.8441951180184298,(TAUER,((BALRE,CHAVO)0.42:0.005156071491994044,((EURHE,PHALE)1:0.15246561068547212,(GAVST,((FULGL,(APTFO,PYGAD)1:2.3789599582839283)1:0.09856997274446196,(PHACA,(EGRGA,(PELCR,NIPNI)0.9:0.02852538110691457)1:0.07283547825173113)1:0.09489082607225807)1:0.1358963077021547)1:0.24434684803072154)0.7:0.022662625911883408)0.46:0.007671422463268806)0.46:0.014245618625806963)0.86:0.027559815740487683,(OPHHO,(COLLI,((CARCR,(TYTAL,(CATAU,(HALLE,HALAL)1:3.6357397514254988)1:0.1347485124478536)0.71:0.022563136728112627)0.54:0.021495806573302488,((COLST,(FALPE,((MELUN,NESNO)1:3.264551280741954,(ACACH,(MANVI,(CORBR,(TAEGU,GEOFO)1:1.1184569206694028)1:2.3211148771114476)1:0.41536046503648594)1:1.9803045427245358)1:0.10560451507891207)1:0.08968698299301146)0.44:0.008074910860872992,(LEPDI,((BUCRH,(MERNU,PICPU)1:0.09569335502175082)0.97:0.039874676336161076,APAVI)1:0.05722724624971431)1:0.06270750087452688)1:0.054575141084812796)1:0.40643381612540413)0.76:0.022475741989645658)0.08:0.0)0.56:0.011655167230001852)0.39:0.0028457866074298372)0.46:0.0066102776903024475)1:1.362674701990992)1:1.9056597586759776));
+Weight calculation took 6664.858063579 secs
+ASTRAL finished in 7242.902 secs
