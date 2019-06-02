@@ -1,14 +1,14 @@
-Scripts to perform indel coding
+# Scripts to perform indel coding
 
 This code should run in almost all *nix environments. We ran it on a Mac OS X (several
 versions, including v. 10.13). The goal of this code is to code indels and convert the 
 data into a format that is easy to use for analyses.
 
-The actual indel coding was performed by 2matrix, a perl program available from 
+The actual indel coding was performed by `2matrix`, a perl program available from 
 https://github.com/nrsalinas/2matrix
 
-The original code used 2xread, a precursor to 2matrix. This is why some of the pipeline
-refers to 2xread. It also assumes the directory structure from the Jarvis et al. data,
+The original code used `2xread`, a precursor to `2matrix`. This is why some of the pipeline
+refers to `2xread`. It also assumes the directory structure from the Jarvis et al. data,
 which can be downloaded from:
 
 ftp://parrot.genomics.cn/gigadb/pub/10.5524/101001_102000/101041/FASTA_files_of_loci_datasets/
@@ -17,10 +17,9 @@ NOTE that the Jarvis data is described in Jarvis, E. D., Mirarab, S., Aberer, A.
 Houde, P., Li, C., et al. (2015). Phylogenomic analyses data of the avian phylogenomics 
 project. GigaScience, 4(1), 4.
 
-### Programs:
+### For introns:
 
-#### introns:
-
+Programs used are 
 * code-individual-introns.pl
 * extract-intron.cpp
 * jarvis-taxa-authority.txt
@@ -75,7 +74,7 @@ To code all introns run multi-indel-code.smulti-indel-code.sh like this:
 (the numbers of are the intron locus numbers from Jarvis et al.)
 
 
-####  UCEs:
+###  UCEs:
 
 * code-individual-uce.pl
 * jarvis-taxa-authority.txt
